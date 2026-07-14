@@ -45,6 +45,17 @@ GitHub Actions 每天 09:00(台北)自動執行 `scripts/daily-jobs.mjs`:
 > 注:LinkedIn guest 端點有 rate limit、Indeed 有 Cloudflare 防護 — 這兩個來源
 > 屬 best-effort,失敗時信件仍會照常寄出並附深度連結。104 與 Yourator 最穩定。
 
+## 🌐 線上使用(推薦)
+
+repo 已內建 GitHub Pages 自動部署(`.github/workflows/pages.yml`)。**一次性啟用**:
+
+1. GitHub repo → **Settings → Pages → Build and deployment → Source** 選 **GitHub Actions**。
+2. 到 **Actions** 頁手動執行一次 **Deploy to GitHub Pages**(之後每次 push 都會自動部署)。
+3. 完成!網站常駐在 **https://wenhsuan0810.github.io/DreamJOB/**,手機、電腦直接開。
+
+每日職缺機器人 commit `data/latest.json` 時也會觸發重新部署,所以打開網站
+就能看到當天最新的 Top 10 榜單。
+
 ## Running the site
 
 純靜態網站 — 無 build、無依賴、無後端:
