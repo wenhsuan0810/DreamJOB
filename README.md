@@ -45,16 +45,35 @@ GitHub Actions 每天 09:00(台北)自動執行 `scripts/daily-jobs.mjs`:
 > 注:LinkedIn guest 端點有 rate limit、Indeed 有 Cloudflare 防護 — 這兩個來源
 > 屬 best-effort,失敗時信件仍會照常寄出並附深度連結。104 與 Yourator 最穩定。
 
-## 🌐 線上使用(推薦)
+## 🌐 線上使用(免費方案)
 
-repo 已內建 GitHub Pages 自動部署(`.github/workflows/pages.yml`)。**一次性啟用**:
+> ⚠️ GitHub Pages 在**私人 repo** 需要付費(GitHub Pro);以下兩條路都完全免費。
 
-1. GitHub repo → **Settings → Pages → Build and deployment → Source** 選 **GitHub Actions**。
-2. 到 **Actions** 頁手動執行一次 **Deploy to GitHub Pages**(之後每次 push 都會自動部署)。
-3. 完成!網站常駐在 **https://wenhsuan0810.github.io/DreamJOB/**,手機、電腦直接開。
+### 方案 A:把 repo 改成 Public(最簡單,全部留在 GitHub)
 
-每日職缺機器人 commit `data/latest.json` 時也會觸發重新部署,所以打開網站
-就能看到當天最新的 Top 10 榜單。
+repo 內不含任何個資 — 履歷全文只存在你的瀏覽器,`profile/profile.json`
+只有搜尋條件與關鍵字,收件 email 由 secret 設定,所以公開是安全的。
+
+1. Repo → **Settings → General** → 最下方 **Danger Zone → Change visibility → Make public**。
+2. **Settings → Pages → Build and deployment → Source** 選 **GitHub Actions**。
+3. **Actions** 頁手動執行一次 **Deploy to GitHub Pages**。
+4. 完成!網站常駐在 **https://wenhsuan0810.github.io/DreamJOB/**。
+   (公開 repo 的 Actions 分鐘數也不限量,每日寄信完全免費。)
+
+### 方案 B:repo 保持 Private,用 Cloudflare Pages 或 Netlify(免費支援私人 repo)
+
+**Cloudflare Pages**(推薦):
+1. 註冊 [pages.cloudflare.com](https://pages.cloudflare.com)(免費)→ **Create a project → Connect to Git**。
+2. 授權 GitHub、選 `DreamJOB` repo,分支選預設分支。
+3. Build settings 全部留空(無 build command,Output directory 填 `/`)→ **Save and Deploy**。
+4. 得到 `https://dreamjob-xxx.pages.dev` 網址;之後每次 push(含每日榜單更新)自動重新部署。
+
+**Netlify** 同理:[app.netlify.com](https://app.netlify.com) → Add new site → Import from Git
+→ 選 repo → build 留空、publish directory 填 `.`。
+
+每日職缺機器人 commit `data/latest.json` 時會觸發重新部署,所以無論哪個方案,
+打開網站就能看到當天最新的 Top 10 榜單。GitHub Actions 私人 repo 免費額度
+每月 2,000 分鐘,每日寄信任務約用 1–2 分鐘/天,綽綽有餘。
 
 ## Running the site
 

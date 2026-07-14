@@ -1,5 +1,4 @@
 {
-  "email": "wenhsuan0810@gmail.com",
   "searches": [
     {
       "keyword": "Product Manager",
@@ -18,5 +17,5 @@
     "analytics",
     "agile"
   ],
-  "_readme": "把 DreamJOB Profile 頁匯出的 profile.json 覆蓋此檔即可客製。keyword=搜尋關鍵字, area=104 地區碼(6001001000=台北), jobexp=104 年資碼(1/3/5/10/99), cvKeywords=你的 CV 關鍵字指紋(用於匹配度排序)。"
+  "_readme": "把 DreamJOB Profile 頁匯出的 profile.json 覆蓋此檔即可客製。keyword=搜尋關鍵字, area=104 地區碼(6001001000=台北), jobexp=104 年資碼(1/3/5/10/99), cvKeywords=你的 CV 關鍵字指紋(用於匹配度排序)。收件 email 不放這裡 — 由 GitHub secret MAIL_TO 設定,repo 公開也不會洩露。"
 }

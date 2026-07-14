@@ -27,10 +27,11 @@
   $("pfExportBtn").addEventListener("click", function () {
     var p = DJ.loadProfile();
     var cv = $("pfCv").value || p.cv || "";
-    // export search prefs + CV keyword fingerprint only — not the raw CV
+    // export search prefs + CV keyword fingerprint only — no raw CV, no email
+    // (the digest recipient comes from the MAIL_TO repo secret, so the file
+    // stays safe to commit even in a public repo)
     var kw = DJ.topKeywords(cv, 40).map(function (k) { return k.word; });
     var out = {
-      email: $("pfEmail").value.trim() || p.email || "",
       searches: [{
         keyword: $("pfRole").value.trim() || p.role || "",
         area: "",            // optional 104 area code, e.g. 6001001000 = Taipei
