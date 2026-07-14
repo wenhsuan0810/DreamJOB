@@ -14,6 +14,7 @@
     <a class="logo" href="index.html">Dream<span>JOB</span> 💼</a>
     <ul class="nav-links">
       <li><a href="index.html">Home</a></li>
+      <li><a href="profile.html">Profile</a></li>
       <li><a href="jobs.html" class="active">Job Search</a></li>
       <li><a href="cv.html">CV Doctor</a></li>
       <li><a href="interview.html">Interview Prep</a></li>
@@ -52,23 +53,55 @@
         </select>
       </div>
       <div>
+        <label for="jobCat">職務類別 Job category</label>
+        <select id="jobCat">
+          <option value="">Any</option>
+          <option value="software">軟體工程 Software Engineering</option>
+          <option value="data">資料/數據 Data & Analytics</option>
+          <option value="product">產品管理 Product Management</option>
+          <option value="design">設計 Design / UI-UX</option>
+          <option value="marketing">行銷 Marketing</option>
+          <option value="sales">業務/BD Sales & BD</option>
+          <option value="operations">營運/專案 Operations / PM</option>
+          <option value="finance">財會 Finance & Accounting</option>
+          <option value="hr">人資 Human Resources</option>
+          <option value="cs">客戶成功/客服 Customer Success</option>
+        </select>
+      </div>
+      <div>
+        <label for="industry">產業 Industry</label>
+        <select id="industry">
+          <option value="">Any</option>
+          <option value="tech">科技/軟體 Tech & Software</option>
+          <option value="semi">半導體 Semiconductor</option>
+          <option value="ecommerce">電商 E-commerce</option>
+          <option value="finance">金融 Finance / FinTech</option>
+          <option value="gaming">遊戲 Gaming</option>
+          <option value="healthcare">醫療生技 Healthcare / Biotech</option>
+          <option value="manufacturing">製造 Manufacturing</option>
+          <option value="retail">零售/消費品 Retail / FMCG</option>
+          <option value="media">媒體/廣告 Media / AdTech</option>
+          <option value="consulting">顧問 Consulting</option>
+        </select>
+      </div>
+      <div>
+        <label for="jobLevel">等級 Level</label>
+        <select id="jobLevel">
+          <option value="">Any</option>
+          <option value="intern">實習 Intern</option>
+          <option value="entry">初階 Entry (0–2y)</option>
+          <option value="mid">中階 Mid (2–5y)</option>
+          <option value="senior">資深 Senior (5–10y)</option>
+          <option value="manager">主管 Manager+</option>
+        </select>
+      </div>
+      <div>
         <label for="datePosted">Date posted</label>
         <select id="datePosted">
           <option value="">Any time</option>
           <option value="day">Past 24 hours</option>
           <option value="week">Past week</option>
           <option value="month">Past month</option>
-        </select>
-      </div>
-      <div>
-        <label for="expLevel">Experience level (LinkedIn)</label>
-        <select id="expLevel">
-          <option value="">Any</option>
-          <option value="1">Internship</option>
-          <option value="2">Entry level</option>
-          <option value="3">Associate</option>
-          <option value="4">Mid-Senior level</option>
-          <option value="5">Director</option>
         </select>
       </div>
       <div>
@@ -128,6 +161,50 @@
     <div id="recentSearches"><p class="empty-state">No searches yet — your last 8 searches will appear here for one-click reuse.</p></div>
   </section>
 
+  <section class="section card hidden" id="digestCard">
+    <h2>📡 今日市場最新職缺 Daily digest</h2>
+    <p class="muted small" id="digestMeta" style="margin-bottom:14px;"></p>
+    <div id="digestList"></div>
+    <p class="muted small" style="margin-top:12px;">
+      由 GitHub Actions 每日 09:00(台北)自動抓取 104 / LinkedIn / Yourator / Indeed 並依你的
+      CV 關鍵字排序;同一份 Top 10 也會寄到你的 email。設定方式見
+      <a href="profile.html">Profile</a> 頁。
+    </p>
+  </section>
+
+  <section class="section card">
+    <h2>🎯 職缺配對 Job match vs. your CV</h2>
+    <p class="muted small" style="margin-bottom:16px;">
+      從 LinkedIn / 104 / Indeed 把感興趣職缺的 JD 貼進來,立即算出與你
+      <a href="profile.html">Profile CV</a> 的匹配度、缺少的 ATS 關鍵字,以及針對該 JD 的
+      CV wording 優化建議(Google XYZ formula)。職缺會依匹配度排序。
+    </p>
+    <div id="matchCvWarning" class="finding hidden">
+      <div class="f-icon">⚠️</div>
+      <div class="f-body"><strong>還沒有 CV</strong>先到 <a href="profile.html">Profile</a> 貼上履歷,才能計算匹配度。</div>
+    </div>
+    <div class="form-row">
+      <div>
+        <label for="mjTitle">職缺名稱 Job title *</label>
+        <input type="text" id="mjTitle" placeholder="e.g. Senior Product Manager" />
+      </div>
+      <div>
+        <label for="mjCompany">公司 Company</label>
+        <input type="text" id="mjCompany" placeholder="e.g. Acme Inc." />
+      </div>
+      <div>
+        <label for="mjUrl">職缺連結 URL</label>
+        <input type="url" id="mjUrl" placeholder="https://..." />
+      </div>
+    </div>
+    <div class="form-field">
+      <label for="mjJd">職缺描述 JD 全文 *</label>
+      <textarea id="mjJd" style="min-height:140px;" placeholder="貼上 JD 全文(工作內容 + 條件要求)..."></textarea>
+    </div>
+    <button class="btn small" id="mjAddBtn">＋ 加入並計算匹配度</button>
+    <div id="matchList" style="margin-top:20px;"></div>
+  </section>
+
   <section class="section card">
     <h2>📋 Application tracker</h2>
     <p class="muted small" style="margin-bottom:16px;">Log every job you apply to and keep the pipeline visible. Stored locally in your browser.</p>
@@ -176,6 +253,7 @@
   </div>
 </footer>
 
+<script src="assets/match.js"></script>
 <script src="assets/jobs.js"></script>
 </body>
 </html>

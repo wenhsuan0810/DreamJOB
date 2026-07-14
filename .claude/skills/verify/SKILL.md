@@ -38,6 +38,22 @@ Launch Chromium with `executablePath: '/opt/pw-browsers/chromium'`
 
 Collect `console`/`pageerror` events on every page — the bar is zero errors.
 
+- **profile.html** — fill `#pfCv`/`#pfRole`, click `#pfSaveBtn`, reload → values persist
+  (key `dreamjob.profile`). All pages read the CV from here via `DJ.loadProfile()`.
+- **jobs.html match basket** — fill `#mjTitle` + `#mjJd`, click `#mjAddBtn` → `.pill` shows
+  匹配度 %, expanding shows hit/miss chips + XYZ suggestions. Digest section `#digestCard`
+  only appears when `data/latest.json` exists (generate via the mock harness below).
+- **cv.html letters** — fill `#clCompany`/`#clRole`, `#genLetterBtn` → `#letterOutput` filled;
+  `[data-letter="reco"]` + `#clLang`=zh for the Chinese recommendation letter.
+- **interview.html JD flow** — fill `#ivJd`, click `#ivAnalyzeBtn` → 8–10 `#predictedList`
+  items + `#weaknessList` cards (needs profile CV). BEAT: `#beatFromCvBtn` pulls quantified
+  CV lines; `#beatGenBtn` outputs zh+en scripts.
+- **scripts/daily-jobs.mjs** — 104/LinkedIn/Yourator/Indeed are proxy-blocked in this sandbox;
+  test the pipeline with a mock-fetch harness that stubs `globalThis.fetch` before
+  `import`ing the script (see scratchpad `test-daily.mjs` pattern), then check
+  `out/email.html` + `data/latest.json`. Real fetches only work on GitHub Actions
+  (`workflow_dispatch` the "Daily Top 10 Jobs" workflow).
+
 ## Gotchas
 
 - localStorage keys: `dreamjob.recentSearches`, `dreamjob.applications`,

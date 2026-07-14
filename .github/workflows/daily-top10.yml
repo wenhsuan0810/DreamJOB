@@ -1,0 +1,46 @@
+name: Daily Top 10 Jobs
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # 09:00 Asia/Taipei
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch jobs from 104 / LinkedIn / Yourator / Indeed
+        run: node scripts/daily-jobs.mjs
+
+      - name: Read email subject
+        id: subject
+        run: echo "subject=$(cat out/subject.txt)" >> "$GITHUB_OUTPUT"
+
+      - name: Commit data/latest.json (renders on the website)
+        run: |
+          git config user.name "dreamjob-bot"
+          git config user.email "actions@github.com"
+          git add data/latest.json
+          git diff --cached --quiet || git commit -m "chore: daily job digest $(date -u +%F)"
+          git push
+
+      - name: Send email
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: ${{ steps.subject.outputs.subject }}
+          to: ${{ secrets.MAIL_TO }}
+          from: DreamJOB <${{ secrets.MAIL_USERNAME }}>
+          html_body: file://out/email.html

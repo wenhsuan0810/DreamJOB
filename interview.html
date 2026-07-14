@@ -14,6 +14,7 @@
     <a class="logo" href="index.html">Dream<span>JOB</span> 💼</a>
     <ul class="nav-links">
       <li><a href="index.html">Home</a></li>
+      <li><a href="profile.html">Profile</a></li>
       <li><a href="jobs.html">Job Search</a></li>
       <li><a href="cv.html">CV Doctor</a></li>
       <li><a href="interview.html" class="active">Interview Prep</a></li>
@@ -22,9 +23,115 @@
 </header>
 
 <main class="container">
-  <h1>🎤 Interview Preparation</h1>
-  <p class="subtitle">Browse the question bank with answer strategies, drill yourself in timed
-  practice mode, structure your stories with STAR, and run the checklist before the big day.</p>
+  <h1>🎤 Interview Preparation 面試準備</h1>
+  <p class="subtitle">貼上目標職缺 JD:預測面試題、產生 BEAT 自我介紹、找出弱點題與可轉移能力,
+  再用計時練習模式實戰演練 — 中英文皆可。</p>
+
+  <!-- JD-driven preparation -->
+  <section class="section card">
+    <h2>🎯 針對目標職缺準備 Prepare for a specific JD</h2>
+    <p class="muted small" style="margin-bottom:14px;">
+      貼上 JD 並按「分析」,下方會自動產生:預測面試題(含 STAR 答題要點)、弱點題預備、以及與你
+      <a href="profile.html">Profile CV</a> 對照的可轉移能力。
+    </p>
+    <div class="form-row">
+      <div>
+        <label for="ivCompany">公司 Company</label>
+        <input type="text" id="ivCompany" placeholder="e.g. Acme Inc." />
+      </div>
+      <div>
+        <label for="ivRole">職缺 Role</label>
+        <input type="text" id="ivRole" placeholder="e.g. Senior Product Manager" />
+      </div>
+      <div>
+        <label for="ivLang">語言 Language</label>
+        <select id="ivLang">
+          <option value="zh">中文</option>
+          <option value="en">English</option>
+        </select>
+      </div>
+    </div>
+    <div class="form-field">
+      <label for="ivJd">職缺描述 JD 全文</label>
+      <textarea id="ivJd" style="min-height:140px;" placeholder="貼上 JD 全文..."></textarea>
+    </div>
+    <button class="btn" id="ivAnalyzeBtn">🔮 分析 JD,產生預測題與準備重點</button>
+  </section>
+
+  <!-- predicted questions -->
+  <section class="section card hidden" id="predictedCard">
+    <h2>🔮 預測面試題 Predicted questions(8–10 題)</h2>
+    <p class="muted small" style="margin-bottom:14px;">依 JD 內容推斷的 behavioral / situational 題目,每題附 STAR 答題要點。點開逐題準備,並在計時練習模式中演練。</p>
+    <div id="predictedList"></div>
+  </section>
+
+  <!-- weakness prep -->
+  <section class="section card hidden" id="weaknessCard">
+    <h2>🛡️ 弱點題預備 Weakness prep — 可轉移能力</h2>
+    <p class="muted small" style="margin-bottom:14px;">
+      JD 要求但你 CV 中沒有出現的關鍵字 — 面試官很可能追問。別硬拗,用「可轉移能力」框架回答:
+      承認差距 → 指出最相近的實戰經驗 → 說明你如何快速補上。
+    </p>
+    <div id="weaknessList"></div>
+  </section>
+
+  <!-- BEAT self intro -->
+  <section class="section card">
+    <h2>🎬 自我介紹產生器 — BEAT 架構</h2>
+    <p class="muted small" style="margin-bottom:14px;">
+      <strong>B</strong>ackground(背景)→ <strong>E</strong>xperience(經歷)→
+      <strong>A</strong>chievement(亮點成就)→ <strong>T</strong>ype of person(我是什麼樣的人)。
+      填入四段素材,依目標公司的痛點客製你的亮點;產出需與 CV 和 Cover Letter 一致。
+    </p>
+    <div class="form-row">
+      <div>
+        <label for="beatCompany">目標公司 + 職缺</label>
+        <input type="text" id="beatCompany" placeholder="e.g. Acme Inc. — Senior PM" />
+      </div>
+      <div>
+        <label for="beatPain">該職缺/公司的痛點(從 JD 或新聞推斷)</label>
+        <input type="text" id="beatPain" placeholder="e.g. 需要有人把混亂的跨部門流程建立起來" />
+      </div>
+    </div>
+    <div class="grid grid-2">
+      <div class="form-field">
+        <label for="beatB">B — Background 背景(1–2 句:你是誰、專業定位)</label>
+        <textarea id="beatB" style="min-height:70px;" placeholder="e.g. 我是有 6 年經驗的產品經理,專注於 B2B SaaS..."></textarea>
+      </div>
+      <div class="form-field">
+        <label for="beatE">E — Experience 經歷(與 JD 最相關的 1–2 段)</label>
+        <textarea id="beatE" style="min-height:70px;" placeholder="e.g. 最近三年在 TechCorp 負責供應鏈產品線..."></textarea>
+      </div>
+      <div class="form-field">
+        <label for="beatA">A — Achievement 亮點成就(要對準左邊填的痛點!)
+          <button class="btn small secondary" id="beatFromCvBtn" style="margin-left:8px;">從 CV 抓量化成就</button></label>
+        <textarea id="beatA" style="min-height:70px;" placeholder="e.g. 把跨 4 個部門的需求流程從 3 週縮到 5 天..."></textarea>
+      </div>
+      <div class="form-field">
+        <label for="beatT">T — Type of person 我是什麼樣的人(收尾 + 為何是你)</label>
+        <textarea id="beatT" style="min-height:70px;" placeholder="e.g. 我是喜歡把模糊問題變成清楚計畫的人..."></textarea>
+      </div>
+    </div>
+    <div style="display:flex;gap:12px;flex-wrap:wrap;">
+      <button class="btn" id="beatGenBtn">✨ 產生中英文自我介紹</button>
+      <button class="btn secondary" id="beatCopyBtn" disabled>📋 複製</button>
+    </div>
+    <div class="form-field" style="margin-top:16px;">
+      <label for="beatOutput">產出(90 秒版本,可直接編輯;自動存檔)</label>
+      <textarea id="beatOutput" style="min-height:220px;" placeholder="按「產生」後,中英文兩個版本會出現在這裡。"></textarea>
+    </div>
+  </section>
+
+  <!-- reverse questions -->
+  <section class="section card">
+    <h2>❓ 反問面試官 Questions to ask(選 3–5 題)</h2>
+    <p class="muted small" style="margin-bottom:14px;">面試尾聲一定會被問「你有什麼問題想問我們?」。勾選 3–5 題帶進場,按複製直接存到手機備忘錄。</p>
+    <div id="reverseList"></div>
+    <div style="margin-top:14px;display:flex;gap:12px;align-items:center;flex-wrap:wrap;">
+      <button class="btn small" id="reverseCopyBtn">📋 複製已勾選(<span id="reverseCount">0</span>)</button>
+      <span class="muted small">建議 3–5 題;最後一題永遠問時程 next steps。</span>
+    </div>
+  </section>
 
   <!-- STAR method -->
   <section class="section card">
@@ -72,7 +179,7 @@
           <option value="classic">Classic / HR</option>
           <option value="behavioral">Behavioral (STAR)</option>
           <option value="technical">Technical & problem solving</option>
-          <option value="ask">Questions to ask them</option>
+          <option value="predicted">🔮 JD 預測題 Predicted</option>
         </select>
       </div>
       <div>
@@ -81,6 +188,13 @@
           <option value="60">1 minute</option>
           <option value="120" selected>2 minutes</option>
           <option value="180">3 minutes</option>
+        </select>
+      </div>
+      <div>
+        <label for="practiceLang">語言 Language</label>
+        <select id="practiceLang">
+          <option value="en">English</option>
+          <option value="zh">中文</option>
         </select>
       </div>
     </div>
@@ -106,7 +220,6 @@
       <button class="tab-btn" data-cat="classic">Classic / HR</button>
       <button class="tab-btn" data-cat="behavioral">Behavioral</button>
       <button class="tab-btn" data-cat="technical">Technical</button>
-      <button class="tab-btn" data-cat="ask">Ask them</button>
     </div>
     <div id="bankList"></div>
   </section>
@@ -127,6 +240,7 @@
   </div>
 </footer>
 
+<script src="assets/match.js"></script>
 <script src="assets/interview.js"></script>
 </body>
 </html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>My Profile — DreamJOB</title>
+<meta name="description" content="Store your CV and job targets once — every DreamJOB tool reads from here." />
+<link rel="stylesheet" href="assets/style.css" />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💼</text></svg>" />
+</head>
+<body>
+<header class="site-header">
+  <div class="container nav">
+    <a class="logo" href="index.html">Dream<span>JOB</span> 💼</a>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="profile.html" class="active">Profile</a></li>
+      <li><a href="jobs.html">Job Search</a></li>
+      <li><a href="cv.html">CV Doctor</a></li>
+      <li><a href="interview.html">Interview Prep</a></li>
+    </ul>
+  </div>
+</header>
+
+<main class="container">
+  <h1>👤 My Profile 個人檔案</h1>
+  <p class="subtitle">你的 CV 和求職目標只需填一次 — 職缺配對、CV Doctor、面試預測全部共用這份資料。
+  一切只存在你的瀏覽器 localStorage。</p>
+
+  <section class="section card">
+    <div class="form-field">
+      <label for="pfCv">履歷全文 CV (plain text) *</label>
+      <textarea id="pfCv" style="min-height:260px;" placeholder="貼上你的完整履歷文字..."></textarea>
+    </div>
+    <div class="form-row">
+      <div>
+        <label for="pfRole">目標職務 Target role</label>
+        <input type="text" id="pfRole" placeholder="e.g. Product Manager / 產品經理" />
+      </div>
+      <div>
+        <label for="pfLevel">目標等級 Level</label>
+        <select id="pfLevel">
+          <option value="">未指定</option>
+          <option value="intern">實習 Intern</option>
+          <option value="entry">初階 Entry (0–2y)</option>
+          <option value="mid">中階 Mid (2–5y)</option>
+          <option value="senior">資深 Senior (5–10y)</option>
+          <option value="manager">主管 Manager+</option>
+        </select>
+      </div>
+      <div>
+        <label for="pfIndustry">目標產業 Industry</label>
+        <select id="pfIndustry">
+          <option value="">未指定</option>
+          <option value="tech">科技/軟體 Tech & Software</option>
+          <option value="semi">半導體 Semiconductor</option>
+          <option value="ecommerce">電商 E-commerce</option>
+          <option value="finance">金融 Finance / FinTech</option>
+          <option value="gaming">遊戲 Gaming</option>
+          <option value="healthcare">醫療生技 Healthcare / Biotech</option>
+          <option value="manufacturing">製造 Manufacturing</option>
+          <option value="retail">零售/消費品 Retail / FMCG</option>
+          <option value="media">媒體/廣告 Media / AdTech</option>
+          <option value="consulting">顧問 Consulting</option>
+        </select>
+      </div>
+      <div>
+        <label for="pfEmail">Email(每日職缺信收件人)</label>
+        <input type="text" id="pfEmail" placeholder="you@example.com" />
+      </div>
+    </div>
+    <div style="display:flex;gap:12px;flex-wrap:wrap;">
+      <button class="btn" id="pfSaveBtn">💾 儲存 Save</button>
+      <span class="pill green hidden" id="pfSavedMsg">已儲存 ✓</span>
+    </div>
+  </section>
+
+  <section class="section card">
+    <h2>📬 每日 Top 10 職缺 Email</h2>
+    <p class="muted" style="margin-bottom:14px;">
+      這個網站是純前端、無伺服器,所以每日寄信由 <strong>GitHub Actions 排程</strong>完成:
+      機器人每天抓取 104 的職缺(LinkedIn / Indeed 無公開 API,信中會附上你的搜尋深度連結)、
+      依你的 CV 關鍵字打匹配分數,把前 10 名寄到你的信箱。設定方式:
+    </p>
+    <ol class="muted" style="padding-left:22px;font-size:0.95rem;">
+      <li>按下方按鈕下載 <code>profile.json</code>(只含搜尋條件與 CV 關鍵字,不含履歷全文)。</li>
+      <li>把檔案放到 repo 的 <code>profile/profile.json</code> 並 commit。</li>
+      <li>在 GitHub repo → Settings → Secrets and variables → Actions 新增:
+        <code>MAIL_USERNAME</code>(Gmail 帳號)、<code>MAIL_PASSWORD</code>(Gmail 應用程式密碼)、
+        <code>MAIL_TO</code>(收件信箱)。</li>
+      <li>完成!每天早上 9 點(台北時間)自動寄出,也可在 Actions 頁面手動觸發 <em>Daily Top 10 Jobs</em> 測試。</li>
+    </ol>
+    <div style="margin-top:16px;">
+      <button class="btn secondary" id="pfExportBtn">⬇️ 下載 profile.json</button>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <span>DreamJOB — built for job hunters, by job hunters.</span>
+    <span>Your data never leaves your browser.</span>
+  </div>
+</footer>
+
+<script src="assets/match.js"></script>
+<script src="assets/profile.js"></script>
+</body>
+</html>
