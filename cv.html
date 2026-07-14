@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>CV Doctor — DreamJOB</title>
+<meta name="description" content="Instant CV diagnosis: scores, red flags, rewrite suggestions and job-description keyword matching — all in your browser." />
+<link rel="stylesheet" href="assets/style.css" />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💼</text></svg>" />
+</head>
+<body>
+<header class="site-header">
+  <div class="container nav">
+    <a class="logo" href="index.html">Dream<span>JOB</span> 💼</a>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="jobs.html">Job Search</a></li>
+      <li><a href="cv.html" class="active">CV Doctor</a></li>
+      <li><a href="interview.html">Interview Prep</a></li>
+    </ul>
+  </div>
+</header>
+
+<main class="container">
+  <h1>🩺 CV Doctor</h1>
+  <p class="subtitle">Paste your CV below for an instant diagnosis. Optionally paste a job
+  description to check how well your CV matches its keywords. Analysis runs 100% in your
+  browser — nothing is uploaded.</p>
+
+  <section class="section grid grid-2">
+    <div class="card">
+      <label for="cvText">Your CV (plain text) *</label>
+      <textarea id="cvText" placeholder="Paste the full text of your CV / resume here...
+
+Example bullet:
+• Responsible for managing the company website and helped with marketing tasks"></textarea>
+    </div>
+    <div class="card">
+      <label for="jdText">Target job description (optional)</label>
+      <textarea id="jdText" placeholder="Paste the job description you're targeting, and the CV Doctor will check which of its keywords appear in your CV."></textarea>
+    </div>
+  </section>
+
+  <div style="margin-top:20px;display:flex;gap:12px;flex-wrap:wrap;">
+    <button class="btn" id="analyzeBtn">🔬 Run diagnosis</button>
+    <button class="btn secondary" id="sampleBtn">Load sample CV</button>
+  </div>
+
+  <div id="results" class="hidden">
+    <section class="section card">
+      <div class="score-hero">
+        <div class="score-ring" id="scoreRing">
+          <div class="inner">
+            <span class="num" id="scoreNum">0</span>
+            <span class="of">/ 100</span>
+          </div>
+        </div>
+        <div style="flex:1;min-width:260px;">
+          <h2 id="scoreVerdict">—</h2>
+          <p class="muted" id="scoreSummary"></p>
+        </div>
+      </div>
+      <div class="section" id="metrics" style="margin-top:28px;"></div>
+    </section>
+
+    <section class="section card">
+      <h2>🚩 Findings &amp; fixes</h2>
+      <div id="findings"></div>
+    </section>
+
+    <section class="section card" id="rewriteCard">
+      <h2>✍️ Rewrite suggestions</h2>
+      <p class="muted small" style="margin-bottom:16px;">Weak lines from your CV, with a stronger
+      structure to rewrite them. Fill the ◻ placeholders with your real numbers.</p>
+      <div id="rewrites"></div>
+    </section>
+
+    <section class="section card hidden" id="keywordCard">
+      <h2>🎯 Job description keyword match</h2>
+      <p class="muted" id="kwSummary" style="margin-bottom:14px;"></p>
+      <h3 class="small" style="margin-bottom:6px;color:var(--green);">Found in your CV</h3>
+      <div id="kwHits" style="margin-bottom:16px;"></div>
+      <h3 class="small" style="margin-bottom:6px;color:var(--red);">Missing from your CV</h3>
+      <div id="kwMisses"></div>
+      <p class="muted small" style="margin-top:14px;">Work the missing keywords into your CV
+      <em>only where they're genuinely true</em> — recruiters and ATS systems both search for them.</p>
+    </section>
+
+    <section class="section card">
+      <h2>📚 Golden rules of a strong CV</h2>
+      <div class="grid grid-2" style="margin-top:14px;">
+        <div class="finding"><div class="f-icon">1️⃣</div><div class="f-body"><strong>Start bullets with strong action verbs</strong>Led, built, launched, reduced, negotiated — never "responsible for".</div></div>
+        <div class="finding"><div class="f-icon">2️⃣</div><div class="f-body"><strong>Quantify everything you can</strong>"Cut deploy time 40%" beats "improved deployment process" every time.</div></div>
+        <div class="finding"><div class="f-icon">3️⃣</div><div class="f-body"><strong>Tailor to each job</strong>Mirror the language of the job description for both ATS and human readers.</div></div>
+        <div class="finding"><div class="f-icon">4️⃣</div><div class="f-body"><strong>Keep it tight</strong>1 page for &lt;10 years of experience, 2 pages max. Cut anything that doesn't sell you.</div></div>
+        <div class="finding"><div class="f-icon">5️⃣</div><div class="f-body"><strong>Show impact, not duties</strong>What changed because you were there? Revenue, speed, quality, cost, users.</div></div>
+        <div class="finding"><div class="f-icon">6️⃣</div><div class="f-body"><strong>Make it skimmable</strong>Recruiters spend ~7 seconds on the first pass. Bullets, white space, consistent format.</div></div>
+      </div>
+    </section>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <span>DreamJOB — built for job hunters, by job hunters.</span>
+    <span>Your CV never leaves your browser.</span>
+  </div>
+</footer>
+
+<script src="assets/cv.js"></script>
+</body>
+</html>

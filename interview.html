@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Interview Prep — DreamJOB</title>
+<meta name="description" content="Question bank with answer strategies, STAR method guide, timed mock-interview practice and a pre-interview checklist." />
+<link rel="stylesheet" href="assets/style.css" />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💼</text></svg>" />
+</head>
+<body>
+<header class="site-header">
+  <div class="container nav">
+    <a class="logo" href="index.html">Dream<span>JOB</span> 💼</a>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="jobs.html">Job Search</a></li>
+      <li><a href="cv.html">CV Doctor</a></li>
+      <li><a href="interview.html" class="active">Interview Prep</a></li>
+    </ul>
+  </div>
+</header>
+
+<main class="container">
+  <h1>🎤 Interview Preparation</h1>
+  <p class="subtitle">Browse the question bank with answer strategies, drill yourself in timed
+  practice mode, structure your stories with STAR, and run the checklist before the big day.</p>
+
+  <!-- STAR method -->
+  <section class="section card">
+    <h2>⭐ The STAR method — your story skeleton</h2>
+    <p class="muted" style="margin-bottom:20px;">Every behavioral answer ("Tell me about a time when…")
+    should follow this structure. Aim for 1.5–2 minutes per story, weighted toward Action and Result.</p>
+    <div class="grid grid-2">
+      <div class="star-step">
+        <div class="star-letter">S</div>
+        <div><h3>Situation <span class="muted small">(~15 sec)</span></h3>
+        <p class="muted small">Set the scene in 2 sentences. Company, project, what was at stake.
+        "Our checkout error rate spiked to 8% the week before Double 11."</p></div>
+      </div>
+      <div class="star-step">
+        <div class="star-letter">T</div>
+        <div><h3>Task <span class="muted small">(~10 sec)</span></h3>
+        <p class="muted small">Your specific responsibility — what were <em>you</em> on the hook for?
+        "As the on-call engineer, I owned finding and fixing the root cause."</p></div>
+      </div>
+      <div class="star-step">
+        <div class="star-letter">A</div>
+        <div><h3>Action <span class="muted small">(~60 sec)</span></h3>
+        <p class="muted small">The heart of the story. 3–4 concrete steps you took, decisions you made,
+        trade-offs you weighed. Use "I", not "we".</p></div>
+      </div>
+      <div class="star-step">
+        <div class="star-letter">R</div>
+        <div><h3>Result <span class="muted small">(~20 sec)</span></h3>
+        <p class="muted small">Quantified outcome + what you learned. "Error rate fell to 0.5%, we
+        cleared Double 11 with record sales, and I added an alert so it can't recur silently."</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Practice mode -->
+  <section class="section card">
+    <h2>⏱️ Mock interview practice</h2>
+    <p class="muted small" style="margin-bottom:16px;">Get a random question, answer it out loud within
+    the time limit — just like the real thing. Jot notes below; they save automatically to your browser.</p>
+    <div class="form-row">
+      <div>
+        <label for="practiceCat">Question category</label>
+        <select id="practiceCat">
+          <option value="all">All categories</option>
+          <option value="classic">Classic / HR</option>
+          <option value="behavioral">Behavioral (STAR)</option>
+          <option value="technical">Technical & problem solving</option>
+          <option value="ask">Questions to ask them</option>
+        </select>
+      </div>
+      <div>
+        <label for="practiceTime">Time per answer</label>
+        <select id="practiceTime">
+          <option value="60">1 minute</option>
+          <option value="120" selected>2 minutes</option>
+          <option value="180">3 minutes</option>
+        </select>
+      </div>
+    </div>
+    <div class="practice-question" id="practiceQ">Press "New question" to begin.</div>
+    <div class="practice-timer" id="practiceTimer">--:--</div>
+    <div style="display:flex;gap:12px;justify-content:center;margin-top:16px;flex-wrap:wrap;">
+      <button class="btn" id="newQBtn">🎲 New question</button>
+      <button class="btn secondary" id="startTimerBtn" disabled>▶ Start timer</button>
+      <button class="btn secondary" id="stopTimerBtn" disabled>⏹ Stop</button>
+    </div>
+    <div class="form-field" style="margin-top:20px;">
+      <label for="practiceNotes">Your notes for this question (autosaved)</label>
+      <textarea id="practiceNotes" style="min-height:120px;" placeholder="Bullet your STAR outline here..."></textarea>
+    </div>
+  </section>
+
+  <!-- Question bank -->
+  <section class="section card">
+    <h2>📚 Question bank</h2>
+    <p class="muted small" style="margin-bottom:16px;">Click any question to see the answer strategy.</p>
+    <div class="tabs" id="bankTabs">
+      <button class="tab-btn active" data-cat="all">All</button>
+      <button class="tab-btn" data-cat="classic">Classic / HR</button>
+      <button class="tab-btn" data-cat="behavioral">Behavioral</button>
+      <button class="tab-btn" data-cat="technical">Technical</button>
+      <button class="tab-btn" data-cat="ask">Ask them</button>
+    </div>
+    <div id="bankList"></div>
+  </section>
+
+  <!-- Checklist -->
+  <section class="section card">
+    <h2>✅ Pre-interview checklist</h2>
+    <p class="muted small" style="margin-bottom:10px;">Run through this the day before. Progress is saved in your browser.</p>
+    <div id="checklist"></div>
+    <button class="btn small secondary" id="resetChecklist" style="margin-top:16px;">Reset checklist</button>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <span>DreamJOB — built for job hunters, by job hunters.</span>
+    <span>Practice out loud. It works.</span>
+  </div>
+</footer>
+
+<script src="assets/interview.js"></script>
+</body>
+</html>

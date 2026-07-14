@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Job Search — DreamJOB</title>
+<meta name="description" content="Search LinkedIn, 104 and Indeed at once, and track your applications." />
+<link rel="stylesheet" href="assets/style.css" />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💼</text></svg>" />
+</head>
+<body>
+<header class="site-header">
+  <div class="container nav">
+    <a class="logo" href="index.html">Dream<span>JOB</span> 💼</a>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="jobs.html" class="active">Job Search</a></li>
+      <li><a href="cv.html">CV Doctor</a></li>
+      <li><a href="interview.html">Interview Prep</a></li>
+    </ul>
+  </div>
+</header>
+
+<main class="container">
+  <h1>🔍 Unified Job Search</h1>
+  <p class="subtitle">Fill in your search once — we build the right query for each platform.
+  Results open on the platform itself in a new tab.</p>
+
+  <section class="section card">
+    <div class="form-row">
+      <div>
+        <label for="keywords">Keywords / job title *</label>
+        <input type="text" id="keywords" placeholder="e.g. Frontend Engineer, Product Manager, 資料分析師" />
+      </div>
+      <div>
+        <label for="location">Location (LinkedIn / Indeed)</label>
+        <input type="text" id="location" placeholder="e.g. Taipei, Taiwan / Singapore / Remote" />
+      </div>
+    </div>
+    <div class="form-row">
+      <div>
+        <label for="area104">104 area (Taiwan)</label>
+        <select id="area104">
+          <option value="">All Taiwan</option>
+          <option value="6001001000">台北市 Taipei City</option>
+          <option value="6001002000">新北市 New Taipei City</option>
+          <option value="6001005000">桃園市 Taoyuan City</option>
+          <option value="6001006000">新竹縣市 Hsinchu</option>
+          <option value="6001008000">台中市 Taichung City</option>
+          <option value="6001014000">台南市 Tainan City</option>
+          <option value="6001016000">高雄市 Kaohsiung City</option>
+        </select>
+      </div>
+      <div>
+        <label for="datePosted">Date posted</label>
+        <select id="datePosted">
+          <option value="">Any time</option>
+          <option value="day">Past 24 hours</option>
+          <option value="week">Past week</option>
+          <option value="month">Past month</option>
+        </select>
+      </div>
+      <div>
+        <label for="expLevel">Experience level (LinkedIn)</label>
+        <select id="expLevel">
+          <option value="">Any</option>
+          <option value="1">Internship</option>
+          <option value="2">Entry level</option>
+          <option value="3">Associate</option>
+          <option value="4">Mid-Senior level</option>
+          <option value="5">Director</option>
+        </select>
+      </div>
+      <div>
+        <label for="indeedDomain">Indeed region</label>
+        <select id="indeedDomain">
+          <option value="www.indeed.com">indeed.com (US / Global)</option>
+          <option value="tw.indeed.com">tw.indeed.com (Taiwan)</option>
+          <option value="sg.indeed.com">sg.indeed.com (Singapore)</option>
+          <option value="jp.indeed.com">jp.indeed.com (Japan)</option>
+          <option value="uk.indeed.com">uk.indeed.com (UK)</option>
+          <option value="au.indeed.com">au.indeed.com (Australia)</option>
+        </select>
+      </div>
+    </div>
+    <div class="form-field checkbox-row">
+      <input type="checkbox" id="remoteOnly" />
+      <label for="remoteOnly">Remote jobs only</label>
+    </div>
+    <div style="display:flex;gap:12px;flex-wrap:wrap;">
+      <button class="btn" id="searchAllBtn">🚀 Search all platforms</button>
+      <button class="btn secondary" id="buildBtn">Preview links only</button>
+    </div>
+    <p class="small muted" style="margin-top:10px;">Tip: your browser may ask you to allow pop-ups the first time you open all three platforms at once.</p>
+  </section>
+
+  <section class="section">
+    <div class="grid grid-3" id="platformCards">
+      <div class="card platform-card">
+        <div class="platform-head">
+          <div class="platform-badge linkedin">in</div>
+          <div><h3>LinkedIn</h3><span class="small muted">Global professional network</span></div>
+        </div>
+        <div class="url-preview" id="urlLinkedin">Enter keywords above to build the search link.</div>
+        <a class="btn small" id="openLinkedin" target="_blank" rel="noopener" href="https://www.linkedin.com/jobs/">Open LinkedIn Jobs ↗</a>
+      </div>
+      <div class="card platform-card">
+        <div class="platform-head">
+          <div class="platform-badge b104">104</div>
+          <div><h3>104 人力銀行</h3><span class="small muted">Taiwan's largest job bank</span></div>
+        </div>
+        <div class="url-preview" id="url104">Enter keywords above to build the search link.</div>
+        <a class="btn small" id="open104" target="_blank" rel="noopener" href="https://www.104.com.tw/jobs/search/">Open 104 ↗</a>
+      </div>
+      <div class="card platform-card">
+        <div class="platform-head">
+          <div class="platform-badge indeed">id</div>
+          <div><h3>Indeed</h3><span class="small muted">World's #1 job site</span></div>
+        </div>
+        <div class="url-preview" id="urlIndeed">Enter keywords above to build the search link.</div>
+        <a class="btn small" id="openIndeed" target="_blank" rel="noopener" href="https://www.indeed.com/">Open Indeed ↗</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section card">
+    <h2>🕘 Recent searches</h2>
+    <div id="recentSearches"><p class="empty-state">No searches yet — your last 8 searches will appear here for one-click reuse.</p></div>
+  </section>
+
+  <section class="section card">
+    <h2>📋 Application tracker</h2>
+    <p class="muted small" style="margin-bottom:16px;">Log every job you apply to and keep the pipeline visible. Stored locally in your browser.</p>
+    <div class="form-row">
+      <div>
+        <label for="trkTitle">Job title *</label>
+        <input type="text" id="trkTitle" placeholder="e.g. Senior Frontend Engineer" />
+      </div>
+      <div>
+        <label for="trkCompany">Company *</label>
+        <input type="text" id="trkCompany" placeholder="e.g. Acme Inc." />
+      </div>
+      <div>
+        <label for="trkUrl">Job posting URL</label>
+        <input type="url" id="trkUrl" placeholder="https://..." />
+      </div>
+      <div>
+        <label for="trkPlatform">Platform</label>
+        <select id="trkPlatform">
+          <option>LinkedIn</option>
+          <option>104</option>
+          <option>Indeed</option>
+          <option>Company site</option>
+          <option>Referral</option>
+          <option>Other</option>
+        </select>
+      </div>
+    </div>
+    <button class="btn small" id="trkAddBtn">＋ Add application</button>
+    <div class="table-scroll" style="margin-top:20px;">
+      <table class="tracker">
+        <thead>
+          <tr><th>Job</th><th>Company</th><th>Platform</th><th>Date</th><th>Status</th><th></th></tr>
+        </thead>
+        <tbody id="trkBody"></tbody>
+      </table>
+      <p class="empty-state" id="trkEmpty">No applications tracked yet.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <span>DreamJOB — built for job hunters, by job hunters.</span>
+    <span>Everything is stored locally in your browser.</span>
+  </div>
+</footer>
+
+<script src="assets/jobs.js"></script>
+</body>
+</html>
