@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T03:48:34.657Z",
+  "generatedAt": "2026-08-08T02:53:10.065Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed"
@@ -7,164 +7,145 @@
   "jobs": [
     {
       "source": "104",
-      "title": "E-Commerce & Social Media Specialist",
-      "company": "岱宇國際股份有限公司",
-      "location": "台北市中山區",
-      "desc": "growth of our online presence and digital sales. This role combines e-commerce management, social media strategy, and content",
-      "url": "https://www.104.com.tw/job/8md48",
-      "date": "20260807",
+      "title": "[台中] Amazon Sales Operations Specialist 亞馬遜電商營運專員",
+      "company": "法特科技有限公司",
+      "location": "台中市西屯區",
+      "desc": "工作職責： 1. 負責電商平台的產品內容優化，分析及挖掘消費者需求，協助達成銷售目標。 2. 負責產品競價分析，提供有效的價格建議，協助優化產品類目以及提升銷售表現。 3. 完成產品發佈(Product Launch) 和促銷計畫 (Deal &",
+      "url": "https://www.104.com.tw/job/87uyu",
+      "date": "20260808",
+      "matchedKeywords": [
+        "operations",
+        "product",
+        "sales"
+      ],
+      "score": 10
+    },
+    {
+      "source": "104",
+      "title": "【Recent Graduate Program 新鮮人專區】Electrical Design Engineer",
+      "company": "hyve solutions_海峰電腦股份有限公司",
+      "location": "新北市新莊區",
+      "desc": "Join Us as a New Hyver! This position is part of our Taiwan Recent Graduate Hiring Program. We are looking for talented and passionate new Hyvers who are eager to begin their careers in electrical design and grow with us. Recent graduates are welcome and encouraged to apply. No prior server or enterprise experience is required—we will provide on-the-job training to help you succeed. Key Responsibilities •Perform hardware verification, signal measurement, and hardware debugging using oscilloscopes and multimeters. •Assist in schematic design, component selection, and component evaluation to support product development. •Collaborate with cross-functional teams (Layout, FW, and ME) to identify, track, and resolve hardware issues. •Generate comprehensive test reports and technical documentations throughout the product development cycle.",
+      "url": "https://www.104.com.tw/job/94mhz",
+      "date": "20260808",
+      "matchedKeywords": [
+        "taiwan",
+        "product",
+        "cro"
+      ],
+      "score": 10
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Digital Marketing Senior Specialist",
+      "company": "ACT Genomics",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/digital-marketing-senior-specialist-at-act-genomics-4436186477",
+      "date": "",
+      "matchedKeywords": [
+        "marketing",
+        "digital"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "B2C Product Marketing Sr. Specialist",
+      "company": "CyberLink",
+      "location": "New Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/b2c-product-marketing-sr-specialist-at-cyberlink-4426198474",
+      "date": "",
+      "matchedKeywords": [
+        "marketing",
+        "product"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Senior Digital Analytics Consultant - Taiwan",
+      "company": "fifty-five",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/senior-digital-analytics-consultant-taiwan-at-fifty-five-4448734533",
+      "date": "",
+      "matchedKeywords": [
+        "taiwan",
+        "digital"
+      ],
+      "score": 7
+    },
+    {
+      "source": "104",
+      "title": "永續時尚品牌 | 國際電商和業務專員",
+      "company": "Story Wear_七棵橡樹國際股份有限公司",
+      "location": "台北市大同區",
+      "desc": "尚／生活風格產業經驗 -- 曾與歐美市場合作或有海外電商實務經驗 Job Description Shopify Global E-commerce Operations -- Manage daily operations of the",
+      "url": "https://www.104.com.tw/job/906fp",
+      "date": "20260808",
+      "matchedKeywords": [
+        "e-commerce",
+        "operations"
+      ],
+      "score": 7
+    },
+    {
+      "source": "104",
+      "title": "Digital IC Design Engineer/Senior(台北)",
+      "company": "瀚憶科技股份有限公司",
+      "location": "台北市內湖區",
+      "desc": "1. Participate in ASIC/SoC digital architecture and micro-architecture definition, RTL design (Verilog/SystemVerilog), and",
+      "url": "https://www.104.com.tw/job/8xc5o",
+      "date": "20260808",
+      "matchedKeywords": [
+        "cro",
+        "digital"
+      ],
+      "score": 7
+    },
+    {
+      "source": "104",
+      "title": "ecommerce 美國電商營運人員",
+      "company": "法特科技有限公司",
+      "location": "台中市西屯區",
+      "desc": "工作內容 1. 負責美國電商平台之品牌營運與管理，提升品牌知名度，並協助達成公司銷售與營運目標。 2. 規劃並執行品牌行銷策略，確保品牌形象、產品定位及市場溝通方向一致。 3. 優化電商平台產品頁面，包括 A+ Content、Brand",
+      "url": "https://www.104.com.tw/job/67wv0",
+      "date": "20260808",
       "matchedKeywords": [
         "content",
-        "e-commerce",
-        "strategy",
-        "growth",
-        "management",
-        "sales",
-        "digital"
+        "brand"
       ],
-      "score": 24
-    },
-    {
-      "source": "104",
-      "title": "Executive, E-Commerce Operations",
-      "company": "台灣彪馬股份有限公司_PUMA Taiwan Sports Ltd.",
-      "location": "台北市內湖區",
-      "desc": "communication with E-commerce. - Build the eCommerce marketing calendar integrated with Brand Marketing Calendar, Retail",
-      "url": "https://www.104.com.tw/job/92jkv",
-      "date": "20260807",
-      "matchedKeywords": [
-        "e-commerce",
-        "marketing",
-        "taiwan",
-        "brand",
-        "operations",
-        "puma"
-      ],
-      "score": 20
-    },
-    {
-      "source": "104",
-      "title": "Senior Marketing Specialist - Performance Marketing 資深廣告成效行銷專員",
-      "company": "inline_樂排股份有限公司",
-      "location": "台北市中正區",
-      "desc": "leading e-commerce companies with successful records of performance marketing, especially in digital ads. In this role, you",
-      "url": "https://www.104.com.tw/job/7pitl",
-      "date": "20260807",
-      "matchedKeywords": [
-        "e-commerce",
-        "marketing",
-        "leading",
-        "digital"
-      ],
-      "score": 14
+      "score": 7
     },
     {
       "source": "104",
       "title": "行銷專員 Marketing Specialist",
-      "company": "啟德電子股份有限公司",
-      "location": "台中市大里區",
-      "desc": "strategies and promotional campaigns. ● Content & Design: Hands-on creation and design of physical and digital marketing",
-      "url": "https://www.104.com.tw/job/93ocr",
-      "date": "20260807",
+      "company": "藝瓦室內裝修設計工程股份有限公司",
+      "location": "高雄市三民區",
+      "desc": "此職位隸屬行銷部，需協助執行廣告投放、數據整理、文案撰寫、影片腳本協作、官網內容更新與跨部門專案推進。 工作內容會接觸 SEO、網站維運、社群與影音相關任務，適合願意學習、重視效率、敢於討論的人加入。 • 工作待遇：月薪 35,000。 • 工作性質：全職。 • 上班地點：高雄市三民區博愛一路 366 號 17 樓之 1。 • 上班時段：08:30－18:00，中間休息 1.5 小時。 • 休假制度：週休二日，見紅休。 工作內容 • 協助 Google Ads、Meta Ads 廣告投放執行與優化，包含素材整理、成效觀察、基礎調整與數據彙整。 • 整理每週與每月行銷數據，包含廣告成效、網站流量、諮詢來源與內容表現，協助主管完成報表與盤點。 • 撰寫與優化文案，包含 SEO 文章主題規劃、文章審稿、活動文案與基本 CTA 設計。 • 撰寫或協助撰寫影片腳本，整理拍攝需求，並與攝影、設計及內部同事協作完成影音專案。 • 協助社群與外部平台內容上架，包含文章搬運、素材整理與品牌曝光相關作業。 條件要求 • 具 1 年以上行銷、內容、數位廣告或相關工作經驗。 • 至少須滿足以下兩個相關技能：廣告投放、數據分析、文案、影片腳本。 • 熟悉 Google Ads、Meta Ads 基本操作概念，願意持續學習投放與優化邏輯。 • 具備基本數據判讀能力，能閱讀廣告後台、GA4 或 Search Console 資訊。 • 具備文字表達能力，能寫出清楚、有重點且符合品牌語氣的文案。 • 具備影片腳本發想能力，能把設計亮點、品牌訊息與受眾需求整理成拍攝內容。 • 做事細心、有責任感，能獨立追進度也能與團隊合作。 加分條件 • 具 SEO、官網內容更新、短影音企劃或社群操作經驗者佳。 • 熟悉 Canva、GA4、GTM、Search Console、Excel 或簡報工具者佳。 • 對室內設計、住宅生活、美感品牌內容有興趣者佳。 人格特質 • 勇於討論，願意主動發問與提出想法。 • 喜歡探索 AI，願意把 AI 應用在文案、腳本、整理資訊與工作流程優化。 • 不怕犯錯，願意持續調整與學習。 公司福利 • 辦公室備有咖啡機與零食櫃，不定時舉辦團隊聚餐。 • 不定時安排免費瑜珈課與藝術課。 • 達成公司年度目標可領取年終獎金。",
+      "url": "https://www.104.com.tw/job/8z42q",
+      "date": "20260808",
       "matchedKeywords": [
-        "content",
         "marketing",
-        "campaign",
-        "digital"
+        "seo"
       ],
-      "score": 14
+      "score": 7
     },
     {
       "source": "104",
-      "title": "Product Marketing Director / 台北",
-      "company": "ABB Ltd._艾波比股份有限公司",
-      "location": "台北市內湖區",
-      "desc": "marketing strategies in assigned area to meet business objectives and in line with global product strategy. Oversee all sales",
-      "url": "https://www.104.com.tw/job/87f0h",
-      "date": "20260807",
+      "title": "Senior/Staff Systems Applications Hardware Engineer - Optical Products",
+      "company": "美商邁凌科技有限公司台灣分公司",
+      "location": "新竹市",
+      "desc": "information from customers and the market to support marketing: o Perform feasibility studies on new product features o Support",
+      "url": "https://www.104.com.tw/job/91479",
+      "date": "20260808",
       "matchedKeywords": [
         "marketing",
-        "strategy",
-        "product",
-        "sales"
-      ],
-      "score": 14
-    },
-    {
-      "source": "104",
-      "title": "(10031)Digital Growth & Performance Marketing Manager _林口",
-      "company": "神準科技股份有限公司",
-      "location": "桃園市龜山區",
-      "desc": "工作內容： 1.負責全球數位獲客漏斗規劃與執行，推動 B2B 商機成長。 2.規劃並執行 SEO、GEO、AEO 策略，提升品牌於搜尋引擎、生成式 AI 搜尋與 AI 問答平台的能見度。 3.優化 EnGenius 產品於 Google SGE、Perplexity、ChatGPT、Gemini 等平台中的曝光、引用與推薦機會。 4.與網站團隊合作導入 Schema Markup、語意結構、結構化資料與技術 SEO 優化。 5.維護全球 B2B 關鍵字策略與網站頁面優化，提升高意圖自然搜尋流量。 6.規劃、執行並優化 Google Search、LinkedIn Ads、程序化廣告等付費媒體活動。 7.管理付費媒體預算，提升 Partner Portal 註冊量與軟硬體詢問商機。 8.執行廣告文案、Landing Page 與受眾設定之 A/B 測試與成效優化。 9.與 MarTech 分析師合作，追蹤 ROAS、CPA、轉換率與廣告成效，提出優化建議。 10.與行銷、網站、內容、產品行銷與 MarTech 團隊協作，推動全球數位成長目標。 條件要求 1.具數位行銷、成長行銷、績效行銷、SEO 或B2B行銷相關經驗。 2.熟悉 SEO 基礎架構、關鍵字策略、內容優化與自然流量成長方法。 3.具Google Ads、LinkedIn Ads或其他付費媒體操作與預算管理經驗。 4.熟悉數位行銷漏斗，能針對曝光、點擊、註冊、詢問與商機轉換進行優化。 5.具數據分析與成效判讀能力，能根據行銷數據提出優化方向。 6.具跨部門溝通與專案協作能力，能與網站、設計、內容、產品行銷與 MarTech 團隊合作。 7.具英文閱讀與撰寫能力，能處理全球市場相關行銷內容、廣告素材與數據報告。",
-      "url": "https://www.104.com.tw/job/93baq",
-      "date": "20260807",
-      "matchedKeywords": [
-        "marketing",
-        "growth",
-        "seo",
-        "digital"
-      ],
-      "score": 14
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Brand & Digital Marketing Specialist - Taipei",
-      "company": "Stanley Black & Decker, Inc.",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/brand-digital-marketing-specialist-taipei-at-stanley-black-decker-inc-4450297216",
-      "date": "",
-      "matchedKeywords": [
-        "marketing",
-        "brand",
-        "digital"
-      ],
-      "score": 10
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Product Owner, Content and Web Operations",
-      "company": "MoneyHero Group (Nasdaq: MNY)",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/product-owner-content-and-web-operations-at-moneyhero-group-nasdaq-mny-4446536108",
-      "date": "",
-      "matchedKeywords": [
-        "content",
-        "operations",
         "product"
       ],
-      "score": 10
-    },
-    {
-      "source": "104",
-      "title": "Brand & Digital Marketing Specialist",
-      "company": "史丹利七和國際股份有限公司_美商",
-      "location": "台北市士林區",
-      "desc": "Brand & Digital Marketing Specialist - Taipei Make A Difference For Those Who Make The World™ It takes great people to",
-      "url": "https://www.104.com.tw/job/93iru",
-      "date": "20260807",
-      "matchedKeywords": [
-        "marketing",
-        "brand",
-        "digital"
-      ],
-      "score": 10
-    },
-    {
-      "source": "104",
-      "title": "覺醒家居 Awake Living 數位行銷專員 Digital Marketing Specialist",
-      "company": "覺醒家居Awake Living_覺醒家居有限公司",
-      "location": "台北市信義區",
-      "desc": "覺醒家居 Awake Living 提供開放的舞台，我們鼓勵每位夥伴創新思考和互相討論。我們期待你擁有出色的邏輯思維和數據敏感度，同時能冷靜分析，洞悉每個行銷決策背後的商業課題。歡迎你加入我們，共同實現成效行銷的卓越目標！ 【 我們期待你擁有以下特質 】 ．具有邏輯思維和數據敏感度，善用數字評估效益及發展策略 ．具備實驗精神，能快速試錯並從中優化找出最佳解決方案 ．具良好自我管理能力，能有效安排自己的時間並完成任務 ．擅長跨部門溝通協調，重視團隊精神，能和團隊一起朝目標前進 【工作內容】 ．參與數位行銷策略及廣告預算配置，包含曝光管道選擇、受眾定位及素材制定 ．數位廣告投放設定 (Google Ads & Meta Ads) ── 持續進行廣告測試以實現 ROAS 及 ROI 的最大化 ．數據分析與洞察 ── 疏理數據，探索有效／無效結果及產生原因並轉化為可執行的建議。 ．協助網站維運及搜尋引擎優化 (SEO) ．關注數位行銷趨勢，進行市場研究並分析競品數位行銷操作，提出導入建議及應用策略。 期待你的加入，相信你會很享受與覺醒家居 Awake Living 團隊夥伴們一同成長、茁壯的過程！",
-      "url": "https://www.104.com.tw/job/8d5id",
-      "date": "20260807",
-      "matchedKeywords": [
-        "marketing",
-        "seo",
-        "digital"
-      ],
-      "score": 10
+      "score": 7
     }
   ]
 }
