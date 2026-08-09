@@ -1,61 +1,31 @@
 {
-  "generatedAt": "2026-08-08T02:53:10.065Z",
+  "generatedAt": "2026-08-09T03:01:04.960Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed"
   ],
   "jobs": [
     {
-      "source": "104",
-      "title": "[台中] Amazon Sales Operations Specialist 亞馬遜電商營運專員",
-      "company": "法特科技有限公司",
-      "location": "台中市西屯區",
-      "desc": "工作職責： 1. 負責電商平台的產品內容優化，分析及挖掘消費者需求，協助達成銷售目標。 2. 負責產品競價分析，提供有效的價格建議，協助優化產品類目以及提升銷售表現。 3. 完成產品發佈(Product Launch) 和促銷計畫 (Deal &",
-      "url": "https://www.104.com.tw/job/87uyu",
-      "date": "20260808",
-      "matchedKeywords": [
-        "operations",
-        "product",
-        "sales"
-      ],
-      "score": 10
-    },
-    {
-      "source": "104",
-      "title": "【Recent Graduate Program 新鮮人專區】Electrical Design Engineer",
-      "company": "hyve solutions_海峰電腦股份有限公司",
-      "location": "新北市新莊區",
-      "desc": "Join Us as a New Hyver! This position is part of our Taiwan Recent Graduate Hiring Program. We are looking for talented and passionate new Hyvers who are eager to begin their careers in electrical design and grow with us. Recent graduates are welcome and encouraged to apply. No prior server or enterprise experience is required—we will provide on-the-job training to help you succeed. Key Responsibilities •Perform hardware verification, signal measurement, and hardware debugging using oscilloscopes and multimeters. •Assist in schematic design, component selection, and component evaluation to support product development. •Collaborate with cross-functional teams (Layout, FW, and ME) to identify, track, and resolve hardware issues. •Generate comprehensive test reports and technical documentations throughout the product development cycle.",
-      "url": "https://www.104.com.tw/job/94mhz",
-      "date": "20260808",
-      "matchedKeywords": [
-        "taiwan",
-        "product",
-        "cro"
-      ],
-      "score": 10
-    },
-    {
       "source": "LinkedIn",
-      "title": "Digital Marketing Senior Specialist",
-      "company": "ACT Genomics",
+      "title": "Marketing Manager, Taiwan",
+      "company": "SharkNinja APAC",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/digital-marketing-senior-specialist-at-act-genomics-4436186477",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-manager-taiwan-at-sharkninja-apac-4420149951",
       "date": "",
       "matchedKeywords": [
         "marketing",
-        "digital"
+        "taiwan"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "B2C Product Marketing Sr. Specialist",
-      "company": "CyberLink",
-      "location": "New Taipei City, Taiwan",
+      "title": "Marketing and Product Manager",
+      "company": "General Motors",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/b2c-product-marketing-sr-specialist-at-cyberlink-4426198474",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-and-product-manager-at-general-motors-4433565873",
       "date": "",
       "matchedKeywords": [
         "marketing",
@@ -64,69 +34,41 @@
       "score": 7
     },
     {
-      "source": "LinkedIn",
-      "title": "Senior Digital Analytics Consultant - Taiwan",
-      "company": "fifty-five",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-digital-analytics-consultant-taiwan-at-fifty-five-4448734533",
-      "date": "",
-      "matchedKeywords": [
-        "taiwan",
-        "digital"
-      ],
-      "score": 7
-    },
-    {
       "source": "104",
-      "title": "永續時尚品牌 | 國際電商和業務專員",
-      "company": "Story Wear_七棵橡樹國際股份有限公司",
-      "location": "台北市大同區",
-      "desc": "尚／生活風格產業經驗 -- 曾與歐美市場合作或有海外電商實務經驗 Job Description Shopify Global E-commerce Operations -- Manage daily operations of the",
-      "url": "https://www.104.com.tw/job/906fp",
-      "date": "20260808",
+      "title": "E-Commerce Officer  電子商務策略長",
+      "company": "優得企業股份有限公司",
+      "location": "新北市三重區",
+      "desc": "Printing Industry E-Commerce Strategist 1. E-Commerce Strategist for B2B Digital Transformation 1. Serve as the lead point",
+      "url": "https://www.104.com.tw/job/7uwlx",
+      "date": "20260809",
       "matchedKeywords": [
         "e-commerce",
-        "operations"
-      ],
-      "score": 7
-    },
-    {
-      "source": "104",
-      "title": "Digital IC Design Engineer/Senior(台北)",
-      "company": "瀚憶科技股份有限公司",
-      "location": "台北市內湖區",
-      "desc": "1. Participate in ASIC/SoC digital architecture and micro-architecture definition, RTL design (Verilog/SystemVerilog), and",
-      "url": "https://www.104.com.tw/job/8xc5o",
-      "date": "20260808",
-      "matchedKeywords": [
-        "cro",
         "digital"
       ],
       "score": 7
     },
     {
       "source": "104",
-      "title": "ecommerce 美國電商營運人員",
-      "company": "法特科技有限公司",
-      "location": "台中市西屯區",
-      "desc": "工作內容 1. 負責美國電商平台之品牌營運與管理，提升品牌知名度，並協助達成公司銷售與營運目標。 2. 規劃並執行品牌行銷策略，確保品牌形象、產品定位及市場溝通方向一致。 3. 優化電商平台產品頁面，包括 A+ Content、Brand",
-      "url": "https://www.104.com.tw/job/67wv0",
-      "date": "20260808",
+      "title": "【Miznon Taipei】行銷經理 Marketing Manager",
+      "company": "米諾股份有限公司",
+      "location": "台北市大安區",
+      "desc": "video shoots: food, atmosphere, team and events • Create marketing materials (posters, flyers, menus, digital assets) • Analyze",
+      "url": "https://www.104.com.tw/job/8vrn0",
+      "date": "20260809",
       "matchedKeywords": [
-        "content",
-        "brand"
+        "marketing",
+        "digital"
       ],
       "score": 7
     },
     {
       "source": "104",
-      "title": "行銷專員 Marketing Specialist",
-      "company": "藝瓦室內裝修設計工程股份有限公司",
-      "location": "高雄市三民區",
-      "desc": "此職位隸屬行銷部，需協助執行廣告投放、數據整理、文案撰寫、影片腳本協作、官網內容更新與跨部門專案推進。 工作內容會接觸 SEO、網站維運、社群與影音相關任務，適合願意學習、重視效率、敢於討論的人加入。 • 工作待遇：月薪 35,000。 • 工作性質：全職。 • 上班地點：高雄市三民區博愛一路 366 號 17 樓之 1。 • 上班時段：08:30－18:00，中間休息 1.5 小時。 • 休假制度：週休二日，見紅休。 工作內容 • 協助 Google Ads、Meta Ads 廣告投放執行與優化，包含素材整理、成效觀察、基礎調整與數據彙整。 • 整理每週與每月行銷數據，包含廣告成效、網站流量、諮詢來源與內容表現，協助主管完成報表與盤點。 • 撰寫與優化文案，包含 SEO 文章主題規劃、文章審稿、活動文案與基本 CTA 設計。 • 撰寫或協助撰寫影片腳本，整理拍攝需求，並與攝影、設計及內部同事協作完成影音專案。 • 協助社群與外部平台內容上架，包含文章搬運、素材整理與品牌曝光相關作業。 條件要求 • 具 1 年以上行銷、內容、數位廣告或相關工作經驗。 • 至少須滿足以下兩個相關技能：廣告投放、數據分析、文案、影片腳本。 • 熟悉 Google Ads、Meta Ads 基本操作概念，願意持續學習投放與優化邏輯。 • 具備基本數據判讀能力，能閱讀廣告後台、GA4 或 Search Console 資訊。 • 具備文字表達能力，能寫出清楚、有重點且符合品牌語氣的文案。 • 具備影片腳本發想能力，能把設計亮點、品牌訊息與受眾需求整理成拍攝內容。 • 做事細心、有責任感，能獨立追進度也能與團隊合作。 加分條件 • 具 SEO、官網內容更新、短影音企劃或社群操作經驗者佳。 • 熟悉 Canva、GA4、GTM、Search Console、Excel 或簡報工具者佳。 • 對室內設計、住宅生活、美感品牌內容有興趣者佳。 人格特質 • 勇於討論，願意主動發問與提出想法。 • 喜歡探索 AI，願意把 AI 應用在文案、腳本、整理資訊與工作流程優化。 • 不怕犯錯，願意持續調整與學習。 公司福利 • 辦公室備有咖啡機與零食櫃，不定時舉辦團隊聚餐。 • 不定時安排免費瑜珈課與藝術課。 • 達成公司年度目標可領取年終獎金。",
-      "url": "https://www.104.com.tw/job/8z42q",
-      "date": "20260808",
+      "title": "整合行銷企劃經理(Integrated Marketing Planning Manager)",
+      "company": "點實整合媒體行銷有限公司",
+      "location": "台北市松山區",
+      "desc": "【工作內容】 • 負責整合行銷專案規劃與執行（數位廣告 / 社群 / SEO / 內容 / 媒體投放） • 與客戶溝通需求，規劃行銷策略、時程與執行方案 • 撰寫企劃書、提案簡報與成效分析報告 • 協調內部設計、廣告投放、工程等跨部門資源 • 監控專案進度與品質，確保如期如質交付 • 追蹤成效數據，提出優化與策略調整建議 • 視資歷可擔任專案主責或指導較初階企劃人員 【職務要求】 • 必要條件：3 年以上行銷企劃或整合行銷相關經驗。曾實際執行專案（非僅提案）者優先 • 加分條件：有代理商或整合行銷公司經驗、熟悉 SEO、數位廣告投放、社群經營、曾服務 B2B、品牌客戶或跨產業專案 【具備能力】 • 專案管理與時程控管能力 • 良好溝通與簡報能力 • 能獨立作業，也能團隊協作 • 對數位行銷與市場趨勢具高度敏感度 【薪資待遇】 • 底薪：45,000起（依能力可議） 【工作型態】 • 全職、週休二日、需配合主管安排之專案討論。 【適合的人格特質】 • 能扛事、能判斷、有執行力、抗壓強、不逃避問題、保持專業。 【公司承諾】 • 提供舞台、資源、獎金，長期可升任營運負責人。",
+      "url": "https://www.104.com.tw/job/8wro5",
+      "date": "20260809",
       "matchedKeywords": [
         "marketing",
         "seo"
@@ -134,18 +76,69 @@
       "score": 7
     },
     {
-      "source": "104",
-      "title": "Senior/Staff Systems Applications Hardware Engineer - Optical Products",
-      "company": "美商邁凌科技有限公司台灣分公司",
-      "location": "新竹市",
-      "desc": "information from customers and the market to support marketing: o Perform feasibility studies on new product features o Support",
-      "url": "https://www.104.com.tw/job/91479",
-      "date": "20260808",
+      "source": "LinkedIn",
+      "title": "Senior Associate, Merchandising & Supply Growth",
+      "company": "Klook",
+      "location": "Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/senior-associate-merchandising-supply-growth-at-klook-4404818349",
+      "date": "",
       "matchedKeywords": [
-        "marketing",
-        "product"
+        "growth"
       ],
-      "score": 7
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "APAC Regional Marketing Specialist",
+      "company": "FormFactor Inc.",
+      "location": "Zhubei City, Taiwan, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/apac-regional-marketing-specialist-at-formfactor-inc-4424324002",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Head of Customer Marketing",
+      "company": "Moët Hennessy",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/head-of-customer-marketing-at-mo%C3%ABt-hennessy-4413883413",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Senior Global Channel Marketing Specialist",
+      "company": "ASUS",
+      "location": "Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/senior-global-channel-marketing-specialist-at-asus-4333234223",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Senior Marketing Specialist, TW",
+      "company": "Solventum",
+      "location": "Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/senior-marketing-specialist-tw-at-solventum-4366360085",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
     }
   ]
 }
