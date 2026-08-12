@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T03:03:03.488Z",
+  "generatedAt": "2026-08-12T03:21:23.078Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed"
@@ -7,154 +7,163 @@
   "jobs": [
     {
       "source": "104",
-      "title": "Digital Marketing Manager",
-      "company": "達方電子股份有限公司",
-      "location": "桃園市龜山區",
-      "desc": "•Create, manage and analyze global digital marketing campaigns for web and mobile contents. •Run social media marketing",
-      "url": "https://www.104.com.tw/job/27ht9",
-      "date": "20260811",
+      "title": "Global Product Marketing Specialist",
+      "company": "ADAM elements International Co., Ltd._亞果元素國際股份有限公司",
+      "location": "台北市大安區",
+      "desc": "- maintain global social media channels, including Facebook, Instagram, YouTube and LinkedIn. Be responsible for performance tracking and reporting regularly. - Plan and develop social contents and campaigns. - Develop social media content calendar. - Assist in communicating with social influencers. Requirements: - Proficiency in English communication to create copywriting and product features into social media posts. - Interested in Apple devices and peripherals industry. - Familiar with meta ads and GA4 reporting. - Spanish communication skill (nice to have). - Priority will be given to candidates with experience using Notion, Claude, Manus, and AI tools.",
+      "url": "https://www.104.com.tw/job/86zyl",
+      "date": "20260812",
       "matchedKeywords": [
         "content",
         "marketing",
+        "product",
         "campaign",
+        "reporting"
+      ],
+      "score": 17
+    },
+    {
+      "source": "104",
+      "title": "品牌溝通室-Marketing Director (中壢廠)",
+      "company": "清河國際股份有限公司",
+      "location": "桃園市中壢區",
+      "desc": "subsidiaries and distirbutors deliver brand consistent, premium-standard experiences. 3. Digital Growth & Marketing Operations",
+      "url": "https://www.104.com.tw/job/8vzxf",
+      "date": "20260812",
+      "matchedKeywords": [
+        "marketing",
+        "growth",
+        "brand",
+        "operations",
+        "digital"
+      ],
+      "score": 17
+    },
+    {
+      "source": "104",
+      "title": "國際行銷專員 International Marketing Specialist",
+      "company": "台灣骨王生技股份有限公司",
+      "location": "台中市大雅區",
+      "desc": "product videos, and visual posters. • Manage cross-border digital marketing: Operate LinkedIn and Meta platforms; Execute SEO/SEM",
+      "url": "https://www.104.com.tw/job/8pezp",
+      "date": "20260812",
+      "matchedKeywords": [
+        "marketing",
+        "seo",
+        "product",
+        "cro",
+        "digital"
+      ],
+      "score": 17
+    },
+    {
+      "source": "104",
+      "title": "E-Commerce Executive 電商營運專員",
+      "company": "新加坡商王子亞太有限公司台灣分公司",
+      "location": "台北市信義區",
+      "desc": "activities, and collaborate with Marketing and Sales teams to drive e-commerce growth. 工作內容： ●負責電商平台日常營運管理，包括商品上架、價格設定、商品資訊維",
+      "url": "https://www.104.com.tw/job/8ykr7",
+      "date": "20260812",
+      "matchedKeywords": [
+        "e-commerce",
+        "marketing",
+        "growth",
+        "sales"
+      ],
+      "score": 14
+    },
+    {
+      "source": "104",
+      "title": "Digital & CRM Manager",
+      "company": "台灣萊雅股份有限公司",
+      "location": "台北市信義區",
+      "desc": "CRM strategy works well for every aspect of the business. - Monitoring total brand digital marketing related-KPI through",
+      "url": "https://www.104.com.tw/job/94qwm",
+      "date": "20260812",
+      "matchedKeywords": [
+        "marketing",
+        "strategy",
+        "brand",
         "digital"
       ],
       "score": 14
     },
     {
       "source": "104",
-      "title": "Marketing Specialist",
-      "company": "Amphenol FCI TAIWAN_台灣康旭股份有限公司",
-      "location": "桃園市桃園區",
-      "desc": "Digital Marketing – work with internal & external partners to maintain our Chinese website and WeChat account. Optimize and",
-      "url": "https://www.104.com.tw/job/8n8vs",
-      "date": "20260811",
+      "title": "【唯有機 Oui Organic 】跨境電商專員（英國市場） Cross-border E-commerce Specialist (UK Market)",
+      "company": "唯有機 Oui Organic_艾莉美尚股份有限公司",
+      "location": "台北市內湖區",
+      "desc": "6. 跨部門協作 ◆ 與行銷、客服、供應鏈等團隊合作 ◆ 確保品牌一致性與客戶體驗 Collaborate with marketing, customer service, and supply chain teams to ensure",
+      "url": "https://www.104.com.tw/job/8u8f7",
+      "date": "20260812",
       "matchedKeywords": [
+        "e-commerce",
         "marketing",
-        "taiwan",
-        "digital",
-        "site"
+        "organic",
+        "cro"
       ],
       "score": 14
     },
     {
       "source": "104",
-      "title": "Technical Marketing Designer / Visual Communication Specialist",
-      "company": "Amphenol FCI TAIWAN_台灣康旭股份有限公司",
-      "location": "桃園市桃園區",
-      "desc": "o Technical brochures o White papers o Digital marketing assets • Transform technical content into compelling visual",
-      "url": "https://www.104.com.tw/job/92zl5",
-      "date": "20260811",
+      "title": "Consumer Marketing Specialist (Contractor)",
+      "company": "新加坡商伊萊克斯股份有限公司台灣分公司",
+      "location": "台北市松山區",
+      "desc": "global production agency India team) •Product e-commerce page content planning (liaise with product manager + internal designer)",
+      "url": "https://www.104.com.tw/job/92sob",
+      "date": "20260812",
       "matchedKeywords": [
         "content",
+        "e-commerce",
         "marketing",
-        "taiwan",
-        "digital"
+        "product"
+      ],
+      "score": 14
+    },
+    {
+      "source": "104",
+      "title": "Chief, Product Marketing- Industrial Printing Solution",
+      "company": "EPSON_台灣愛普生科技股份有限公司",
+      "location": "台北市信義區",
+      "desc": "- Responsible for industrial product launches, pricing, channel management, market communications, and marketing campaign",
+      "url": "https://www.104.com.tw/job/94qmt",
+      "date": "20260812",
+      "matchedKeywords": [
+        "marketing",
+        "management",
+        "product",
+        "campaign"
+      ],
+      "score": 14
+    },
+    {
+      "source": "104",
+      "title": "【唯有機 Oui Organic 】品牌行銷企劃專員 | Brand Marketing Specialist",
+      "company": "唯有機 Oui Organic_艾莉美尚股份有限公司",
+      "location": "台北市內湖區",
+      "desc": ", customer engagement programs, and retention activities. ◆ Work closely with Design, E-commerce, Customer Service, Retail,",
+      "url": "https://www.104.com.tw/job/7uvtk",
+      "date": "20260812",
+      "matchedKeywords": [
+        "e-commerce",
+        "marketing",
+        "brand",
+        "organic"
       ],
       "score": 14
     },
     {
       "source": "LinkedIn",
-      "title": "【SparkLabs Taiwan】Marketing Manager, Content & AI",
-      "company": "Taiwan Tech Arena (TTA)",
+      "title": "Strategic Marketing Manager_Global Sales Transformation and Operations(Taipei)",
+      "company": "Delta Electronics",
       "location": "Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E3%80%90sparklabs-taiwan%E3%80%91marketing-manager-content-ai-at-taiwan-tech-arena-tta-4451377683",
+      "url": "https://tw.linkedin.com/jobs/view/strategic-marketing-manager-global-sales-transformation-and-operations-taipei-at-delta-electronics-4426934450",
       "date": "",
       "matchedKeywords": [
-        "content",
         "marketing",
-        "taiwan"
-      ],
-      "score": 10
-    },
-    {
-      "source": "104",
-      "title": "行銷企劃 (Digital Marketing/Marketing Communication)",
-      "company": "優達科技股份有限公司",
-      "location": "新北市新莊區",
-      "desc": "digital marketing campaigns and assesses against goals (ROI and KPIs) 5. Respond to communication-related issues promptly 6.",
-      "url": "https://www.104.com.tw/job/77gfo",
-      "date": "20260811",
-      "matchedKeywords": [
-        "marketing",
-        "campaign",
-        "digital"
-      ],
-      "score": 10
-    },
-    {
-      "source": "104",
-      "title": "電商銷售分析專員 (享季獎金) E-Commerce Sales and Marketing Executive",
-      "company": "唯高盛國際有限公司",
-      "location": "台北市內湖區",
-      "desc": "We are seeking a E-Commerce Sales and Marketing Executive to join our team. In this role you will be managing all sales and",
-      "url": "https://www.104.com.tw/job/8951p",
-      "date": "20260811",
-      "matchedKeywords": [
-        "e-commerce",
-        "marketing",
+        "operations",
         "sales"
-      ],
-      "score": 10
-    },
-    {
-      "source": "104",
-      "title": "Digital Content Marketing",
-      "company": "維田科技股份有限公司",
-      "location": "新北市中和區",
-      "desc": "1. Planning digital content marketing events, including webinar, web, social media, EDM, newsletter, and advertisement. 2.",
-      "url": "https://www.104.com.tw/job/7djz7",
-      "date": "20260811",
-      "matchedKeywords": [
-        "content",
-        "marketing",
-        "digital"
-      ],
-      "score": 10
-    },
-    {
-      "source": "104",
-      "title": "行銷企劃-Marketing and Digital Specialist (Hsinchu/Taipei)",
-      "company": "愛瑪麗歐股份有限公司",
-      "location": "台北市大安區",
-      "desc": "We are seeking a talented and creative Marketing and Digital Specialist to promote our brand and services. In this role,",
-      "url": "https://www.104.com.tw/job/7a0n2",
-      "date": "20260811",
-      "matchedKeywords": [
-        "marketing",
-        "brand",
-        "digital"
-      ],
-      "score": 10
-    },
-    {
-      "source": "104",
-      "title": "Marketing Specialist / 行銷專員",
-      "company": "生德奈生物科技股份有限公司",
-      "location": "台北市中山區",
-      "desc": "create accurate and compelling marketing materials. Digital Marketing & Campaigns • Manage and execute digital marketing",
-      "url": "https://www.104.com.tw/job/7fxh4",
-      "date": "20260811",
-      "matchedKeywords": [
-        "marketing",
-        "campaign",
-        "digital"
-      ],
-      "score": 10
-    },
-    {
-      "source": "104",
-      "title": "Digital Marketing Manager｜數位行銷經理 （國際美妝新進品牌｜Melvita 代徵）",
-      "company": "台灣蜜威特股份有限公司",
-      "location": "台北市中山區",
-      "desc": "• 監測關鍵數據（流量、轉換、ROAS），提出優化建議並落地執行 E-commerce Marketing｜電商行銷 • 以品牌官網為主，規劃電商整體行銷策略與年度檔期 • 與電商營運夥伴協作，規劃線上活動、新品上市與促銷策略 • 監督商品頁、活",
-      "url": "https://www.104.com.tw/job/8y2e2",
-      "date": "20260811",
-      "matchedKeywords": [
-        "e-commerce",
-        "marketing",
-        "digital"
       ],
       "score": 10
     }
