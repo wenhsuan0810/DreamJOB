@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T03:21:23.078Z",
+  "generatedAt": "2026-08-13T03:25:42.248Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed"
@@ -7,50 +7,90 @@
   "jobs": [
     {
       "source": "104",
-      "title": "Global Product Marketing Specialist",
-      "company": "ADAM elements International Co., Ltd._亞果元素國際股份有限公司",
-      "location": "台北市大安區",
-      "desc": "- maintain global social media channels, including Facebook, Instagram, YouTube and LinkedIn. Be responsible for performance tracking and reporting regularly. - Plan and develop social contents and campaigns. - Develop social media content calendar. - Assist in communicating with social influencers. Requirements: - Proficiency in English communication to create copywriting and product features into social media posts. - Interested in Apple devices and peripherals industry. - Familiar with meta ads and GA4 reporting. - Spanish communication skill (nice to have). - Priority will be given to candidates with experience using Notion, Claude, Manus, and AI tools.",
-      "url": "https://www.104.com.tw/job/86zyl",
-      "date": "20260812",
+      "title": "Associate Manager, Digital Solutions / Programmatic",
+      "company": "WPP Media_香港商群邑有限公司台灣分公司",
+      "location": "台北市松山區",
+      "desc": "We are seeking a high-caliber programmatic role who balances robust technical expertise with a strong commercial mindset. In this dual-impact role, you will act as the core product expert for WPP Media Solutions, driving incremental revenue growth by evangelizing our programmatic and data products across GroupM agencies and client portfolios. Concurrently, you will lead the end-to-end execution, daily optimization, and strategic servicing of advertising campaigns to ensure operational excellence and maximal client ROI. 【Key Responsibilities】 1.Commercial & Product Evangelism: - Deliver expected revenue targets defined for WPP Media Solutions. - Influence and drive adoption of programmatic & data solutions via workshops, training, brainstorms, and pitch sessions with internal agency client teams and external brand clients. - Proactively identify and pitch incremental investment opportunities for existing clients. 2.Campaign Activation & Optimization: - Oversee the implementation, management, and daily hands-on optimization of programmatic campaigns (across DV360, TTD, Amazon DSP) to meet client KPIs. - Competently create data-driven media plans, audience buying strategies, and cross-channel testing roadmaps. 3.Client & Stakeholder Management: - Provide high-touch direct client servicing, translating complex technical campaign performance metrics into actionable business insights during weekly reviews and briefings. - Work closely with internal Operations, Supply, and Hub teams locally and globally to ensure smooth roll-out, financial accuracy, and campaign reconciliation. 4.Team Mentorship: - Support and guide junior team members, monitoring and prioritizing workloads, and leading by example to encourage their professional training and development. 【Skills & Experience Required】 1.Programmatic Core: 3-5+ years of proven experience in programmatic activation with deep hands-on expertise in major trading platforms (e.g., DV360, The Trade Desk, Amazon DSP). 2.Commercial Agility: Proven track record or strong aptitude for business development, client pitching, and product presentation; comfortable holding a revenue-driven mindset. 3.Analytical Mindset: Analytically minded with an advanced ability to handle large data sets to identify trends, execute A/B testing, and maintain financial/reconciliation accuracy. 4.Communication Mastery: Exceptional bilingual presentation and interpersonal skills, with the ability to bridge the gap between technical operations and brand/agency stakeholders.",
+      "url": "https://www.104.com.tw/job/80ryj",
+      "date": "20260813",
+      "matchedKeywords": [
+        "growth",
+        "brand",
+        "management",
+        "operations",
+        "revenue",
+        "product",
+        "campaign",
+        "cro"
+      ],
+      "score": 37
+    },
+    {
+      "source": "104",
+      "title": "Digital Marketing (Assistant) Manager / Marketing Engagement & Service",
+      "company": "台灣雀巢股份有限公司",
+      "location": "台北市內湖區",
+      "desc": "As the SEM / SEO / AIO / AEO Manager, you will be the search strategy expert and coach at Nestlé Taiwan. Your mission goes far beyond managing campaigns. You will: Define how search supports brand building and business performance across Nestlé Taiwan. Build search capability within Brand teams. Ensure agency partnerships deliver quality thinking, strong logic, and real impact. You will sit at the intersection of brands, agencies, data, and strategy—helping Nestlé stay ahead in a fast‑changing search landscape. Regarding the Role & Responsibilities, you will lead the way in shaping Nestlé's search direction by: - Defining search strategies that clearly support brand and business objectives - Coaching Brand Managers on: a. How to brief search agencies with strategic clarity b. How to review, question, and challenge agency recommendations—on keywords, budgets, and performance assumptions - Translating complex and technical search topics into simple, business‑focused guidance - Reviewing agency outputs through a strategic lens—ensuring best practices, sound reasoning, and business relevance (not just media KPIs) - Supporting informed decisions across the funnel, helping brands choose the right balance between SEO, SEM, and integrated search investment",
+      "url": "https://www.104.com.tw/job/90z94",
+      "date": "20260813",
+      "matchedKeywords": [
+        "marketing",
+        "strategy",
+        "taiwan",
+        "brand",
+        "seo",
+        "campaign",
+        "cro",
+        "digital"
+      ],
+      "score": 27
+    },
+    {
+      "source": "104",
+      "title": "跨境電商管理師 E-commerce Marketing Specialist",
+      "company": "瑞朋科技股份有限公司",
+      "location": "新北市新店區",
+      "desc": "keyword and SEO findings into the written report to support product selection and marketing strategy on major e-",
+      "url": "https://www.104.com.tw/job/6kck0",
+      "date": "20260813",
+      "matchedKeywords": [
+        "e-commerce",
+        "marketing",
+        "strategy",
+        "seo",
+        "product"
+      ],
+      "score": 17
+    },
+    {
+      "source": "104",
+      "title": "Senior Marketing Manager",
+      "company": "新析生物科技股份有限公司",
+      "location": "台北市南港區",
+      "desc": "1.Plan and execute global and regional marketing campaigns. 2.Develop marketing content for email, social media, website,",
+      "url": "https://www.104.com.tw/job/86xl8",
+      "date": "20260813",
       "matchedKeywords": [
         "content",
         "marketing",
-        "product",
+        "email",
         "campaign",
-        "reporting"
+        "site"
       ],
       "score": 17
     },
     {
       "source": "104",
-      "title": "品牌溝通室-Marketing Director (中壢廠)",
-      "company": "清河國際股份有限公司",
-      "location": "桃園市中壢區",
-      "desc": "subsidiaries and distirbutors deliver brand consistent, premium-standard experiences. 3. Digital Growth & Marketing Operations",
-      "url": "https://www.104.com.tw/job/8vzxf",
-      "date": "20260812",
+      "title": "Digital marketing coordinator－Location: XiZhi－Brand Communication Department(Fulltime/Intern)",
+      "company": "信邦電子股份有限公司",
+      "location": "新北市汐止區",
+      "desc": "意者請至同步本公司網站登錄履歷(https://bit.ly/4bbNUgS) Key Responsibilities -Coordinate digital marketing campaigns across channels such",
+      "url": "https://www.104.com.tw/job/8yyld",
+      "date": "20260813",
       "matchedKeywords": [
         "marketing",
-        "growth",
         "brand",
-        "operations",
-        "digital"
-      ],
-      "score": 17
-    },
-    {
-      "source": "104",
-      "title": "國際行銷專員 International Marketing Specialist",
-      "company": "台灣骨王生技股份有限公司",
-      "location": "台中市大雅區",
-      "desc": "product videos, and visual posters. • Manage cross-border digital marketing: Operate LinkedIn and Meta platforms; Execute SEO/SEM",
-      "url": "https://www.104.com.tw/job/8pezp",
-      "date": "20260812",
-      "matchedKeywords": [
-        "marketing",
-        "seo",
-        "product",
+        "campaign",
         "cro",
         "digital"
       ],
@@ -63,7 +103,7 @@
       "location": "台北市信義區",
       "desc": "activities, and collaborate with Marketing and Sales teams to drive e-commerce growth. 工作內容： ●負責電商平台日常營運管理，包括商品上架、價格設定、商品資訊維",
       "url": "https://www.104.com.tw/job/8ykr7",
-      "date": "20260812",
+      "date": "20260813",
       "matchedKeywords": [
         "e-commerce",
         "marketing",
@@ -74,96 +114,62 @@
     },
     {
       "source": "104",
-      "title": "Digital & CRM Manager",
-      "company": "台灣萊雅股份有限公司",
-      "location": "台北市信義區",
-      "desc": "CRM strategy works well for every aspect of the business. - Monitoring total brand digital marketing related-KPI through",
-      "url": "https://www.104.com.tw/job/94qwm",
-      "date": "20260812",
+      "title": "Marketing Head｜台南總公司",
+      "company": "早安美芝城_美芝城實業股份有限公司",
+      "location": "台南市南區",
+      "desc": "1. 品牌策略與品牌經營（Branding） 2. 會員與CRM經營（Growth & CRM） 3. 數位行銷與流量經營（Digital & Acquisition） 4. 門市與營運行銷（Performance & Retail",
+      "url": "https://www.104.com.tw/job/92wdn",
+      "date": "20260813",
       "matchedKeywords": [
         "marketing",
-        "strategy",
+        "growth",
         "brand",
         "digital"
       ],
       "score": 14
     },
     {
-      "source": "104",
-      "title": "【唯有機 Oui Organic 】跨境電商專員（英國市場） Cross-border E-commerce Specialist (UK Market)",
-      "company": "唯有機 Oui Organic_艾莉美尚股份有限公司",
-      "location": "台北市內湖區",
-      "desc": "6. 跨部門協作 ◆ 與行銷、客服、供應鏈等團隊合作 ◆ 確保品牌一致性與客戶體驗 Collaborate with marketing, customer service, and supply chain teams to ensure",
-      "url": "https://www.104.com.tw/job/8u8f7",
-      "date": "20260812",
-      "matchedKeywords": [
-        "e-commerce",
-        "marketing",
-        "organic",
-        "cro"
-      ],
-      "score": 14
-    },
-    {
-      "source": "104",
-      "title": "Consumer Marketing Specialist (Contractor)",
-      "company": "新加坡商伊萊克斯股份有限公司台灣分公司",
-      "location": "台北市松山區",
-      "desc": "global production agency India team) •Product e-commerce page content planning (liaise with product manager + internal designer)",
-      "url": "https://www.104.com.tw/job/92sob",
-      "date": "20260812",
-      "matchedKeywords": [
-        "content",
-        "e-commerce",
-        "marketing",
-        "product"
-      ],
-      "score": 14
-    },
-    {
-      "source": "104",
-      "title": "Chief, Product Marketing- Industrial Printing Solution",
-      "company": "EPSON_台灣愛普生科技股份有限公司",
-      "location": "台北市信義區",
-      "desc": "- Responsible for industrial product launches, pricing, channel management, market communications, and marketing campaign",
-      "url": "https://www.104.com.tw/job/94qmt",
-      "date": "20260812",
-      "matchedKeywords": [
-        "marketing",
-        "management",
-        "product",
-        "campaign"
-      ],
-      "score": 14
-    },
-    {
-      "source": "104",
-      "title": "【唯有機 Oui Organic 】品牌行銷企劃專員 | Brand Marketing Specialist",
-      "company": "唯有機 Oui Organic_艾莉美尚股份有限公司",
-      "location": "台北市內湖區",
-      "desc": ", customer engagement programs, and retention activities. ◆ Work closely with Design, E-commerce, Customer Service, Retail,",
-      "url": "https://www.104.com.tw/job/7uvtk",
-      "date": "20260812",
-      "matchedKeywords": [
-        "e-commerce",
-        "marketing",
-        "brand",
-        "organic"
-      ],
-      "score": 14
-    },
-    {
       "source": "LinkedIn",
-      "title": "Strategic Marketing Manager_Global Sales Transformation and Operations(Taipei)",
-      "company": "Delta Electronics",
-      "location": "Taipei City, Taiwan",
+      "title": "Marketing Digital Product Owner - Associate",
+      "company": "JPMorganChase",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/strategic-marketing-manager-global-sales-transformation-and-operations-taipei-at-delta-electronics-4426934450",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-digital-product-owner-associate-at-jpmorganchase-4404366761",
       "date": "",
       "matchedKeywords": [
         "marketing",
+        "product",
+        "digital"
+      ],
+      "score": 10
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Digital Content / Creative Services Manager for California Sports Sunglass Brand (Cycling, Baseball, Racquet)",
+      "company": "SUPACAZ",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/digital-content-creative-services-manager-for-california-sports-sunglass-brand-cycling-baseball-racquet-at-supacaz-4452354302",
+      "date": "",
+      "matchedKeywords": [
+        "content",
+        "brand",
+        "digital"
+      ],
+      "score": 10
+    },
+    {
+      "source": "104",
+      "title": "Digital Marketing Specialist",
+      "company": "倡新科技股份有限公司",
+      "location": "新北市新店區",
+      "desc": "In this position, you will be responsible for all aspects of our digital marketing operations. Your central goal is to",
+      "url": "https://www.104.com.tw/job/79awf",
+      "date": "20260813",
+      "matchedKeywords": [
+        "marketing",
         "operations",
-        "sales"
+        "digital"
       ],
       "score": 10
     }
