@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T02:17:07.124Z",
+  "generatedAt": "2026-08-26T02:23:37.164Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed"
@@ -7,47 +7,32 @@
   "jobs": [
     {
       "source": "104",
-      "title": "行銷經理 Marketing Manager (Taiwan and The USA)",
-      "company": "法麗_派脆客有限公司",
-      "location": "新北市中和區",
-      "desc": "mentor cross-border marketing and e-commerce teams, and optimize operational workflows to maximize efficiency and business",
-      "url": "https://www.104.com.tw/job/94xhk",
-      "date": "20260825",
+      "title": "Campaign Marketing Specialist",
+      "company": "Taiwan AI Labs_雅婷智慧股份有限公司",
+      "location": "台北市大同區",
+      "desc": "marketing mix across marketing channels and events 3.Researching industry publications and influencers to amplify our content and",
+      "url": "https://www.104.com.tw/job/8b5qc",
+      "date": "20260826",
       "matchedKeywords": [
-        "e-commerce",
+        "content",
         "marketing",
         "taiwan",
+        "campaign",
         "cro"
       ],
-      "score": 14
+      "score": 17
     },
     {
       "source": "104",
-      "title": "Marketing Specialist",
-      "company": "Amphenol FCI TAIWAN_台灣康旭股份有限公司",
-      "location": "桃園市桃園區",
-      "desc": "Digital Marketing – work with internal & external partners to maintain our Chinese website and WeChat account. Optimize and",
-      "url": "https://www.104.com.tw/job/8n8vs",
-      "date": "20260825",
+      "title": "Digital & CRM Manager",
+      "company": "台灣萊雅股份有限公司",
+      "location": "台北市信義區",
+      "desc": "CRM strategy works well for every aspect of the business. - Monitoring total brand digital marketing related-KPI through",
+      "url": "https://www.104.com.tw/job/94qwm",
+      "date": "20260826",
       "matchedKeywords": [
         "marketing",
-        "taiwan",
-        "digital",
-        "site"
-      ],
-      "score": 14
-    },
-    {
-      "source": "104",
-      "title": "總部行銷-Brand Marketing Manager, Assistant Manager(台北中正區)",
-      "company": "喬山健康科技股份有限公司",
-      "location": "台北市中正區",
-      "desc": "decision-making. 3、E-Commerce & Performance Partnership: Act as the Strategic Partner for local EC & Digital Marketing.",
-      "url": "https://www.104.com.tw/job/7oq6a",
-      "date": "20260825",
-      "matchedKeywords": [
-        "e-commerce",
-        "marketing",
+        "strategy",
         "brand",
         "digital"
       ],
@@ -55,90 +40,76 @@
     },
     {
       "source": "104",
-      "title": "【精化】市場行銷專員 Marketing Specialist",
-      "company": "聚和國際股份有限公司",
-      "location": "高雄市大寮區",
-      "desc": "• Plan and execute SEO strategies to improve organic traffic and conversion rates (Lead Generation) 2. Digital Marketing",
-      "url": "https://www.104.com.tw/job/90z6d",
-      "date": "20260825",
+      "title": "Marketing Communications Specialist",
+      "company": "Taiwan AI Labs_雅婷智慧股份有限公司",
+      "location": "台北市大同區",
+      "desc": "Develop and execute integrated marketing campaigns, including target audience, channel mix, and marketing strategy 4. Host and",
+      "url": "https://www.104.com.tw/job/93fuk",
+      "date": "20260826",
       "matchedKeywords": [
         "marketing",
-        "seo",
-        "organic",
-        "digital"
+        "strategy",
+        "taiwan",
+        "campaign"
+      ],
+      "score": 14
+    },
+    {
+      "source": "104",
+      "title": "Senior Marketing & Communications Executive 資深行銷公關專員 (台北/台中)",
+      "company": "美之心國際股份有限公司",
+      "location": "台中市西屯區",
+      "desc": "【About the Role】 COR is a Taiwan-based premium multi-brand e-commerce platform expanding its K-Beauty portfolio. This role",
+      "url": "https://www.104.com.tw/job/92seg",
+      "date": "20260826",
+      "matchedKeywords": [
+        "e-commerce",
+        "marketing",
+        "taiwan",
+        "brand"
       ],
       "score": 14
     },
     {
       "source": "LinkedIn",
-      "title": "Head of Consumer Strategy & Operations, Uber Eats Taiwan",
-      "company": "Uber",
-      "location": "Taipei City, Taiwan",
+      "title": "Campaign Growth Operations - Greater China",
+      "company": "Binance",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/head-of-consumer-strategy-operations-uber-eats-taiwan-at-uber-4458564136",
+      "url": "https://tw.linkedin.com/jobs/view/campaign-growth-operations-greater-china-at-binance-4457449961",
       "date": "",
       "matchedKeywords": [
-        "strategy",
-        "taiwan",
-        "operations"
-      ],
-      "score": 10
-    },
-    {
-      "source": "104",
-      "title": "資深電商銷售分析專員 (享季獎金) Senior E-Commerce Sales and Marketing Executive",
-      "company": "唯高盛國際有限公司",
-      "location": "台北市內湖區",
-      "desc": "We are seeking a Senior E-Commerce Sales and Marketing Executive to join our team. In this role you will be managing all",
-      "url": "https://www.104.com.tw/job/8951p",
-      "date": "20260825",
-      "matchedKeywords": [
-        "e-commerce",
-        "marketing",
-        "sales"
-      ],
-      "score": 10
-    },
-    {
-      "source": "104",
-      "title": "售後營運專員_E-commerce After-sales Operations Specialist",
-      "company": "WitsPer 智選家_智選科技股份有限公司",
-      "location": "新北市中和區",
-      "desc": "在本職位中，你將深度參與電商平台的退貨與退款流程，並實際檢測多樣化的 3C 產品，從中累積第一手的售後處理經驗。 透過與電商營運團隊合作，你將逐步了解品牌於電商產業中的運作模式，並在實務中持續提升問題解決能力與流程優化思維。 如果你細心負責、",
-      "url": "https://www.104.com.tw/job/8qszg",
-      "date": "20260825",
-      "matchedKeywords": [
-        "e-commerce",
+        "growth",
         "operations",
-        "sales"
+        "campaign"
       ],
       "score": 10
     },
     {
-      "source": "104",
-      "title": "行銷企劃 Marketing Specialist",
-      "company": "靜嶺股份有限公司",
-      "location": "新北市汐止區",
-      "desc": "maintain marketing materials across digital and printed channels for various markets and go-to-market initiatives. 規劃、製作並管理各市場與",
-      "url": "https://www.104.com.tw/job/8xf8t",
-      "date": "20260825",
-      "matchedKeywords": [
-        "marketing",
-        "cro",
-        "digital"
-      ],
-      "score": 10
-    },
-    {
-      "source": "104",
-      "title": "行銷企劃(亞太區商用/教育市場) Regional Marketing Specialist (B2B Commercial & Education)【明基 BenQ 亞太區】",
-      "company": "明基電通股份有限公司",
-      "location": "台北市內湖區",
-      "desc": "digital marketing, content marketing, PR, exhibitions, seminars, and partner marketing programs. • Localize global and",
-      "url": "https://www.104.com.tw/job/93r3y",
-      "date": "20260825",
+      "source": "LinkedIn",
+      "title": "Product Owner, Content and Web Operations",
+      "company": "MoneyHero Group (Nasdaq: MNY)",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/product-owner-content-and-web-operations-at-moneyhero-group-nasdaq-mny-4446536108",
+      "date": "",
       "matchedKeywords": [
         "content",
+        "operations",
+        "product"
+      ],
+      "score": 10
+    },
+    {
+      "source": "104",
+      "title": "International Business & E-commerce Assistant",
+      "company": "彪雅有限公司",
+      "location": "新北市中和區",
+      "desc": "willing to learn. 4. Interested in international business, e-commerce, digital marketing, or related fields. 5. Good",
+      "url": "https://www.104.com.tw/job/8rmze",
+      "date": "20260826",
+      "matchedKeywords": [
+        "e-commerce",
         "marketing",
         "digital"
       ],
@@ -146,16 +117,46 @@
     },
     {
       "source": "104",
-      "title": "Marketing Assistant",
-      "company": "英商希威仕股份有限公司台灣分公司",
-      "location": "台北市中正區",
-      "desc": "digital marketing, and a desire to build iconic brands, we want to hear from you. #Main Responsibilities# 【Brand",
-      "url": "https://www.104.com.tw/job/923dh",
-      "date": "20260825",
+      "title": "Influencer Marketing Specialist (German)",
+      "company": "新加坡商犀牛盾科技股份有限公司",
+      "location": "台北市南港區",
+      "desc": "experience in influencer marketing, relationship building or account management. - Good understanding of digital marketing,",
+      "url": "https://www.104.com.tw/job/7rpju",
+      "date": "20260826",
       "matchedKeywords": [
         "marketing",
-        "brand",
+        "management",
         "digital"
+      ],
+      "score": 10
+    },
+    {
+      "source": "104",
+      "title": "Marketing_Product Marketing Communications Planner 產品行銷企劃",
+      "company": "Gogoro Taiwan Limited_睿能創意股份有限公司",
+      "location": "台北市松山區",
+      "desc": "Position Impact: We are seeking a strategic Product Marketing Communications Planner to join our Taiwan Marketing team.",
+      "url": "https://www.104.com.tw/job/7vk87",
+      "date": "20260826",
+      "matchedKeywords": [
+        "marketing",
+        "taiwan",
+        "product"
+      ],
+      "score": 10
+    },
+    {
+      "source": "104",
+      "title": "PM/Marketing/Sales Engineer (車載)",
+      "company": "瑞鼎科技股份有限公司",
+      "location": "新竹市",
+      "desc": "1.熟日文者佳 2.Product promotion and design-in. 3.Customer exploration and expansion. 4.Market and competition analysis. 5.Forecast maintain and price inquiry and quote. 6.Good skill on communication and coordination.",
+      "url": "https://www.104.com.tw/job/3pa07",
+      "date": "20260826",
+      "matchedKeywords": [
+        "marketing",
+        "product",
+        "sales"
       ],
       "score": 10
     }
