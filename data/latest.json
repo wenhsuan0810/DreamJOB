@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T12:29:44.628Z",
+  "generatedAt": "2026-08-29T07:39:26.825Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed"
@@ -7,130 +7,45 @@
   "jobs": [
     {
       "source": "104",
-      "title": "E-Commerce & Social Media Specialist",
-      "company": "岱宇國際股份有限公司",
-      "location": "台北市中山區",
-      "desc": "growth of our online presence and digital sales. This role combines e-commerce management, social media strategy, and content",
-      "url": "https://www.104.com.tw/job/8md48",
-      "date": "20260828",
+      "title": "數位廣告投放專員（Digital Ad Specialist）",
+      "company": "玩構網路科技有限公司",
+      "location": "高雄市楠梓區",
+      "desc": "【為什麼選擇玩構科技？】 我們不是傳統靠人力加班的廣告代理商，而是全台唯一擁有自研 AI 工具「GenApe」的 MarTech（行銷科技）公司！ 旗下 AI 品牌 GenApe 更榮獲 113 年「亞灣雲平台微軟新創加速器」計畫肯定，正在改變企業行銷與成效獲客的方式。 【這份職缺的專屬優勢】 ● AI 工具槓桿倍增效率：善用自家 GenApe 與生成式 AI，進行文案批量產出與受眾切角發想，告別無效加班與重複素材打雜。 ● 兼具 Agency 客戶與自研 SaaS 產品成長：除了操盤各大企業與 B2B 客戶廣告，更能第一線參與 GenApe AI SaaS 產品的全球 Growth 獲客策略。 【工作內容：你的核心任務】 這不是重複做素材的機械化崗位，你將運用數據與 AI 工具，操盤多渠道廣告與流量成長： 1. 廣告策略與帳戶日常操盤 ● 主流渠道投放：獨立操作 Meta Ads（Facebook、Instagram）與 Google Ads 帳戶架構、受眾設定、出價策略與預算動態分配。 ● 素材與 Landing Page A/B 測試：撰寫高轉換廣告文案，規劃受眾與素材 A/B Testing，並對落地頁（Landing Page）提出優化建議。 ● AI 賦能行銷：運用 GenApe 及 AI 工具進行廣告素材生成、標題發想、受眾分析與文案批量產出，倍增投放效率。 2. 追蹤設定與數據分析 ● 成效歸因與追蹤：設定 GTM、GA4 轉換事件與再行銷（Remarketing）受眾包，確保數據追蹤精準。 ● 數據分析與報表彙整：定期彙整廣告成效，深度分析 CAC（獲客成本）、CPA、CPL、ROAS、CTR 等核心指標，提出具體的調優策略與預算配比建議。 3. 跨團隊協同與產品成長 ● 跨部門協作：與 Product Growth PM、Customer PM 及品牌企劃團隊緊密配合，確保廣告策略與公司商業目標、GenApe 產品成長及客戶續約方向高度一致。 【我們尋找的人才】 ✔ 工作經驗：具備 1 年以上 Google Ads 及 Meta Ads 實際操盤經驗（能獨立管理帳戶與預算）。 ✔ 數據思維：熟悉 GTM、GA4 的事件設定與分析，對轉換歸因與流量漏斗有清晰邏輯，以 ROI / ROAS 與轉換率為核心導向。 ✔ 擁抱新科技：對 AI 行銷工具（如 ChatGPT、GenApe、AI 繪圖工具等）充滿熱情，樂於嘗試新工具來提升工作效率。 ✔ 核心軟實力：具備良好的自主學習能力、邏輯思考與跨部門溝通能力，能獨立規劃與執行廣告專案。 【加分條件（有這些會大加分！）】 ♥ 代理商或多品牌經驗：有廣告代理商背景，或接過多類型 B2B / B2C / SaaS 產品的廣告投放專案。 ♥ 大額預算操盤：具備大額廣告預算投放經驗，能掌握高預算下的邊際效益調優與出價策略。 ♥ 技術細節熟悉：精通 UTM 參數規範、GA4 歸因模型、GTM 轉換追蹤等細節。 ♥ 視覺工具基礎：熟悉 Canva、Photoshop 等工具，具備基礎素材微調或排版能力。 ♥ 認證加分：持有 Google Ads 或 Meta Certified 相關認證者佳。 【公司福利與團隊支援】 ● 異地安居補貼：外縣市夥伴享有最高 6 個月的租屋補貼，協助您在異地生活。 ● 長期價值共享：提供優於同業的定期調薪幅度與子公司配股認股計劃，讓您與公司共同成長，實現長期發展。 ● 優質工作環境：辦公室設有零食櫃、茶包、冰箱、電鍋等設施，讓您在工作中能夠隨時享受輕鬆的休息時光。 ● 團隊交流時光：不定期舉行跨部門聚餐、下午茶、歡慶活動，促進團隊交流與凝聚力。",
+      "url": "https://www.104.com.tw/job/8r3g2",
+      "date": "20260829",
       "matchedKeywords": [
-        "content",
-        "e-commerce",
-        "strategy",
+        "marketing",
         "growth",
-        "management",
-        "sales",
-        "digital"
-      ],
-      "score": 24
-    },
-    {
-      "source": "104",
-      "title": "電商經理（個人貢獻者） E-commerce Manager (Individual Contributor)",
-      "company": "台灣愛德勝寵物食品有限公司",
-      "location": "台北市中山區",
-      "desc": "experience managing end-to-end e-commerce operations, not only digital marketing or campaign execution. Strong hands-on",
-      "url": "https://www.104.com.tw/job/95292",
-      "date": "20260828",
-      "matchedKeywords": [
-        "e-commerce",
-        "marketing",
-        "operations",
-        "campaign",
-        "digital"
-      ],
-      "score": 17
-    },
-    {
-      "source": "104",
-      "title": "國際行銷專員 International Marketing Specialist",
-      "company": "台灣骨王生技股份有限公司",
-      "location": "台中市大雅區",
-      "desc": "product videos, and visual posters. • Manage cross-border digital marketing: Operate LinkedIn and Meta platforms; Execute SEO/SEM",
-      "url": "https://www.104.com.tw/job/8pezp",
-      "date": "20260828",
-      "matchedKeywords": [
-        "marketing",
-        "seo",
         "product",
-        "cro",
         "digital"
       ],
-      "score": 17
+      "score": 14
     },
     {
-      "source": "104",
-      "title": "Digital Marketing Supervisor",
-      "company": "台灣資生堂股份有限公司",
-      "location": "台北市大安區",
-      "desc": "scalable practices. The role works closely with Brand, E-Commerce, regional teams, media agencies, and platform partners to",
-      "url": "https://www.104.com.tw/job/95cpb",
-      "date": "20260828",
+      "source": "LinkedIn",
+      "title": "Brand & Digital Marketing Specialist - Taipei",
+      "company": "Stanley Black & Decker, Inc.",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/brand-digital-marketing-specialist-taipei-at-stanley-black-decker-inc-4450297216",
+      "date": "",
       "matchedKeywords": [
-        "e-commerce",
         "marketing",
         "brand",
         "digital"
       ],
-      "score": 14
-    },
-    {
-      "source": "104",
-      "title": "【外商】CREATIVE DESIGNER_Packaging & Marketing (遠端辦公)",
-      "company": "新加坡商艾得克有限公司台灣分公司",
-      "location": "台北市信義區",
-      "desc": "Create engaging marketing materials for print, digital, e-commerce, social media, advertising, and retail. ● Develop product",
-      "url": "https://www.104.com.tw/job/8f31d",
-      "date": "20260828",
-      "matchedKeywords": [
-        "e-commerce",
-        "marketing",
-        "product",
-        "digital"
-      ],
-      "score": 14
-    },
-    {
-      "source": "104",
-      "title": "Product Marketing_iSystem(Sector)_內湖陽光_JR202608030",
-      "company": "Advantech_研華股份有限公司",
-      "location": "台北市內湖區",
-      "desc": "partner marketing initiatives, and executing e-commerce programs. • Create compelling product/solution marketing contents,",
-      "url": "https://www.104.com.tw/job/94us2",
-      "date": "20260828",
-      "matchedKeywords": [
-        "content",
-        "e-commerce",
-        "marketing",
-        "product"
-      ],
-      "score": 14
-    },
-    {
-      "source": "104",
-      "title": "SM2135 數位行銷專案經理 Global Digital Marketing Project Manager",
-      "company": "建騰創達科技股份有限公司",
-      "location": "台北市內湖區",
-      "desc": "[工作內容] 1. 數位行銷 (Digital Marketing) : 通過經營數位行銷平台 (Email EDM/FB/IG/官網/App/xxx)、目標用戶畫像&漏斗分 析、會",
-      "url": "https://www.104.com.tw/job/6y89v",
-      "date": "20260828",
-      "matchedKeywords": [
-        "marketing",
-        "email",
-        "digital"
-      ],
       "score": 10
     },
     {
       "source": "104",
-      "title": "資深數位行銷專員 ｜ Sr. Digital Marketing Specialist",
-      "company": "杰倫智能科技股份有限公司",
-      "location": "台北市信義區",
-      "desc": "[Job Description] - Drive digital marketing initiatives to attract MQLs - Create professional digital content for the",
-      "url": "https://www.104.com.tw/job/7y8az",
-      "date": "20260828",
+      "title": "International Business & E-commerce Assistant",
+      "company": "彪雅有限公司",
+      "location": "新北市中和區",
+      "desc": "willing to learn. 4. Interested in international business, e-commerce, digital marketing, or related fields. 5. Good",
+      "url": "https://www.104.com.tw/job/8rmze",
+      "date": "20260829",
       "matchedKeywords": [
-        "content",
+        "e-commerce",
         "marketing",
         "digital"
       ],
@@ -138,33 +53,104 @@
     },
     {
       "source": "104",
-      "title": "國際行銷助理 International Marketing Assistant",
-      "company": "CoCo都可_億可國際飲食股份有限公司",
-      "location": "台北市士林區",
-      "desc": "strategy, and from digital engagement to brick-and-mortar planning, we will guide you through the full 360° marketing",
-      "url": "https://www.104.com.tw/job/90cwx",
-      "date": "20260828",
+      "title": "Assistant Marketing Manager – Brand Events & Strategy",
+      "company": "台灣雅閣科技有限公司",
+      "location": "台北市信義區",
+      "desc": "At Accord , we are committed to driving innovation in both cloud solutions and marketing excellence. As an Assistant",
+      "url": "https://www.104.com.tw/job/90ocv",
+      "date": "20260829",
       "matchedKeywords": [
         "marketing",
         "strategy",
-        "digital"
+        "brand"
       ],
       "score": 10
     },
     {
       "source": "104",
-      "title": "Digital Marketing _AESTURA",
-      "company": "Amorepacific_愛茉莉太平洋股份有限公司",
+      "title": "通路行銷經理  Trade Marketing Manager",
+      "company": "灣維有限公司",
       "location": "台北市信義區",
-      "desc": "AESTURA’s key hero products. 3. Digital Commerce & Retail Marketing - Develop and localize digital assets for key retail and",
-      "url": "https://www.104.com.tw/job/94tjt",
-      "date": "20260828",
+      "desc": "executions. ◦Manage annual trade marketing calendar across channels (modern trade, general trade, e-commerce, specialty, etc.).",
+      "url": "https://www.104.com.tw/job/94u5x",
+      "date": "20260829",
+      "matchedKeywords": [
+        "e-commerce",
+        "marketing",
+        "cro"
+      ],
+      "score": 10
+    },
+    {
+      "source": "104",
+      "title": "Sr. Marketing Specialist / Marketing Manager",
+      "company": "達擎股份有限公司",
+      "location": "新竹市",
+      "desc": "1. Manage end-to-end marketing initiatives of products, including marketing collaterals, trade shows, and digital marketing",
+      "url": "https://www.104.com.tw/job/92n5l",
+      "date": "20260829",
       "matchedKeywords": [
         "marketing",
         "product",
         "digital"
       ],
       "score": 10
+    },
+    {
+      "source": "104",
+      "title": "Insurance & Marketing Governance Assistant Manager",
+      "company": "台灣美國運通國際股份有限公司",
+      "location": "台北市松山區",
+      "desc": "meetings, besides, this role will support AMEX product & marketing team to ensure internal policies are compliant and data",
+      "url": "https://www.104.com.tw/job/94pzp",
+      "date": "20260821",
+      "matchedKeywords": [
+        "marketing",
+        "product"
+      ],
+      "score": 7
+    },
+    {
+      "source": "104",
+      "title": "財務會計資深專員 FA Sr.Executive",
+      "company": "新加坡商三得利健益亞太股份有限公司台灣分公司",
+      "location": "台北市大同區",
+      "desc": "for retail channels and official e-commerce websites (e.g., PCS, Hyper, etc.). 2.Process and manage Accounts Payable (AP).",
+      "url": "https://www.104.com.tw/job/951n0",
+      "date": "20260827",
+      "matchedKeywords": [
+        "e-commerce",
+        "site"
+      ],
+      "score": 7
+    },
+    {
+      "source": "104",
+      "title": "Senior Marketing Officer",
+      "company": "台灣雅閣科技有限公司",
+      "location": "台北市信義區",
+      "desc": "We are seeking a proactive and digitally savvy Senior Marketing Officer with a solid foundation in digital marketing. You",
+      "url": "https://www.104.com.tw/job/90ore",
+      "date": "20260829",
+      "matchedKeywords": [
+        "marketing",
+        "digital"
+      ],
+      "score": 7
+    },
+    {
+      "source": "104",
+      "title": "Overseas Market Intern - TW&HK (Anti-Scam)",
+      "company": "Gogolook_走著瞧股份有限公司",
+      "location": "台北市大安區",
+      "desc": "prospect lists and databases 4. Support the creation of sales presentations and B2B marketing communication materials for",
+      "url": "https://www.104.com.tw/job/8z6dj",
+      "date": "20260829",
+      "matchedKeywords": [
+        "marketing",
+        "sales"
+      ],
+      "score": 7
     }
   ]
 }
