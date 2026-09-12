@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T05:37:05.253Z",
+  "generatedAt": "2026-09-12T05:24:25.645Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
@@ -8,30 +8,44 @@
   "jobs": [
     {
       "source": "LinkedIn",
-      "title": "SEO & Content Strategy Specialist (Global Markets)",
-      "company": "GagaOOLala",
-      "location": "Taipei City, Taipei City, Taiwan",
+      "title": "E-Commerce (Sr.)Product Manager 產品經理",
+      "company": "Yahoo Taiwan E-Commerce",
+      "location": "Neihu District, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/seo-content-strategy-specialist-global-markets-at-gagaoolala-4464186517",
+      "url": "https://tw.linkedin.com/jobs/view/e-commerce-sr-product-manager-%E7%94%A2%E5%93%81%E7%B6%93%E7%90%86-at-yahoo-taiwan-e-commerce-4464856400",
       "date": "",
       "matchedKeywords": [
-        "content",
-        "strategy",
-        "seo"
+        "e-commerce",
+        "taiwan",
+        "product"
       ],
       "score": 10
     },
     {
       "source": "LinkedIn",
-      "title": "Strategy Planning & Client Growth Expert",
-      "company": "Alibaba.com",
+      "title": "Taiwan Marketing Manager",
+      "company": "Cricut",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/strategy-planning-client-growth-expert-at-alibaba-com-4466019745",
+      "url": "https://tw.linkedin.com/jobs/view/taiwan-marketing-manager-at-cricut-4408802387",
       "date": "",
       "matchedKeywords": [
-        "strategy",
-        "growth"
+        "marketing",
+        "taiwan"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "【內部職缺】Marketing: Digital Marketing Specialist",
+      "company": "Adecco",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/%E3%80%90%E5%85%A7%E9%83%A8%E8%81%B7%E7%BC%BA%E3%80%91marketing-digital-marketing-specialist-at-adecco-4466306321",
+      "date": "",
+      "matchedKeywords": [
+        "marketing",
+        "digital"
       ],
       "score": 7
     },
@@ -41,7 +55,7 @@
       "company": "Agoda",
       "location": "Taichung–Changhua Metropolitan Area",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/associate-manager-marketing-strategy-bangkok-based-relocation-provided-at-agoda-4410529803",
+      "url": "https://tw.linkedin.com/jobs/view/associate-manager-marketing-strategy-bangkok-based-relocation-provided-at-agoda-4466054647",
       "date": "",
       "matchedKeywords": [
         "marketing",
@@ -51,93 +65,81 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Senior Analyst/ Associate Manager, Marketing Strategy (Bangkok based/ Relocation provided)",
-      "company": "Agoda",
-      "location": "Kaohsiung City, Kaohsiung City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-analyst-associate-manager-marketing-strategy-bangkok-based-relocation-provided-at-agoda-4410536665",
-      "date": "",
-      "matchedKeywords": [
-        "marketing",
-        "strategy"
-      ],
-      "score": 7
-    },
-    {
-      "source": "LinkedIn",
-      "title": "E.EMEA eCommerce Digital Specialist",
-      "company": "ASUS",
-      "location": "Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/e-emea-ecommerce-digital-specialist-at-asus-4399397609",
-      "date": "",
-      "matchedKeywords": [
-        "digital"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "ANALYST DIGITAL MKTG IV",
-      "company": "TE Connectivity",
-      "location": "Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/analyst-digital-mktg-iv-at-te-connectivity-4466021892",
-      "date": "",
-      "matchedKeywords": [
-        "digital"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Account Manager | Digital Media",
-      "company": "FABCOM",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/account-manager-digital-media-at-fabcom-4464844238",
-      "date": "",
-      "matchedKeywords": [
-        "digital"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "online sales",
+      "title": "外商精品服飾 : Operations Assistant Manager",
       "company": "Adecco",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/online-sales-at-adecco-4465607947",
+      "url": "https://tw.linkedin.com/jobs/view/%E5%A4%96%E5%95%86%E7%B2%BE%E5%93%81%E6%9C%8D%E9%A3%BE-operations-assistant-manager-at-adecco-4466310267",
       "date": "",
       "matchedKeywords": [
-        "sales"
+        "operations"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "DV360 Specialist, Customer Success",
-      "company": "PAPERLOGIC INNOVATION TAIWAN",
-      "location": "Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/dv360-specialist-customer-success-at-paperlogic-innovation-taiwan-4463839042",
-      "date": "",
-      "matchedKeywords": [
-        "taiwan"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Advertising Supervisor (Assistant Manager)",
-      "company": "Robert Walters",
+      "title": "Senior Marketing Communication Executive",
+      "company": "Samsonite Group APAC & Middle East",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/advertising-supervisor-assistant-manager-at-robert-walters-4464840026",
+      "url": "https://tw.linkedin.com/jobs/view/senior-marketing-communication-executive-at-samsonite-group-apac-middle-east-4445045962",
       "date": "",
-      "matchedKeywords": [],
-      "score": 0
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Associate Manager, Customer Marketing (Bangkok Based, Relocation Provided)",
+      "company": "Agoda",
+      "location": "Taichung–Changhua Metropolitan Area",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/associate-manager-customer-marketing-bangkok-based-relocation-provided-at-agoda-4466065141",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Advanced Data and Digital Analytics Manager",
+      "company": "CHANEL",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/advanced-data-and-digital-analytics-manager-at-chanel-4456244019",
+      "date": "",
+      "matchedKeywords": [
+        "digital"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Digital Creative Specialist",
+      "company": "Acer",
+      "location": "Taipei–Keelung Metropolitan area",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/digital-creative-specialist-at-acer-4464879102",
+      "date": "",
+      "matchedKeywords": [
+        "digital"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Brand Manager",
+      "company": "Suntory Global Spirits",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/brand-manager-at-suntory-global-spirits-4433083553",
+      "date": "",
+      "matchedKeywords": [
+        "brand"
+      ],
+      "score": 3
     }
   ]
 }
