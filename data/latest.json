@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T05:39:39.802Z",
+  "generatedAt": "2026-09-14T05:47:48.405Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
@@ -8,15 +8,31 @@
   "jobs": [
     {
       "source": "LinkedIn",
-      "title": "eCommerce Product Specialist",
-      "company": "Supermicro",
-      "location": "Bade District, Taoyuan City, Taiwan",
+      "title": "Manager, Merchandising & Supply Growth (Campaign strategy & P&L management)",
+      "company": "Klook",
+      "location": "Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/ecommerce-product-specialist-at-supermicro-4419595221",
+      "url": "https://tw.linkedin.com/jobs/view/manager-merchandising-supply-growth-campaign-strategy-p-l-management-at-klook-4403416422",
       "date": "",
       "matchedKeywords": [
-        "product",
-        "cro"
+        "strategy",
+        "growth",
+        "management",
+        "campaign"
+      ],
+      "score": 14
+    },
+    {
+      "source": "LinkedIn",
+      "title": "[L'OREAL Taiwan] CRM & Digital, Aesop",
+      "company": "Aesop",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/l-oreal-taiwan-crm-digital-aesop-at-aesop-4437577083",
+      "date": "",
+      "matchedKeywords": [
+        "taiwan",
+        "digital"
       ],
       "score": 7
     },
@@ -24,9 +40,9 @@
       "source": "LinkedIn",
       "title": "Senior Analyst/ Associate Manager, Marketing Strategy (Bangkok based/ Relocation provided)",
       "company": "Agoda",
-      "location": "Taichung–Changhua Metropolitan Area",
+      "location": "Tainan City, Tainan City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-analyst-associate-manager-marketing-strategy-bangkok-based-relocation-provided-at-agoda-4410550003",
+      "url": "https://tw.linkedin.com/jobs/view/senior-analyst-associate-manager-marketing-strategy-bangkok-based-relocation-provided-at-agoda-4410548357",
       "date": "",
       "matchedKeywords": [
         "marketing",
@@ -36,51 +52,11 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Product Marketing Sr. Specialist",
-      "company": "TrendLife",
+      "title": "Market Executive, Taiwan",
+      "company": "Trip.com Group",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/product-marketing-sr-specialist-at-trendlife-4430481016",
-      "date": "",
-      "matchedKeywords": [
-        "marketing",
-        "product"
-      ],
-      "score": 7
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Marketing Manager APAC - Functional Complements",
-      "company": "Mars",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/marketing-manager-apac-functional-complements-at-mars-4446792683",
-      "date": "",
-      "matchedKeywords": [
-        "marketing"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Territory Channel Marketing Specialist - APAC",
-      "company": "ASUS",
-      "location": "Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/territory-channel-marketing-specialist-apac-at-asus-4381298360",
-      "date": "",
-      "matchedKeywords": [
-        "marketing"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Chinese Specialist, Taiwan (Localization Specialist)",
-      "company": "lululemon",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/chinese-specialist-taiwan-localization-specialist-at-lululemon-4464717103",
+      "url": "https://tw.linkedin.com/jobs/view/market-executive-taiwan-at-trip-com-group-4465479957",
       "date": "",
       "matchedKeywords": [
         "taiwan"
@@ -89,44 +65,70 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Key Account & Media Catalog Manager (Japanese speaking)",
-      "company": "Klook",
-      "location": "Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/key-account-media-catalog-manager-japanese-speaking-at-klook-4447523968",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Client Partner, Uber Advertising",
-      "company": "Uber Advertising",
-      "location": "Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/client-partner-uber-advertising-at-uber-advertising-4466477505",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
-    },
-    {
-      "source": "LinkedIn",
-      "title": "新創業務發展專員",
-      "company": "GeoWeb",
-      "location": "Taichung City, Taichung City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E6%96%B0%E5%89%B5%E6%A5%AD%E5%8B%99%E7%99%BC%E5%B1%95%E5%B0%88%E5%93%A1-at-geoweb-4465411747",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Head of GTMC, HKTW",
-      "company": "Sanofi",
+      "title": "Senior Product Manager",
+      "company": "Coupang",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/head-of-gtmc-hktw-at-sanofi-4457313461",
+      "url": "https://tw.linkedin.com/jobs/view/senior-product-manager-at-coupang-4465495700",
+      "date": "",
+      "matchedKeywords": [
+        "product"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Marketing and Communications intern-TW",
+      "company": "Ericsson",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-and-communications-intern-tw-at-ericsson-4465475665",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "資深數位行銷企劃",
+      "company": "凱基證券 KGI SECURITIES",
+      "location": "Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/%E8%B3%87%E6%B7%B1%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7%E4%BC%81%E5%8A%83-at-%E5%87%B1%E5%9F%BA%E8%AD%89%E5%88%B8-kgi-securities-4465486562",
+      "date": "",
+      "matchedKeywords": [],
+      "score": 0
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Account Manager",
+      "company": "RTB House",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/account-manager-at-rtb-house-4418810797",
+      "date": "",
+      "matchedKeywords": [],
+      "score": 0
+    },
+    {
+      "source": "LinkedIn",
+      "title": "內容編輯助理/行政助理",
+      "company": "國峯厝好貸",
+      "location": "Zhongzheng District, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/%E5%85%A7%E5%AE%B9%E7%B7%A8%E8%BC%AF%E5%8A%A9%E7%90%86-%E8%A1%8C%E6%94%BF%E5%8A%A9%E7%90%86-at-%E5%9C%8B%E5%B3%AF%E5%8E%9D%E5%A5%BD%E8%B2%B8-4465480909",
+      "date": "",
+      "matchedKeywords": [],
+      "score": 0
+    },
+    {
+      "source": "LinkedIn",
+      "title": "網紅行銷暨經紀事業主任 Supervisor, Social Talent Agency",
+      "company": "Condé Nast",
+      "location": "Taipei–Keelung Metropolitan area",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/%E7%B6%B2%E7%B4%85%E8%A1%8C%E9%8A%B7%E6%9A%A8%E7%B6%93%E7%B4%80%E4%BA%8B%E6%A5%AD%E4%B8%BB%E4%BB%BB-supervisor-social-talent-agency-at-cond%C3%A9-nast-4447185057",
       "date": "",
       "matchedKeywords": [],
       "score": 0
