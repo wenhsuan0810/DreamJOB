@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T05:49:11.853Z",
+  "generatedAt": "2026-09-16T05:38:07.342Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
@@ -8,39 +8,96 @@
   "jobs": [
     {
       "source": "LinkedIn",
-      "title": "【安達產險】E-Commerce & Digital Solution Supervisor",
-      "company": "Chubb",
-      "location": "Taipei City, Taiwan",
+      "title": "Growth Strategy & Campaign Manager - Greater China",
+      "company": "Binance",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E3%80%90%E5%AE%89%E9%81%94%E7%94%A2%E9%9A%AA%E3%80%91e-commerce-digital-solution-supervisor-at-chubb-4408850076",
+      "url": "https://tw.linkedin.com/jobs/view/growth-strategy-campaign-manager-greater-china-at-binance-4457449961",
       "date": "",
       "matchedKeywords": [
-        "e-commerce",
+        "strategy",
+        "growth",
+        "campaign"
+      ],
+      "score": 10
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Digital Channel Supervisor",
+      "company": "Fairton International Group Taiwan Branch",
+      "location": "Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/digital-channel-supervisor-at-fairton-international-group-taiwan-branch-4466184961",
+      "date": "",
+      "matchedKeywords": [
+        "taiwan",
         "digital"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "【內部職缺】Digital Marketing Specialist",
-      "company": "Adecco",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "Brand Marketing",
+      "company": "Taipei–Keelung Metropolitan area 2 hours ago",
+      "location": "Taipei–Keelung Metropolitan area",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E3%80%90%E5%85%A7%E9%83%A8%E8%81%B7%E7%BC%BA%E3%80%91digital-marketing-specialist-at-adecco-4466151684",
+      "url": "https://tw.linkedin.com/jobs/view/brand-marketing-4448936403",
       "date": "",
       "matchedKeywords": [
         "marketing",
-        "digital"
+        "brand"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "Shopee APP - Marketing Project Associate (VIP) / Marketing",
+      "title": "Senior Data Analyst, Growth Marketing",
+      "company": "Coupang",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/senior-data-analyst-growth-marketing-at-coupang-4466502313",
+      "date": "",
+      "matchedKeywords": [
+        "marketing",
+        "growth"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "E-Commerce Specialist (Shopify, Amazon, or Similar) for California Sports Sunglass Brand (Cycling, Baseball, Racquet)",
+      "company": "SUPACAZ",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/e-commerce-specialist-shopify-amazon-or-similar-for-california-sports-sunglass-brand-cycling-baseball-racquet-at-supacaz-4465528005",
+      "date": "",
+      "matchedKeywords": [
+        "e-commerce",
+        "brand"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Marketing Lead for California Sports Sunglass Brand (Cycling, Baseball, Racquet)",
+      "company": "SUPACAZ",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-lead-for-california-sports-sunglass-brand-cycling-baseball-racquet-at-supacaz-4465508027",
+      "date": "",
+      "matchedKeywords": [
+        "marketing",
+        "brand"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "(歡迎新鮮人!!)Shopee APP - 策略聯盟行銷 Affiliate & Performance Marketing Specialist / Marketing",
       "company": "Shopee",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/shopee-app-marketing-project-associate-vip-marketing-at-shopee-4465725677",
+      "url": "https://tw.linkedin.com/jobs/view/%E6%AD%A1%E8%BF%8E%E6%96%B0%E9%AE%AE%E4%BA%BA%21%21-shopee-app-%E7%AD%96%E7%95%A5%E8%81%AF%E7%9B%9F%E8%A1%8C%E9%8A%B7-affiliate-performance-marketing-specialist-marketing-at-shopee-4466171876",
       "date": "",
       "matchedKeywords": [
         "marketing"
@@ -49,50 +106,24 @@
     },
     {
       "source": "LinkedIn",
-      "title": "EC Trade Marketing",
-      "company": "Adecco",
-      "location": "Taipei–Keelung Metropolitan area",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/ec-trade-marketing-at-adecco-4467098413",
-      "date": "",
-      "matchedKeywords": [
-        "marketing"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Shopee APP - Marketing Specialist / Marketing (Native speaker of Indonesian or Vietnamese)",
-      "company": "Shopee",
+      "title": "Staff Data Scientist (Growth)",
+      "company": "Coupang",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/shopee-app-marketing-specialist-marketing-native-speaker-of-indonesian-or-vietnamese-at-shopee-4465767472",
+      "url": "https://tw.linkedin.com/jobs/view/staff-data-scientist-growth-at-coupang-4466824130",
       "date": "",
       "matchedKeywords": [
-        "marketing"
+        "growth"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "Affiliate BD Manager (Taiwan)",
-      "company": "OKX",
-      "location": "Taiwan",
+      "title": "Senior Brand Manager",
+      "company": "Henkel",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/affiliate-bd-manager-taiwan-at-okx-4465774005",
-      "date": "",
-      "matchedKeywords": [
-        "taiwan"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Assistant Brand Manager, Purina Petcare",
-      "company": "Nestlé",
-      "location": "Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/assistant-brand-manager-purina-petcare-at-nestl%C3%A9-4466148648",
+      "url": "https://tw.linkedin.com/jobs/view/senior-brand-manager-at-henkel-4466535872",
       "date": "",
       "matchedKeywords": [
         "brand"
@@ -101,35 +132,11 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Senior APAC Marketing Manager",
-      "company": "GMI Cloud",
+      "title": "Maketing Specialist, IPSA",
+      "company": "Shiseido",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-apac-marketing-manager-at-gmi-cloud-4455288207",
-      "date": "",
-      "matchedKeywords": [
-        "marketing"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Creative Strategist",
-      "company": "Grvt",
-      "location": "Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/creative-strategist-at-grvt-4453679910",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
-    },
-    {
-      "source": "LinkedIn",
-      "title": "E-health & Patient Ecosystem Manager I-Taipei",
-      "company": "Novo Nordisk",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/e-health-patient-ecosystem-manager-i-taipei-at-novo-nordisk-4465200925",
+      "url": "https://tw.linkedin.com/jobs/view/maketing-specialist-ipsa-at-shiseido-4467929789",
       "date": "",
       "matchedKeywords": [],
       "score": 0
