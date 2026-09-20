@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T05:29:30.158Z",
+  "generatedAt": "2026-09-20T05:42:55.905Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
@@ -8,66 +8,38 @@
   "jobs": [
     {
       "source": "LinkedIn",
-      "title": "Growth Marketing Specialist ( Korea Market) 마케팅 스페셜리스트 (한국 시장)",
-      "company": "Meitu Inc.",
+      "title": "Marketing and Product Manager",
+      "company": "General Motors",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/growth-marketing-specialist-korea-market-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%8A%A4%ED%8E%98%EC%85%9C%EB%A6%AC%EC%8A%A4%ED%8A%B8-%ED%95%9C%EA%B5%AD-%EC%8B%9C%EC%9E%A5-at-meitu-inc-4469172504",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-and-product-manager-at-general-motors-4433565873",
       "date": "",
       "matchedKeywords": [
         "marketing",
-        "growth"
+        "product"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "[全遠端] 韓國品牌台灣行銷專員",
-      "company": "Taiwan 101 Marketing",
-      "location": "Taiwan",
+      "title": "Marketing Automation Specialist",
+      "company": "Mouser",
+      "location": "Neihu District, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E5%85%A8%E9%81%A0%E7%AB%AF-%E9%9F%93%E5%9C%8B%E5%93%81%E7%89%8C%E5%8F%B0%E7%81%A3%E8%A1%8C%E9%8A%B7%E5%B0%88%E5%93%A1-at-taiwan-101-marketing-4469115473",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-automation-specialist-at-mouser-4449201120",
       "date": "",
       "matchedKeywords": [
-        "marketing",
-        "taiwan"
-      ],
-      "score": 7
-    },
-    {
-      "source": "LinkedIn",
-      "title": "[L'OREAL Taiwan] Digital Communication Assistant Manager/Manager",
-      "company": "L'Oréal",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/l-oreal-taiwan-digital-communication-assistant-manager-manager-at-l-or%C3%A9al-4467839689",
-      "date": "",
-      "matchedKeywords": [
-        "taiwan",
-        "digital"
-      ],
-      "score": 7
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Campaign Executive",
-      "company": "Appier",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/campaign-executive-at-appier-4192065008",
-      "date": "",
-      "matchedKeywords": [
-        "campaign"
+        "marketing"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "Brand Image Designer",
-      "company": "Samsonite Group APAC & Middle East",
+      "title": "Social Media Director for California Sports Sunglass Brand (Cycling, Baseball, Racquet)",
+      "company": "SUPACAZ",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/brand-image-designer-at-samsonite-group-apac-middle-east-4419691427",
+      "url": "https://tw.linkedin.com/jobs/view/social-media-director-for-california-sports-sunglass-brand-cycling-baseball-racquet-at-supacaz-4466984164",
       "date": "",
       "matchedKeywords": [
         "brand"
@@ -76,59 +48,89 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Senior Integrated Marketing Specialist",
-      "company": "Coupang",
-      "location": "Taipei–Keelung Metropolitan area",
+      "title": "Senior Digital PR & Communications Executive",
+      "company": "Shiseido",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-integrated-marketing-specialist-at-coupang-4442281919",
+      "url": "https://tw.linkedin.com/jobs/view/senior-digital-pr-communications-executive-at-shiseido-4448726967",
       "date": "",
       "matchedKeywords": [
-        "marketing"
+        "digital"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "Shopper Marketing Assistant Manager 購物者行銷",
-      "company": "GLICO",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "Sr. eCommerce Project Manager",
+      "company": "Supermicro",
+      "location": "Bade District, Taoyuan City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/shopper-marketing-assistant-manager-%E8%B3%BC%E7%89%A9%E8%80%85%E8%A1%8C%E9%8A%B7-at-glico-4467853031",
+      "url": "https://tw.linkedin.com/jobs/view/sr-ecommerce-project-manager-at-supermicro-4423099965",
       "date": "",
       "matchedKeywords": [
-        "marketing"
+        "cro"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "【凱基證券/數據暨整合行銷部】資深數位行銷企劃",
-      "company": "凱基證券 KGI SECURITIES",
-      "location": "Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E3%80%90%E5%87%B1%E5%9F%BA%E8%AD%89%E5%88%B8-%E6%95%B8%E6%93%9A%E6%9A%A8%E6%95%B4%E5%90%88%E8%A1%8C%E9%8A%B7%E9%83%A8%E3%80%91%E8%B3%87%E6%B7%B1%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7%E4%BC%81%E5%8A%83-at-%E5%87%B1%E5%9F%BA%E8%AD%89%E5%88%B8-kgi-securities-4467824820",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Search Solutions Expert (English, Mandarin)",
-      "company": "Google",
+      "title": "Brand Manager (Ｏphthalmology)",
+      "company": "Michael Page",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/search-solutions-expert-english-mandarin-at-google-4458967056",
+      "url": "https://tw.linkedin.com/jobs/view/brand-manager-%EF%BD%8Fphthalmology-at-michael-page-4469540493",
       "date": "",
-      "matchedKeywords": [],
-      "score": 0
+      "matchedKeywords": [
+        "brand"
+      ],
+      "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "【凱基證券/數據暨整合行銷部】資深社群行銷企劃人員",
-      "company": "凱基證券 KGI SECURITIES",
-      "location": "Taipei City, Taiwan",
+      "title": "Brand Manager",
+      "company": "Eli Lilly and Company",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E3%80%90%E5%87%B1%E5%9F%BA%E8%AD%89%E5%88%B8-%E6%95%B8%E6%93%9A%E6%9A%A8%E6%95%B4%E5%90%88%E8%A1%8C%E9%8A%B7%E9%83%A8%E3%80%91%E8%B3%87%E6%B7%B1%E7%A4%BE%E7%BE%A4%E8%A1%8C%E9%8A%B7%E4%BC%81%E5%8A%83%E4%BA%BA%E5%93%A1-at-%E5%87%B1%E5%9F%BA%E8%AD%89%E5%88%B8-kgi-securities-4467832732",
+      "url": "https://tw.linkedin.com/jobs/view/brand-manager-at-eli-lilly-and-company-4432544340",
+      "date": "",
+      "matchedKeywords": [
+        "brand"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Partnership Manager / Talent Acquisition Lead (Athletes/Influencers/Celebrities) for California Sports Sunglass Brand (Cycling, Baseball, Racquet)",
+      "company": "SUPACAZ",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/partnership-manager-talent-acquisition-lead-athletes-influencers-celebrities-for-california-sports-sunglass-brand-cycling-baseball-racquet-at-supacaz-4466973393",
+      "date": "",
+      "matchedKeywords": [
+        "brand"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Brand Manager - Immunology",
+      "company": "Michael Page",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/brand-manager-immunology-at-michael-page-4469536587",
+      "date": "",
+      "matchedKeywords": [
+        "brand"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Senior Graphic Designer",
+      "company": "ThreeTrader",
+      "location": "Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/senior-graphic-designer-at-threetrader-4468066294",
       "date": "",
       "matchedKeywords": [],
       "score": 0
