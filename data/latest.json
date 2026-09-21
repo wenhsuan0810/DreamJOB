@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T05:42:55.905Z",
+  "generatedAt": "2026-09-21T05:54:29.757Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
@@ -8,30 +8,45 @@
   "jobs": [
     {
       "source": "LinkedIn",
-      "title": "Marketing and Product Manager",
-      "company": "General Motors",
+      "title": "Marketing Manager, Taiwan",
+      "company": "SharkNinja APAC",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/marketing-and-product-manager-at-general-motors-4433565873",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-manager-taiwan-at-sharkninja-apac-4420149951",
       "date": "",
       "matchedKeywords": [
         "marketing",
-        "product"
+        "taiwan"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "Marketing Automation Specialist",
-      "company": "Mouser",
-      "location": "Neihu District, Taipei City, Taiwan",
+      "title": "Principal, Account Management （Marketplace） / 資深平台招商經理",
+      "company": "Coupang",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/marketing-automation-specialist-at-mouser-4449201120",
+      "url": "https://tw.linkedin.com/jobs/view/principal-account-management-%EF%BC%88marketplace%EF%BC%89-%E8%B3%87%E6%B7%B1%E5%B9%B3%E5%8F%B0%E6%8B%9B%E5%95%86%E7%B6%93%E7%90%86-at-coupang-4468443458",
       "date": "",
       "matchedKeywords": [
-        "marketing"
+        "management",
+        "marketplace"
       ],
-      "score": 3
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "E-Commerce Specialist (Shopify, Amazon, or Similar) for California Sports Sunglass Brand (Cycling, Baseball, Racquet)",
+      "company": "SUPACAZ",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/e-commerce-specialist-shopify-amazon-or-similar-for-california-sports-sunglass-brand-cycling-baseball-racquet-at-supacaz-4467355365",
+      "date": "",
+      "matchedKeywords": [
+        "e-commerce",
+        "brand"
+      ],
+      "score": 7
     },
     {
       "source": "LinkedIn",
@@ -39,7 +54,7 @@
       "company": "SUPACAZ",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/social-media-director-for-california-sports-sunglass-brand-cycling-baseball-racquet-at-supacaz-4466984164",
+      "url": "https://tw.linkedin.com/jobs/view/social-media-director-for-california-sports-sunglass-brand-cycling-baseball-racquet-at-supacaz-4467340727",
       "date": "",
       "matchedKeywords": [
         "brand"
@@ -48,37 +63,11 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Senior Digital PR & Communications Executive",
-      "company": "Shiseido",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-digital-pr-communications-executive-at-shiseido-4448726967",
-      "date": "",
-      "matchedKeywords": [
-        "digital"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Sr. eCommerce Project Manager",
-      "company": "Supermicro",
-      "location": "Bade District, Taoyuan City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/sr-ecommerce-project-manager-at-supermicro-4423099965",
-      "date": "",
-      "matchedKeywords": [
-        "cro"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Brand Manager (Ｏphthalmology)",
+      "title": "Brand Manager - Hematology",
       "company": "Michael Page",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/brand-manager-%EF%BD%8Fphthalmology-at-michael-page-4469540493",
+      "url": "https://tw.linkedin.com/jobs/view/brand-manager-hematology-at-michael-page-4469597109",
       "date": "",
       "matchedKeywords": [
         "brand"
@@ -87,50 +76,59 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Brand Manager",
-      "company": "Eli Lilly and Company",
+      "title": "Senior Product Operation Manager, Binance Square",
+      "company": "Binance",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/brand-manager-at-eli-lilly-and-company-4432544340",
+      "url": "https://tw.linkedin.com/jobs/view/senior-product-operation-manager-binance-square-at-binance-4414470290",
       "date": "",
       "matchedKeywords": [
-        "brand"
+        "product"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "Partnership Manager / Talent Acquisition Lead (Athletes/Influencers/Celebrities) for California Sports Sunglass Brand (Cycling, Baseball, Racquet)",
-      "company": "SUPACAZ",
+      "title": "Senior Manager, Business Development, McDonald’s Taiwan",
+      "company": "The Coca-Cola Company",
+      "location": "Xinyi District, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/senior-manager-business-development-mcdonald%E2%80%99s-taiwan-at-the-coca-cola-company-4468498003",
+      "date": "",
+      "matchedKeywords": [
+        "taiwan"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Assistant EC Manager",
+      "company": "Reckitt",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/partnership-manager-talent-acquisition-lead-athletes-influencers-celebrities-for-california-sports-sunglass-brand-cycling-baseball-racquet-at-supacaz-4466973393",
+      "url": "https://tw.linkedin.com/jobs/view/assistant-ec-manager-at-reckitt-4433390950",
       "date": "",
-      "matchedKeywords": [
-        "brand"
-      ],
-      "score": 3
+      "matchedKeywords": [],
+      "score": 0
     },
     {
       "source": "LinkedIn",
-      "title": "Brand Manager - Immunology",
-      "company": "Michael Page",
+      "title": "Data Scientist, Analytics",
+      "company": "Appier",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/brand-manager-immunology-at-michael-page-4469536587",
+      "url": "https://tw.linkedin.com/jobs/view/data-scientist-analytics-at-appier-4192060797",
       "date": "",
-      "matchedKeywords": [
-        "brand"
-      ],
-      "score": 3
+      "matchedKeywords": [],
+      "score": 0
     },
     {
       "source": "LinkedIn",
-      "title": "Senior Graphic Designer",
-      "company": "ThreeTrader",
-      "location": "Taiwan",
+      "title": "[凱基金控] 數據分析師",
+      "company": "凱基金控 KGI Financial",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-graphic-designer-at-threetrader-4468066294",
+      "url": "https://tw.linkedin.com/jobs/view/%E5%87%B1%E5%9F%BA%E9%87%91%E6%8E%A7-%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E5%B8%AB-at-%E5%87%B1%E5%9F%BA%E9%87%91%E6%8E%A7-kgi-financial-4469844091",
       "date": "",
       "matchedKeywords": [],
       "score": 0
