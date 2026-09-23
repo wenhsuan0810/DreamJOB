@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T05:51:48.188Z",
+  "generatedAt": "2026-09-23T05:29:23.921Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
@@ -8,29 +8,44 @@
   "jobs": [
     {
       "source": "LinkedIn",
-      "title": "Digital Marketing Senior Specialist",
-      "company": "ACT Genomics",
+      "title": "Earn Product Operations & User Growth",
+      "company": "Binance",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/digital-marketing-senior-specialist-at-act-genomics-4461038204",
+      "url": "https://tw.linkedin.com/jobs/view/earn-product-operations-user-growth-at-binance-4451110206",
+      "date": "",
+      "matchedKeywords": [
+        "growth",
+        "operations",
+        "product"
+      ],
+      "score": 10
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Assistant Brand Manager Marketing",
+      "company": "喬山健康科技股份有限公司",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/assistant-brand-manager-marketing-at-%E5%96%AC%E5%B1%B1%E5%81%A5%E5%BA%B7%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-4468522843",
       "date": "",
       "matchedKeywords": [
         "marketing",
-        "digital"
+        "brand"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "[L'OREAL Taiwan] Digital Communication Assistant Manager/Manager",
-      "company": "L'Oréal",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "Marketing Operation Coordinator (1 year contract)",
+      "company": "Rakuten Kobo Inc.",
+      "location": "Taipei–Keelung Metropolitan area",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/l-oreal-taiwan-digital-communication-assistant-manager-manager-at-l-or%C3%A9al-4467839689",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-operation-coordinator-1-year-contract-at-rakuten-kobo-inc-4451375159",
       "date": "",
       "matchedKeywords": [
-        "taiwan",
-        "digital"
+        "marketing",
+        "rakuten"
       ],
       "score": 7
     },
@@ -40,7 +55,7 @@
       "company": "SUPACAZ",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/e-commerce-specialist-shopify-amazon-or-similar-for-california-sports-sunglass-brand-cycling-baseball-racquet-at-supacaz-4468191469",
+      "url": "https://tw.linkedin.com/jobs/view/e-commerce-specialist-shopify-amazon-or-similar-for-california-sports-sunglass-brand-cycling-baseball-racquet-at-supacaz-4468954929",
       "date": "",
       "matchedKeywords": [
         "e-commerce",
@@ -50,38 +65,11 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Marketing Specialist, Taiwan & Hong Kong",
-      "company": "Align Technology",
+      "title": "Senior Marketing Associate - Retention 資深會員經營專員",
+      "company": "Lalamove",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/marketing-specialist-taiwan-hong-kong-at-align-technology-4459779805",
-      "date": "",
-      "matchedKeywords": [
-        "marketing",
-        "taiwan"
-      ],
-      "score": 7
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Social Media Director for California Sports Sunglass Brand (Cycling, Baseball, Racquet)",
-      "company": "SUPACAZ",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/social-media-director-for-california-sports-sunglass-brand-cycling-baseball-racquet-at-supacaz-4468197189",
-      "date": "",
-      "matchedKeywords": [
-        "brand"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Senior Data Analyst (Marketing)",
-      "company": "Coupang",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-data-analyst-marketing-at-coupang-4468459370",
+      "url": "https://tw.linkedin.com/jobs/view/senior-marketing-associate-retention-%E8%B3%87%E6%B7%B1%E6%9C%83%E5%93%A1%E7%B6%93%E7%87%9F%E5%B0%88%E5%93%A1-at-lalamove-4470280621",
       "date": "",
       "matchedKeywords": [
         "marketing"
@@ -90,47 +78,68 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Affiliate B2B Account Manager",
-      "company": "Coupang",
+      "title": "Garena - Marketing Associate 行銷投廣專員 (傳說對決)",
+      "company": "Garena",
+      "location": "Taipei–Keelung Metropolitan area",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/garena-marketing-associate-%E8%A1%8C%E9%8A%B7%E6%8A%95%E5%BB%A3%E5%B0%88%E5%93%A1-%E5%82%B3%E8%AA%AA%E5%B0%8D%E6%B1%BA-at-garena-4469092415",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Social Media Director for California Sports Sunglass Brand (Cycling, Baseball, Racquet)",
+      "company": "SUPACAZ",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/affiliate-b2b-account-manager-at-coupang-4468708610",
+      "url": "https://tw.linkedin.com/jobs/view/social-media-director-for-california-sports-sunglass-brand-cycling-baseball-racquet-at-supacaz-4468960874",
       "date": "",
-      "matchedKeywords": [],
-      "score": 0
+      "matchedKeywords": [
+        "brand"
+      ],
+      "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "Social Media Creative Lead",
-      "company": "AIFIAN",
-      "location": "Neihu District, Taipei City, Taiwan",
+      "title": "Social Marketing Manager (社群行銷主任)",
+      "company": "ASUS",
+      "location": "Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/social-media-creative-lead-at-aifian-4458163300",
+      "url": "https://tw.linkedin.com/jobs/view/social-marketing-manager-%E7%A4%BE%E7%BE%A4%E8%A1%8C%E9%8A%B7%E4%B8%BB%E4%BB%BB-at-asus-4353533389",
       "date": "",
-      "matchedKeywords": [],
-      "score": 0
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "Search Solutions Expert, gTech Ads Solutions (Korean, English)",
-      "company": "Google",
+      "title": "Digital Advertising Data Analyst",
+      "company": "Appier",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/search-solutions-expert-gtech-ads-solutions-korean-english-at-google-4468768357",
+      "url": "https://tw.linkedin.com/jobs/view/digital-advertising-data-analyst-at-appier-4451511307",
       "date": "",
-      "matchedKeywords": [],
-      "score": 0
+      "matchedKeywords": [
+        "digital"
+      ],
+      "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "业务拓展经理",
-      "company": "Aivora",
-      "location": "Taiwan",
+      "title": "Customer Relationship Management Specialist",
+      "company": "Samsonite Group APAC & Middle East",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E4%B8%9A%E5%8A%A1%E6%8B%93%E5%B1%95%E7%BB%8F%E7%90%86-at-aivora-4467625092",
+      "url": "https://tw.linkedin.com/jobs/view/customer-relationship-management-specialist-at-samsonite-group-apac-middle-east-4421932485",
       "date": "",
-      "matchedKeywords": [],
-      "score": 0
+      "matchedKeywords": [
+        "management"
+      ],
+      "score": 3
     }
   ]
 }
