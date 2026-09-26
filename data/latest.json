@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T05:49:06.047Z",
+  "generatedAt": "2026-09-26T05:51:41.637Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
@@ -8,42 +8,25 @@
   "jobs": [
     {
       "source": "LinkedIn",
-      "title": "Category Sales Account Partner",
-      "company": "Yahoo Taiwan E-Commerce",
+      "title": "Digital Marketing Supervisor",
+      "company": "Shiseido",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/category-sales-account-partner-at-yahoo-taiwan-e-commerce-4471414722",
-      "date": "",
-      "matchedKeywords": [
-        "e-commerce",
-        "taiwan",
-        "sales",
-        "category"
-      ],
-      "score": 14
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Marketing Digital Product Owner - Associate",
-      "company": "JPMorganChase",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/marketing-digital-product-owner-associate-at-jpmorganchase-4404366761",
+      "url": "https://tw.linkedin.com/jobs/view/digital-marketing-supervisor-at-shiseido-4471862498",
       "date": "",
       "matchedKeywords": [
         "marketing",
-        "product",
         "digital"
       ],
-      "score": 10
+      "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "Product Marketing Manager",
-      "company": "SHOPLINE",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "Product Marketing Manager(Smartphone)",
+      "company": "MediaTek",
+      "location": "Hsinchu, Taiwan, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/product-marketing-manager-at-shopline-4471434197",
+      "url": "https://tw.linkedin.com/jobs/view/product-marketing-manager-smartphone-at-mediatek-4405129914",
       "date": "",
       "matchedKeywords": [
         "marketing",
@@ -53,90 +36,101 @@
     },
     {
       "source": "LinkedIn",
-      "title": "E-Commerce Specialist (Shopify, Amazon, or Similar) for California Sports Sunglass Brand (Cycling, Baseball, Racquet)",
-      "company": "SUPACAZ",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "Sr. Director APAC Marketing",
+      "company": "Supermicro",
+      "location": "New Taipei City, New Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/e-commerce-specialist-shopify-amazon-or-similar-for-california-sports-sunglass-brand-cycling-baseball-racquet-at-supacaz-4471162995",
-      "date": "",
-      "matchedKeywords": [
-        "e-commerce",
-        "brand"
-      ],
-      "score": 7
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Brand Marketing Manager",
-      "company": "Kokozi Co., Ltd.",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/brand-marketing-manager-at-kokozi-co-ltd-4471406383",
+      "url": "https://tw.linkedin.com/jobs/view/sr-director-apac-marketing-at-supermicro-4436167690",
       "date": "",
       "matchedKeywords": [
         "marketing",
-        "brand"
+        "cro"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "Operations Specialist (Campaign) - Web3 Wallet",
+      "title": "Account Manager, Advertising Solution - Taiwan",
+      "company": "Appier",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/account-manager-advertising-solution-taiwan-at-appier-4360790817",
+      "date": "",
+      "matchedKeywords": [
+        "taiwan"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Regional Marketing Specialist (South East Asia)",
       "company": "Binance",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/operations-specialist-campaign-web3-wallet-at-binance-4426189623",
+      "url": "https://tw.linkedin.com/jobs/view/regional-marketing-specialist-south-east-asia-at-binance-4453207587",
       "date": "",
       "matchedKeywords": [
-        "operations",
-        "campaign"
-      ],
-      "score": 7
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Senior Specialist, Customer Growth (CRM)",
-      "company": "Coupang",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-specialist-customer-growth-crm-at-coupang-4471431538",
-      "date": "",
-      "matchedKeywords": [
-        "growth"
+        "marketing"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "Software Company - Product Head",
-      "company": "Michael Page",
+      "title": "Marketing Manager, APAC Operating Unit, Caltrate",
+      "company": "Haleon",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/software-company-product-head-at-michael-page-4471491555",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-manager-apac-operating-unit-caltrate-at-haleon-4461966550",
       "date": "",
       "matchedKeywords": [
-        "product"
+        "marketing"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "Key Account Assistant Manager, EC",
-      "company": "Suntory Beverage & Food Health Enrichment",
+      "title": "Mobile Gaming & GPU Technology Marketing",
+      "company": "MediaTek",
+      "location": "Hsinchu, Taiwan, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/mobile-gaming-gpu-technology-marketing-at-mediatek-4405140909",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Community & Marketing Intern",
+      "company": "Phrozen 3D Printer",
+      "location": "Hsinchu Metropolitan Area",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/community-marketing-intern-at-phrozen-3d-printer-4470330363",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Key Account Manager (Online Affiliates)",
+      "company": "ShopBack",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/key-account-assistant-manager-ec-at-suntory-beverage-food-health-enrichment-4469702435",
+      "url": "https://tw.linkedin.com/jobs/view/key-account-manager-online-affiliates-at-shopback-4432790263",
       "date": "",
       "matchedKeywords": [],
       "score": 0
     },
     {
       "source": "LinkedIn",
-      "title": "业务拓展经理",
-      "company": "Aivora",
-      "location": "Taiwan",
+      "title": "Innovative Medicine_Customer Experience Manager",
+      "company": "Johnson & Johnson Innovative Medicine",
+      "location": "Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E4%B8%9A%E5%8A%A1%E6%8B%93%E5%B1%95%E7%BB%8F%E7%90%86-at-aivora-4469688603",
+      "url": "https://tw.linkedin.com/jobs/view/innovative-medicine-customer-experience-manager-at-johnson-johnson-innovative-medicine-4460793619",
       "date": "",
       "matchedKeywords": [],
       "score": 0
