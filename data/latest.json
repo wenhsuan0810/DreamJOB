@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T05:51:41.637Z",
+  "generatedAt": "2026-09-27T06:13:29.568Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
@@ -8,25 +8,25 @@
   "jobs": [
     {
       "source": "LinkedIn",
-      "title": "Digital Marketing Supervisor",
-      "company": "Shiseido",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "Regional E-Commerce Growth Manager",
+      "company": "ASUS",
+      "location": "Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/digital-marketing-supervisor-at-shiseido-4471862498",
+      "url": "https://tw.linkedin.com/jobs/view/regional-e-commerce-growth-manager-at-asus-4447327415",
       "date": "",
       "matchedKeywords": [
-        "marketing",
-        "digital"
+        "e-commerce",
+        "growth"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "Product Marketing Manager(Smartphone)",
+      "title": "Product Marketing Manager(Tablet, E-reader)",
       "company": "MediaTek",
       "location": "Hsinchu, Taiwan, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/product-marketing-manager-smartphone-at-mediatek-4405129914",
+      "url": "https://tw.linkedin.com/jobs/view/product-marketing-manager-tablet-e-reader-at-mediatek-4405136875",
       "date": "",
       "matchedKeywords": [
         "marketing",
@@ -36,101 +36,86 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Sr. Director APAC Marketing",
-      "company": "Supermicro",
-      "location": "New Taipei City, New Taipei City, Taiwan",
+      "title": "Wi-Fi/BT Product Marketing Manager",
+      "company": "MediaTek",
+      "location": "Hsinchu, Taiwan, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/sr-director-apac-marketing-at-supermicro-4436167690",
+      "url": "https://tw.linkedin.com/jobs/view/wi-fi-bt-product-marketing-manager-at-mediatek-4405134896",
       "date": "",
       "matchedKeywords": [
         "marketing",
-        "cro"
+        "product"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "Account Manager, Advertising Solution - Taiwan",
-      "company": "Appier",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/account-manager-advertising-solution-taiwan-at-appier-4360790817",
-      "date": "",
-      "matchedKeywords": [
-        "taiwan"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Regional Marketing Specialist (South East Asia)",
+      "title": "Binance Accelerator Program - Brand Partnerships",
       "company": "Binance",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/regional-marketing-specialist-south-east-asia-at-binance-4453207587",
+      "url": "https://tw.linkedin.com/jobs/view/binance-accelerator-program-brand-partnerships-at-binance-4435440133",
       "date": "",
       "matchedKeywords": [
-        "marketing"
+        "brand"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "Marketing Manager, APAC Operating Unit, Caltrate",
-      "company": "Haleon",
+      "title": "Product Manager",
+      "company": "Bausch Health Companies Inc.",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/marketing-manager-apac-operating-unit-caltrate-at-haleon-4461966550",
+      "url": "https://tw.linkedin.com/jobs/view/product-manager-at-bausch-health-companies-inc-4422966069",
       "date": "",
       "matchedKeywords": [
-        "marketing"
+        "product"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "Mobile Gaming & GPU Technology Marketing",
-      "company": "MediaTek",
-      "location": "Hsinchu, Taiwan, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/mobile-gaming-gpu-technology-marketing-at-mediatek-4405140909",
-      "date": "",
-      "matchedKeywords": [
-        "marketing"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Community & Marketing Intern",
-      "company": "Phrozen 3D Printer",
-      "location": "Hsinchu Metropolitan Area",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/community-marketing-intern-at-phrozen-3d-printer-4470330363",
-      "date": "",
-      "matchedKeywords": [
-        "marketing"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Key Account Manager (Online Affiliates)",
-      "company": "ShopBack",
+      "title": "Senior Product Manager - OHC",
+      "company": "Philips",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/key-account-manager-online-affiliates-at-shopback-4432790263",
+      "url": "https://tw.linkedin.com/jobs/view/senior-product-manager-ohc-at-philips-4435098360",
+      "date": "",
+      "matchedKeywords": [
+        "product"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "【Vesta Association】 數位行銷實習生",
+      "company": "Tomofun | Furbo Pet Camera",
+      "location": "Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/%E3%80%90vesta-association%E3%80%91-%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7%E5%AF%A6%E7%BF%92%E7%94%9F-at-tomofun-furbo-pet-camera-4454529853",
       "date": "",
       "matchedKeywords": [],
       "score": 0
     },
     {
       "source": "LinkedIn",
-      "title": "Innovative Medicine_Customer Experience Manager",
-      "company": "Johnson & Johnson Innovative Medicine",
-      "location": "Taipei City, Taiwan",
+      "title": "Ｍarketing Insights Assistant Manager",
+      "company": "Robert Walters",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/innovative-medicine-customer-experience-manager-at-johnson-johnson-innovative-medicine-4460793619",
+      "url": "https://tw.linkedin.com/jobs/view/%EF%BD%8Darketing-insights-assistant-manager-at-robert-walters-4472270498",
+      "date": "",
+      "matchedKeywords": [],
+      "score": 0
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Operator & License Owner, Taipei",
+      "company": "Stranger Soccer",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/operator-license-owner-taipei-at-stranger-soccer-4472248913",
       "date": "",
       "matchedKeywords": [],
       "score": 0
