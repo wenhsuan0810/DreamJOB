@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T06:13:29.568Z",
+  "generatedAt": "2026-09-28T06:19:13.472Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
@@ -8,53 +8,39 @@
   "jobs": [
     {
       "source": "LinkedIn",
-      "title": "Regional E-Commerce Growth Manager",
-      "company": "ASUS",
-      "location": "Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/regional-e-commerce-growth-manager-at-asus-4447327415",
-      "date": "",
-      "matchedKeywords": [
-        "e-commerce",
-        "growth"
-      ],
-      "score": 7
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Product Marketing Manager(Tablet, E-reader)",
-      "company": "MediaTek",
-      "location": "Hsinchu, Taiwan, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/product-marketing-manager-tablet-e-reader-at-mediatek-4405136875",
-      "date": "",
-      "matchedKeywords": [
-        "marketing",
-        "product"
-      ],
-      "score": 7
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Wi-Fi/BT Product Marketing Manager",
-      "company": "MediaTek",
-      "location": "Hsinchu, Taiwan, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/wi-fi-bt-product-marketing-manager-at-mediatek-4405134896",
-      "date": "",
-      "matchedKeywords": [
-        "marketing",
-        "product"
-      ],
-      "score": 7
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Binance Accelerator Program - Brand Partnerships",
-      "company": "Binance",
+      "title": "Brand Manager, Taiwan",
+      "company": "SharkNinja APAC",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/binance-accelerator-program-brand-partnerships-at-binance-4435440133",
+      "url": "https://tw.linkedin.com/jobs/view/brand-manager-taiwan-at-sharkninja-apac-4423170997",
+      "date": "",
+      "matchedKeywords": [
+        "taiwan",
+        "brand"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Wi-Fi Product Marketing Manager",
+      "company": "MediaTek",
+      "location": "Hsinchu County, Taiwan, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/wi-fi-product-marketing-manager-at-mediatek-4426250002",
+      "date": "",
+      "matchedKeywords": [
+        "marketing",
+        "product"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Brand Manager(Media)",
+      "company": "Adecco",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/brand-manager-media-at-adecco-4472463315",
       "date": "",
       "matchedKeywords": [
         "brand"
@@ -63,59 +49,87 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Product Manager",
-      "company": "Bausch Health Companies Inc.",
+      "title": "Campaign Analyst",
+      "company": "Appier",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/product-manager-at-bausch-health-companies-inc-4422966069",
+      "url": "https://tw.linkedin.com/jobs/view/campaign-analyst-at-appier-4192061605",
       "date": "",
       "matchedKeywords": [
-        "product"
+        "campaign"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "Senior Product Manager - OHC",
-      "company": "Philips",
+      "title": "Senior APAC Marketing Manager",
+      "company": "GMI Cloud",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-product-manager-ohc-at-philips-4435098360",
+      "url": "https://tw.linkedin.com/jobs/view/senior-apac-marketing-manager-at-gmi-cloud-4455288207",
       "date": "",
       "matchedKeywords": [
-        "product"
+        "marketing"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "【Vesta Association】 數位行銷實習生",
-      "company": "Tomofun | Furbo Pet Camera",
-      "location": "Taipei City, Taiwan",
+      "title": "Brand Manager",
+      "company": "Adecco",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E3%80%90vesta-association%E3%80%91-%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7%E5%AF%A6%E7%BF%92%E7%94%9F-at-tomofun-furbo-pet-camera-4454529853",
+      "url": "https://tw.linkedin.com/jobs/view/brand-manager-at-adecco-4472452937",
+      "date": "",
+      "matchedKeywords": [
+        "brand"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Specialist, B2B Field Marketing",
+      "company": "Mastercard",
+      "location": "Da'an District, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/specialist-b2b-field-marketing-at-mastercard-4470837273",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Binance Accelerator Program - Creative Operations",
+      "company": "Binance",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/binance-accelerator-program-creative-operations-at-binance-4471317574",
+      "date": "",
+      "matchedKeywords": [
+        "operations"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Affiliate Relationship Manager (APAC)",
+      "company": "Binance",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/affiliate-relationship-manager-apac-at-binance-4416300139",
       "date": "",
       "matchedKeywords": [],
       "score": 0
     },
     {
       "source": "LinkedIn",
-      "title": "Ｍarketing Insights Assistant Manager",
-      "company": "Robert Walters",
+      "title": "BOUCHERON Sr. MarCom Manager",
+      "company": "Boucheron",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%EF%BD%8Darketing-insights-assistant-manager-at-robert-walters-4472270498",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Operator & License Owner, Taipei",
-      "company": "Stranger Soccer",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/operator-license-owner-taipei-at-stranger-soccer-4472248913",
+      "url": "https://tw.linkedin.com/jobs/view/boucheron-sr-marcom-manager-at-boucheron-4471328317",
       "date": "",
       "matchedKeywords": [],
       "score": 0
