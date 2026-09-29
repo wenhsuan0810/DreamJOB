@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T06:19:13.472Z",
+  "generatedAt": "2026-09-29T06:34:30.068Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
@@ -8,65 +8,67 @@
   "jobs": [
     {
       "source": "LinkedIn",
-      "title": "Brand Manager, Taiwan",
-      "company": "SharkNinja APAC",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "數位行銷資深專員/專案經理 (Web Commerce - Digital Marketing)",
+      "company": "CyberLink",
+      "location": "New Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/brand-manager-taiwan-at-sharkninja-apac-4423170997",
+      "url": "https://tw.linkedin.com/jobs/view/%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%B7%B1%E5%B0%88%E5%93%A1-%E5%B0%88%E6%A1%88%E7%B6%93%E7%90%86-web-commerce-digital-marketing-at-cyberlink-4460249419",
       "date": "",
       "matchedKeywords": [
-        "taiwan",
+        "marketing",
+        "digital"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "E-Commerce Specialist (Shopify or Amazon or Ebay etc) for California Sports Sunglass Brand (Cycling, Baseball, Racquet)",
+      "company": "SUPACAZ",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/e-commerce-specialist-shopify-or-amazon-or-ebay-etc-for-california-sports-sunglass-brand-cycling-baseball-racquet-at-supacaz-4471578977",
+      "date": "",
+      "matchedKeywords": [
+        "e-commerce",
         "brand"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "Wi-Fi Product Marketing Manager",
-      "company": "MediaTek",
-      "location": "Hsinchu County, Taiwan, Taiwan",
+      "title": "Digital Marketing Senior Specialist",
+      "company": "ACT Genomics",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/wi-fi-product-marketing-manager-at-mediatek-4426250002",
+      "url": "https://tw.linkedin.com/jobs/view/digital-marketing-senior-specialist-at-act-genomics-4461038204",
       "date": "",
       "matchedKeywords": [
         "marketing",
+        "digital"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Sr. Growth Product Manager",
+      "company": "CyberLink",
+      "location": "New Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/sr-growth-product-manager-at-cyberlink-4471597157",
+      "date": "",
+      "matchedKeywords": [
+        "growth",
         "product"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "Brand Manager(Media)",
-      "company": "Adecco",
+      "title": "Marketing Associate",
+      "company": "CASETiFY",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/brand-manager-media-at-adecco-4472463315",
-      "date": "",
-      "matchedKeywords": [
-        "brand"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Campaign Analyst",
-      "company": "Appier",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/campaign-analyst-at-appier-4192061605",
-      "date": "",
-      "matchedKeywords": [
-        "campaign"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Senior APAC Marketing Manager",
-      "company": "GMI Cloud",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-apac-marketing-manager-at-gmi-cloud-4455288207",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-associate-at-casetify-4452224090",
       "date": "",
       "matchedKeywords": [
         "marketing"
@@ -75,37 +77,50 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Brand Manager",
-      "company": "Adecco",
+      "title": "Principal, B2B Affiliate Account Management",
+      "company": "Coupang",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/brand-manager-at-adecco-4472452937",
+      "url": "https://tw.linkedin.com/jobs/view/principal-b2b-affiliate-account-management-at-coupang-4424366150",
       "date": "",
       "matchedKeywords": [
-        "brand"
+        "management"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "Specialist, B2B Field Marketing",
-      "company": "Mastercard",
-      "location": "Da'an District, Taipei City, Taiwan",
+      "title": "Commercial Manager, Consumer Healthcare (CHC) – Hong Kong & Taiwan",
+      "company": "STADA Emerging Markets",
+      "location": "Taiwan, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/specialist-b2b-field-marketing-at-mastercard-4470837273",
+      "url": "https://tw.linkedin.com/jobs/view/commercial-manager-consumer-healthcare-chc-%E2%80%93-hong-kong-taiwan-at-stada-emerging-markets-4471265706",
       "date": "",
       "matchedKeywords": [
-        "marketing"
+        "taiwan"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "Binance Accelerator Program - Creative Operations",
+      "title": "Associate Account Manager, Large Customer Sales (Mandarin, English)",
+      "company": "Google",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/associate-account-manager-large-customer-sales-mandarin-english-at-google-4471343539",
+      "date": "",
+      "matchedKeywords": [
+        "sales"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Operations Leader - Binance Wallet",
       "company": "Binance",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/binance-accelerator-program-creative-operations-at-binance-4471317574",
+      "url": "https://tw.linkedin.com/jobs/view/operations-leader-binance-wallet-at-binance-4443882878",
       "date": "",
       "matchedKeywords": [
         "operations"
@@ -114,22 +129,11 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Affiliate Relationship Manager (APAC)",
-      "company": "Binance",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "KOL網紅行銷",
+      "company": "Ladykent Studio",
+      "location": "Xinyi District, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/affiliate-relationship-manager-apac-at-binance-4416300139",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
-    },
-    {
-      "source": "LinkedIn",
-      "title": "BOUCHERON Sr. MarCom Manager",
-      "company": "Boucheron",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/boucheron-sr-marcom-manager-at-boucheron-4471328317",
+      "url": "https://tw.linkedin.com/jobs/view/kol%E7%B6%B2%E7%B4%85%E8%A1%8C%E9%8A%B7-at-ladykent-studio-4471327678",
       "date": "",
       "matchedKeywords": [],
       "score": 0
