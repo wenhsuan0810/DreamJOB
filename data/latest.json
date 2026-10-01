@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T06:17:30.088Z",
+  "generatedAt": "2026-10-01T06:49:29.065Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
@@ -8,39 +8,54 @@
   "jobs": [
     {
       "source": "LinkedIn",
-      "title": "Senior Creator & Affiliate Marketing Specialist / 資深創作者暨聯盟行銷專員",
-      "company": "Coupang",
+      "title": "Director, Paid Social & Display Marketing (Growth Marketing, Taiwan)",
+      "company": "Coupang 酷澎",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-creator-affiliate-marketing-specialist-%E8%B3%87%E6%B7%B1%E5%89%B5%E4%BD%9C%E8%80%85%E6%9A%A8%E8%81%AF%E7%9B%9F%E8%A1%8C%E9%8A%B7%E5%B0%88%E5%93%A1-at-coupang-4459788054",
+      "url": "https://tw.linkedin.com/jobs/view/director-paid-social-display-marketing-growth-marketing-taiwan-at-coupang-%E9%85%B7%E6%BE%8E-4463304316",
       "date": "",
       "matchedKeywords": [
         "marketing",
-        "creator"
+        "growth",
+        "taiwan"
+      ],
+      "score": 10
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Digital Marketing Manager",
+      "company": "Mandarin Oriental",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/digital-marketing-manager-at-mandarin-oriental-4463594385",
+      "date": "",
+      "matchedKeywords": [
+        "marketing",
+        "digital"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "Associate, Growth Marketing",
-      "company": "Klook",
-      "location": "Taipei City, Taiwan",
+      "title": "Product Marketing Sr. Specialist",
+      "company": "CyberLink",
+      "location": "New Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/associate-growth-marketing-at-klook-4387920343",
+      "url": "https://tw.linkedin.com/jobs/view/product-marketing-sr-specialist-at-cyberlink-4472500590",
       "date": "",
       "matchedKeywords": [
         "marketing",
-        "growth"
+        "product"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "【Flexii】Marketing Manager",
-      "company": "Taiwan Tech Arena (TTA)",
+      "title": "[L'OREAL Taiwan] (Senior) Trade Marketing Manager",
+      "company": "L'Oréal",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E3%80%90flexii%E3%80%91marketing-manager-at-taiwan-tech-arena-tta-4449978257",
+      "url": "https://tw.linkedin.com/jobs/view/l-oreal-taiwan-senior-trade-marketing-manager-at-l-or%C3%A9al-4471442366",
       "date": "",
       "matchedKeywords": [
         "marketing",
@@ -50,87 +65,82 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Brand Marketing",
-      "company": "Taipei–Keelung Metropolitan area 3 hours ago",
-      "location": "Taipei–Keelung Metropolitan area",
+      "title": "Inbound Lead Development Representative (Short-term contract), Taiwan Marketing Response Center (MRC)",
+      "company": "Amazon Web Services (AWS)",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/brand-marketing-4448936403",
+      "url": "https://tw.linkedin.com/jobs/view/inbound-lead-development-representative-short-term-contract-taiwan-marketing-response-center-mrc-at-amazon-web-services-aws-4464912719",
       "date": "",
       "matchedKeywords": [
         "marketing",
-        "brand"
+        "taiwan"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "Marketing Manager",
-      "company": "Flexii",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/marketing-manager-at-flexii-4473211733",
-      "date": "",
-      "matchedKeywords": [
-        "marketing"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Senior Data Analyst (Marketing_CRM)",
-      "company": "Coupang",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-data-analyst-marketing-crm-at-coupang-4461966187",
-      "date": "",
-      "matchedKeywords": [
-        "marketing"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "KFC EC Asst. Manager",
-      "company": "Jardine Restaurant Group",
-      "location": "Taipei–Keelung Metropolitan area",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/kfc-ec-asst-manager-at-jardine-restaurant-group-4461576735",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
-    },
-    {
-      "source": "LinkedIn",
-      "title": "CRM Manager - Global Customer Lifecycle Communication",
-      "company": "Tomofun | Furbo Pet Camera",
-      "location": "Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/crm-manager-global-customer-lifecycle-communication-at-tomofun-furbo-pet-camera-4464347179",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Technical Account Manager",
-      "company": "RTB House",
+      "title": "Affiliate BD Manager (Taiwan)",
+      "company": "OKX",
       "location": "Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/technical-account-manager-at-rtb-house-4463233094",
+      "url": "https://tw.linkedin.com/jobs/view/affiliate-bd-manager-taiwan-at-okx-4369546049",
       "date": "",
-      "matchedKeywords": [],
-      "score": 0
+      "matchedKeywords": [
+        "taiwan"
+      ],
+      "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "資深產品成長行銷經理",
-      "company": "Junyi Academy",
-      "location": "Taipei City, Taiwan",
+      "title": "Marketing Manager, APAC (Caltrate)",
+      "company": "Haleon",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E8%B3%87%E6%B7%B1%E7%94%A2%E5%93%81%E6%88%90%E9%95%B7%E8%A1%8C%E9%8A%B7%E7%B6%93%E7%90%86-at-junyi-academy-4473217344",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-manager-apac-caltrate-at-haleon-4473731072",
       "date": "",
-      "matchedKeywords": [],
-      "score": 0
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Operations Specialist - Web3 Wallet - Onchain",
+      "company": "Binance",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/operations-specialist-web3-wallet-onchain-at-binance-4463826638",
+      "date": "",
+      "matchedKeywords": [
+        "operations"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Brand Manager",
+      "company": "Brown-Forman",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/brand-manager-at-brown-forman-4463519280",
+      "date": "",
+      "matchedKeywords": [
+        "brand"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Sr Marketing specialist",
+      "company": "Waters Corporation",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/sr-marketing-specialist-at-waters-corporation-4471889472",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
     }
   ]
 }
