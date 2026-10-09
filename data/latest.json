@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T06:59:45.232Z",
+  "generatedAt": "2026-10-09T07:07:42.515Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
@@ -8,66 +8,123 @@
   "jobs": [
     {
       "source": "LinkedIn",
-      "title": "Growth Strategy & Campaign Manager - Greater China",
-      "company": "Binance",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "Category Sales Sr Account Partner",
+      "company": "Yahoo Taiwan E-Commerce",
+      "location": "Neihu District, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/growth-strategy-campaign-manager-greater-china-at-binance-4457449961",
+      "url": "https://tw.linkedin.com/jobs/view/category-sales-sr-account-partner-at-yahoo-taiwan-e-commerce-4475946678",
       "date": "",
       "matchedKeywords": [
+        "e-commerce",
+        "taiwan",
+        "sales",
+        "category"
+      ],
+      "score": 14
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Digital Marketing Manager (AEO & Paid Media Strategy)",
+      "company": "Appier",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/digital-marketing-manager-aeo-paid-media-strategy-at-appier-4332928095",
+      "date": "",
+      "matchedKeywords": [
+        "marketing",
         "strategy",
-        "growth",
-        "campaign"
+        "digital"
       ],
       "score": 10
     },
     {
       "source": "LinkedIn",
-      "title": "E-Commerce Specialist (Shopify or Amazon or Ebay etc) for California Sports Sunglass Brand (Cycling, Baseball, Racquet)",
-      "company": "SUPACAZ",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "Growth Marketing Manager",
+      "company": "Tomofun | Furbo Pet Camera",
+      "location": "Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/e-commerce-specialist-shopify-or-amazon-or-ebay-etc-for-california-sports-sunglass-brand-cycling-baseball-racquet-at-supacaz-4475733259",
+      "url": "https://tw.linkedin.com/jobs/view/growth-marketing-manager-at-tomofun-furbo-pet-camera-4477185417",
       "date": "",
       "matchedKeywords": [
-        "e-commerce",
-        "brand"
+        "marketing",
+        "growth"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "ANALYST DIGITAL MKTG IV",
-      "company": "TE Connectivity",
-      "location": "Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/analyst-digital-mktg-iv-at-te-connectivity-4466021892",
-      "date": "",
-      "matchedKeywords": [
-        "digital"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Brand Supervisor",
-      "company": "BettingJobs",
+      "title": "Digital Marketing Senior Specialist",
+      "company": "ACT Genomics",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/brand-supervisor-at-bettingjobs-4475194996",
+      "url": "https://tw.linkedin.com/jobs/view/digital-marketing-senior-specialist-at-act-genomics-4461038204",
       "date": "",
       "matchedKeywords": [
-        "brand"
+        "marketing",
+        "digital"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "電子商務品類經理(流行品類)",
+      "company": "Yahoo Taiwan E-Commerce",
+      "location": "Neihu District, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/%E9%9B%BB%E5%AD%90%E5%95%86%E5%8B%99%E5%93%81%E9%A1%9E%E7%B6%93%E7%90%86-%E6%B5%81%E8%A1%8C%E5%93%81%E9%A1%9E-at-yahoo-taiwan-e-commerce-4475955466",
+      "date": "",
+      "matchedKeywords": [
+        "e-commerce",
+        "taiwan"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Senior Global Omnichannel Marketing Specialist",
+      "company": "ASUS",
+      "location": "Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/senior-global-omnichannel-marketing-specialist-at-asus-4438458322",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "知名保健電商_EC Head",
-      "company": "Adecco",
-      "location": "Taipei–Keelung Metropolitan area",
+      "title": "SA22188 Senior Global CRM & Membership Growth Specialist",
+      "company": "ASUS",
+      "location": "Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E7%9F%A5%E5%90%8D%E4%BF%9D%E5%81%A5%E9%9B%BB%E5%95%86-ec-head-at-adecco-4476737846",
+      "url": "https://tw.linkedin.com/jobs/view/sa22188-senior-global-crm-membership-growth-specialist-at-asus-4438452466",
+      "date": "",
+      "matchedKeywords": [
+        "growth"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Staff, Data Science [Marketing]",
+      "company": "Coupang",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/staff-data-science-marketing-at-coupang-4475776494",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Senior Executive, eCommerce",
+      "company": "The North Face",
+      "location": "Xinyi District, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/senior-executive-ecommerce-at-the-north-face-4458616696",
       "date": "",
       "matchedKeywords": [],
       "score": 0
@@ -79,50 +136,6 @@
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
       "url": "https://tw.linkedin.com/jobs/view/assistant-ka-manager-es-at-suntory-beverage-food-health-enrichment-4473499841",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
-    },
-    {
-      "source": "LinkedIn",
-      "title": "SA22209 Global Social Media Specialist-Consumer PC （總部社群行銷專員）",
-      "company": "ASUS",
-      "location": "Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/sa22209-global-social-media-specialist-consumer-pc-%EF%BC%88%E7%B8%BD%E9%83%A8%E7%A4%BE%E7%BE%A4%E8%A1%8C%E9%8A%B7%E5%B0%88%E5%93%A1%EF%BC%89-at-asus-4444545543",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Manager Acquisition",
-      "company": "Philip Morris International",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/manager-acquisition-at-philip-morris-international-4476571569",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Technical Account Manager",
-      "company": "RTB House",
-      "location": "Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/technical-account-manager-at-rtb-house-4457445942",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Data Analyst",
-      "company": "ezTravel",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/data-analyst-at-eztravel-4475199257",
       "date": "",
       "matchedKeywords": [],
       "score": 0
