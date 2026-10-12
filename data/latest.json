@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T06:48:03.218Z",
+  "generatedAt": "2026-10-12T06:58:13.737Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
@@ -8,53 +8,82 @@
   "jobs": [
     {
       "source": "LinkedIn",
-      "title": "[L'OREAL Taiwan] E-Marketing Assistant Manager",
-      "company": "L'Oréal",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/l-oreal-taiwan-e-marketing-assistant-manager-at-l-or%C3%A9al-4472892350",
-      "date": "",
-      "matchedKeywords": [
-        "marketing",
-        "taiwan"
-      ],
-      "score": 7
-    },
-    {
-      "source": "LinkedIn",
-      "title": "[L'OREAL Taiwan] Marketing Manager",
-      "company": "L'Oréal",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/l-oreal-taiwan-marketing-manager-at-l-or%C3%A9al-4474220970",
-      "date": "",
-      "matchedKeywords": [
-        "marketing",
-        "taiwan"
-      ],
-      "score": 7
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Product Marketing Manager",
-      "company": "訊凱國際 Cooler Master Co., Ltd.",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/product-marketing-manager-at-%E8%A8%8A%E5%87%B1%E5%9C%8B%E9%9A%9B-cooler-master-co-ltd-4475610398",
-      "date": "",
-      "matchedKeywords": [
-        "marketing",
-        "product"
-      ],
-      "score": 7
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Marketing Automation Specialist",
-      "company": "Mouser",
+      "title": "E-Commerce (Sr.)Product Manager 產品經理",
+      "company": "Yahoo Taiwan E-Commerce",
       "location": "Neihu District, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/marketing-automation-specialist-at-mouser-4449201120",
+      "url": "https://tw.linkedin.com/jobs/view/e-commerce-sr-product-manager-%E7%94%A2%E5%93%81%E7%B6%93%E7%90%86-at-yahoo-taiwan-e-commerce-4477294125",
+      "date": "",
+      "matchedKeywords": [
+        "e-commerce",
+        "taiwan",
+        "product"
+      ],
+      "score": 10
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Senior Business Growth Strategy & Operation Director",
+      "company": "LINE Taiwan Limited",
+      "location": "Neihu District, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/senior-business-growth-strategy-operation-director-at-line-taiwan-limited-4477279635",
+      "date": "",
+      "matchedKeywords": [
+        "strategy",
+        "growth",
+        "taiwan"
+      ],
+      "score": 10
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Brand Manager (Media and E-Commerce)",
+      "company": "Procter & Gamble",
+      "location": "Taiwan, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/brand-manager-media-and-e-commerce-at-procter-gamble-4475676727",
+      "date": "",
+      "matchedKeywords": [
+        "e-commerce",
+        "brand"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Senior Digital Analytics Consultant - Taiwan",
+      "company": "fifty-five",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/senior-digital-analytics-consultant-taiwan-at-fifty-five-4478387332",
+      "date": "",
+      "matchedKeywords": [
+        "taiwan",
+        "digital"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "[L'OREAL Taiwan] E-Business Specialist/ Sr. Specialist",
+      "company": "L'Oréal",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/l-oreal-taiwan-e-business-specialist-sr-specialist-at-l-or%C3%A9al-4477282525",
+      "date": "",
+      "matchedKeywords": [
+        "taiwan"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Marketing Manager 品牌行銷經理",
+      "company": "Evo Commerce",
+      "location": "Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-manager-%E5%93%81%E7%89%8C%E8%A1%8C%E9%8A%B7%E7%B6%93%E7%90%86-at-evo-commerce-4477272973",
       "date": "",
       "matchedKeywords": [
         "marketing"
@@ -63,24 +92,11 @@
     },
     {
       "source": "LinkedIn",
-      "title": "數位廣告優化師",
-      "company": "Taipei City, Taipei City, Taiwan Be an early applicant 1 hour ago",
-      "location": "Taipei City, Taipei City, Taiwan",
+      "title": "Brand Manager",
+      "company": "Procter & Gamble",
+      "location": "Taiwan, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E6%95%B8%E4%BD%8D%E5%BB%A3%E5%91%8A%E5%84%AA%E5%8C%96%E5%B8%AB-4477231904",
-      "date": "",
-      "matchedKeywords": [
-        "taiwan"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Brand Image Designer",
-      "company": "Samsonite Group APAC & Middle East",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/brand-image-designer-at-samsonite-group-apac-middle-east-4419691427",
+      "url": "https://tw.linkedin.com/jobs/view/brand-manager-at-procter-gamble-4475686380",
       "date": "",
       "matchedKeywords": [
         "brand"
@@ -89,46 +105,33 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Senior Manager, Vertical Planning & Operations",
-      "company": "Klook",
-      "location": "Taipei City, Taiwan",
+      "title": "KFC EC Asst. Manager",
+      "company": "Jardine Restaurant Group",
+      "location": "Taipei–Keelung Metropolitan area",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-manager-vertical-planning-operations-at-klook-4469168667",
-      "date": "",
-      "matchedKeywords": [
-        "operations"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Advertising Supervisor (Assistant Manager)",
-      "company": "Robert Walters",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/advertising-supervisor-assistant-manager-at-robert-walters-4478092782",
+      "url": "https://tw.linkedin.com/jobs/view/kfc-ec-asst-manager-at-jardine-restaurant-group-4461576735",
       "date": "",
       "matchedKeywords": [],
       "score": 0
     },
     {
       "source": "LinkedIn",
-      "title": "Technical Solution Engineer (Greater China Region)",
-      "company": "Appier",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "Social Media Manager",
+      "company": "Acer",
+      "location": "Taipei–Keelung Metropolitan area",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/technical-solution-engineer-greater-china-region-at-appier-4469167750",
+      "url": "https://tw.linkedin.com/jobs/view/social-media-manager-at-acer-4477287848",
       "date": "",
       "matchedKeywords": [],
       "score": 0
     },
     {
       "source": "LinkedIn",
-      "title": "【新創業務專員｜論件計酬起步，全職年薪 120 萬起，上不封頂】",
-      "company": "CiteTek",
-      "location": "Taichung City, Taiwan",
+      "title": "EC Key Account Manager, Food Aggregator",
+      "company": "Jardine Restaurant Group",
+      "location": "Taipei–Keelung Metropolitan area",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E3%80%90%E6%96%B0%E5%89%B5%E6%A5%AD%E5%8B%99%E5%B0%88%E5%93%A1%EF%BD%9C%E8%AB%96%E4%BB%B6%E8%A8%88%E9%85%AC%E8%B5%B7%E6%AD%A5%EF%BC%8C%E5%85%A8%E8%81%B7%E5%B9%B4%E8%96%AA-120-%E8%90%AC%E8%B5%B7%EF%BC%8C%E4%B8%8A%E4%B8%8D%E5%B0%81%E9%A0%82%E3%80%91-at-citetek-4477228017",
+      "url": "https://tw.linkedin.com/jobs/view/ec-key-account-manager-food-aggregator-at-jardine-restaurant-group-4476535279",
       "date": "",
       "matchedKeywords": [],
       "score": 0
