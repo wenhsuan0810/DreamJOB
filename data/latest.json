@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T05:43:57.530Z",
+  "generatedAt": "2026-10-24T05:23:08.368Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
@@ -8,68 +8,25 @@
   "jobs": [
     {
       "source": "LinkedIn",
-      "title": "[Coupang] Senior manager, Program Management (Category Growth)",
-      "company": "Coupang",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "Sales & Marketing Manager",
+      "company": "Adecco",
+      "location": "Taichung–Changhua Metropolitan Area",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/coupang-senior-manager-program-management-category-growth-at-coupang-4481307127",
-      "date": "",
-      "matchedKeywords": [
-        "growth",
-        "management",
-        "category"
-      ],
-      "score": 10
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Director, Digital Retail Partnership and Marketing",
-      "company": "The Orchard",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/director-digital-retail-partnership-and-marketing-at-the-orchard-4481334600",
+      "url": "https://tw.linkedin.com/jobs/view/sales-marketing-manager-at-adecco-4482892185",
       "date": "",
       "matchedKeywords": [
         "marketing",
-        "digital"
+        "sales"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "Director, Digital Retail Partnership and Marketing- The Orchard",
-      "company": "The Orchard",
+      "title": "Senior Marketing Communication Executive",
+      "company": "Samsonite Group APAC & Middle East",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/director-digital-retail-partnership-and-marketing-the-orchard-at-the-orchard-4481364708",
-      "date": "",
-      "matchedKeywords": [
-        "marketing",
-        "digital"
-      ],
-      "score": 7
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Digital Marketing Manager",
-      "company": "Mandarin Oriental",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/digital-marketing-manager-at-mandarin-oriental-4463594385",
-      "date": "",
-      "matchedKeywords": [
-        "marketing",
-        "digital"
-      ],
-      "score": 7
-    },
-    {
-      "source": "LinkedIn",
-      "title": "AI遊戲營運企劃 - Marketing",
-      "company": "Shopee",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/ai%E9%81%8A%E6%88%B2%E7%87%9F%E9%81%8B%E4%BC%81%E5%8A%83-marketing-at-shopee-4481364433",
+      "url": "https://tw.linkedin.com/jobs/view/senior-marketing-communication-executive-at-samsonite-group-apac-middle-east-4445045962",
       "date": "",
       "matchedKeywords": [
         "marketing"
@@ -78,27 +35,68 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Affiliate BD Manager (Taiwan)",
-      "company": "OKX",
-      "location": "Taiwan",
+      "title": "Senior Social Media Content Strategist",
+      "company": "OnTrack",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/affiliate-bd-manager-taiwan-at-okx-4369546049",
+      "url": "https://tw.linkedin.com/jobs/view/senior-social-media-content-strategist-at-ontrack-4481629875",
       "date": "",
       "matchedKeywords": [
-        "taiwan"
+        "content"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "(Sr) Omnichannel Engagement Specialist",
-      "company": "Novo Nordisk",
+      "title": "Marketing Operation Manager",
+      "company": "訊凱國際 Cooler Master Co., Ltd.",
+      "location": "Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-operation-manager-at-%E8%A8%8A%E5%87%B1%E5%9C%8B%E9%9A%9B-cooler-master-co-ltd-4483191984",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Industry Manager, Export, Large Customer Sales",
+      "company": "Google",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/sr-omnichannel-engagement-specialist-at-novo-nordisk-4479495578",
+      "url": "https://tw.linkedin.com/jobs/view/industry-manager-export-large-customer-sales-at-google-4481678508",
       "date": "",
-      "matchedKeywords": [],
-      "score": 0
+      "matchedKeywords": [
+        "sales"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "海外行銷專員",
+      "company": "MacroHi | Certified B Corp™",
+      "location": "Zhonghe District, New Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/%E6%B5%B7%E5%A4%96%E8%A1%8C%E9%8A%B7%E5%B0%88%E5%93%A1-at-macrohi-certified-b-corp%E2%84%A2-4481664640",
+      "date": "",
+      "matchedKeywords": [
+        "cro"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Senior Product Manager",
+      "company": "Groupe Clarins",
+      "location": "Taiwan, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/senior-product-manager-at-groupe-clarins-4481658936",
+      "date": "",
+      "matchedKeywords": [
+        "product"
+      ],
+      "score": 3
     },
     {
       "source": "LinkedIn",
@@ -113,22 +111,22 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Search Solutions Expert, gTech Ads Solutions (Korean, English)",
-      "company": "Google",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "新創業務發展專員",
+      "company": "GeoWeb",
+      "location": "Taichung City, Taichung City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/search-solutions-expert-gtech-ads-solutions-korean-english-at-google-4481359119",
+      "url": "https://tw.linkedin.com/jobs/view/%E6%96%B0%E5%89%B5%E6%A5%AD%E5%8B%99%E7%99%BC%E5%B1%95%E5%B0%88%E5%93%A1-at-geoweb-4481378331",
       "date": "",
       "matchedKeywords": [],
       "score": 0
     },
     {
       "source": "LinkedIn",
-      "title": "Commercial Manager, Consumer Healthcare (CHC)",
-      "company": "STADA Emerging Markets",
-      "location": "Taiwan, Taiwan",
+      "title": "Measurement Foundations Specialist, Measurement Center of Excellence (English, Japanese)",
+      "company": "Google",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/commercial-manager-consumer-healthcare-chc-at-stada-emerging-markets-4480001657",
+      "url": "https://tw.linkedin.com/jobs/view/measurement-foundations-specialist-measurement-center-of-excellence-english-japanese-at-google-4481649967",
       "date": "",
       "matchedKeywords": [],
       "score": 0
