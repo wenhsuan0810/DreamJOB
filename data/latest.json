@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T05:23:08.368Z",
+  "generatedAt": "2026-10-25T05:41:06.347Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
@@ -8,11 +8,39 @@
   "jobs": [
     {
       "source": "LinkedIn",
-      "title": "Sales & Marketing Manager",
-      "company": "Adecco",
-      "location": "Taichung–Changhua Metropolitan Area",
+      "title": "SA21632 APAC Regional Digital Marketing Specialist",
+      "company": "ASUS",
+      "location": "Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/sales-marketing-manager-at-adecco-4482892185",
+      "url": "https://tw.linkedin.com/jobs/view/sa21632-apac-regional-digital-marketing-specialist-at-asus-4473146845",
+      "date": "",
+      "matchedKeywords": [
+        "marketing",
+        "digital"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Taiwan Marketing Manager",
+      "company": "Cricut",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/taiwan-marketing-manager-at-cricut-4408802387",
+      "date": "",
+      "matchedKeywords": [
+        "marketing",
+        "taiwan"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "行銷業務部 行銷公關經理 Sales & Marketing Marketing and Communications Manager",
+      "company": "Capella Hotels and Resorts",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/%E8%A1%8C%E9%8A%B7%E6%A5%AD%E5%8B%99%E9%83%A8-%E8%A1%8C%E9%8A%B7%E5%85%AC%E9%97%9C%E7%B6%93%E7%90%86-sales-marketing-marketing-and-communications-manager-at-capella-hotels-and-resorts-4457323159",
       "date": "",
       "matchedKeywords": [
         "marketing",
@@ -22,24 +50,24 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Senior Marketing Communication Executive",
-      "company": "Samsonite Group APAC & Middle East",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "E.EMEA eCommerce Digital Specialist",
+      "company": "ASUS",
+      "location": "Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-marketing-communication-executive-at-samsonite-group-apac-middle-east-4445045962",
+      "url": "https://tw.linkedin.com/jobs/view/e-emea-ecommerce-digital-specialist-at-asus-4399397609",
       "date": "",
       "matchedKeywords": [
-        "marketing"
+        "digital"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "Senior Social Media Content Strategist",
-      "company": "OnTrack",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "Social Media Content Manager",
+      "company": "YOFC",
+      "location": "Taipei City, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-social-media-content-strategist-at-ontrack-4481629875",
+      "url": "https://tw.linkedin.com/jobs/view/social-media-content-manager-at-yofc-4482663939",
       "date": "",
       "matchedKeywords": [
         "content"
@@ -48,55 +76,27 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Marketing Operation Manager",
-      "company": "訊凱國際 Cooler Master Co., Ltd.",
+      "title": "Assistant Manager, Digital Acquisition - Internal Platform",
+      "company": "American Express",
       "location": "Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/marketing-operation-manager-at-%E8%A8%8A%E5%87%B1%E5%9C%8B%E9%9A%9B-cooler-master-co-ltd-4483191984",
+      "url": "https://tw.linkedin.com/jobs/view/assistant-manager-digital-acquisition-internal-platform-at-american-express-4461633979",
       "date": "",
       "matchedKeywords": [
-        "marketing"
+        "digital"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "Industry Manager, Export, Large Customer Sales",
-      "company": "Google",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "Specialist, Media Planning",
+      "company": "dentsu",
+      "location": "Xinyi District, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/industry-manager-export-large-customer-sales-at-google-4481678508",
+      "url": "https://tw.linkedin.com/jobs/view/specialist-media-planning-at-dentsu-4480434111",
       "date": "",
-      "matchedKeywords": [
-        "sales"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "海外行銷專員",
-      "company": "MacroHi | Certified B Corp™",
-      "location": "Zhonghe District, New Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E6%B5%B7%E5%A4%96%E8%A1%8C%E9%8A%B7%E5%B0%88%E5%93%A1-at-macrohi-certified-b-corp%E2%84%A2-4481664640",
-      "date": "",
-      "matchedKeywords": [
-        "cro"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Senior Product Manager",
-      "company": "Groupe Clarins",
-      "location": "Taiwan, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-product-manager-at-groupe-clarins-4481658936",
-      "date": "",
-      "matchedKeywords": [
-        "product"
-      ],
-      "score": 3
+      "matchedKeywords": [],
+      "score": 0
     },
     {
       "source": "LinkedIn",
@@ -111,22 +111,22 @@
     },
     {
       "source": "LinkedIn",
-      "title": "新創業務發展專員",
-      "company": "GeoWeb",
-      "location": "Taichung City, Taichung City, Taiwan",
+      "title": "Business Analyst 商務分析",
+      "company": "Lalamove",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E6%96%B0%E5%89%B5%E6%A5%AD%E5%8B%99%E7%99%BC%E5%B1%95%E5%B0%88%E5%93%A1-at-geoweb-4481378331",
+      "url": "https://tw.linkedin.com/jobs/view/business-analyst-%E5%95%86%E5%8B%99%E5%88%86%E6%9E%90-at-lalamove-4457098716",
       "date": "",
       "matchedKeywords": [],
       "score": 0
     },
     {
       "source": "LinkedIn",
-      "title": "Measurement Foundations Specialist, Measurement Center of Excellence (English, Japanese)",
-      "company": "Google",
+      "title": "Key Account Manager",
+      "company": "Haleon",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/measurement-foundations-specialist-measurement-center-of-excellence-english-japanese-at-google-4481649967",
+      "url": "https://tw.linkedin.com/jobs/view/key-account-manager-at-haleon-4436232680",
       "date": "",
       "matchedKeywords": [],
       "score": 0
