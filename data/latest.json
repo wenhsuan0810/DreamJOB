@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T05:46:12.784Z",
+  "generatedAt": "2026-10-27T05:58:40.671Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
@@ -8,53 +8,121 @@
   "jobs": [
     {
       "source": "LinkedIn",
-      "title": "eCommerce Product Specialist",
-      "company": "Supermicro",
-      "location": "Bade District, Taoyuan City, Taiwan",
+      "title": "Senior Creator & Affiliate Marketing Specialist / 資深創作者暨聯盟行銷專員",
+      "company": "Coupang",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/ecommerce-product-specialist-at-supermicro-4419595221",
-      "date": "",
-      "matchedKeywords": [
-        "product",
-        "cro"
-      ],
-      "score": 7
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Product Marketing Manager (Client Compute)",
-      "company": "MediaTek",
-      "location": "Hsinchu, Taiwan, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/product-marketing-manager-client-compute-at-mediatek-4422010551",
+      "url": "https://tw.linkedin.com/jobs/view/senior-creator-affiliate-marketing-specialist-%E8%B3%87%E6%B7%B1%E5%89%B5%E4%BD%9C%E8%80%85%E6%9A%A8%E8%81%AF%E7%9B%9F%E8%A1%8C%E9%8A%B7%E5%B0%88%E5%93%A1-at-coupang-4459788054",
       "date": "",
       "matchedKeywords": [
         "marketing",
-        "product"
+        "creator"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "Product Marketing Manager",
-      "company": "Intuitive",
+      "title": "Growth Strategy Manager / Senior Manager, Supply Growth",
+      "company": "Klook",
+      "location": "Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/growth-strategy-manager-senior-manager-supply-growth-at-klook-4403416422",
+      "date": "",
+      "matchedKeywords": [
+        "strategy",
+        "growth"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "【台灣分公司】 影音行銷專員／影音企劃 (Taiwan Branch ― Marketing PD)",
+      "company": "EpopSoft(Epop)",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/product-marketing-manager-at-intuitive-4457579742",
+      "url": "https://tw.linkedin.com/jobs/view/%E3%80%90%E5%8F%B0%E7%81%A3%E5%88%86%E5%85%AC%E5%8F%B8%E3%80%91-%E5%BD%B1%E9%9F%B3%E8%A1%8C%E9%8A%B7%E5%B0%88%E5%93%A1%EF%BC%8F%E5%BD%B1%E9%9F%B3%E4%BC%81%E5%8A%83-taiwan-branch-%E2%80%95-marketing-pd-at-epopsoft-epop-4481409978",
       "date": "",
       "matchedKeywords": [
         "marketing",
-        "product"
+        "taiwan"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "Operations Project Analyst / Operations 營運部門",
-      "company": "Shopee",
+      "title": "Associate Marketing Campaign Manager, TW",
+      "company": "Trip.com Group",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/operations-project-analyst-operations-%E7%87%9F%E9%81%8B%E9%83%A8%E9%96%80-at-shopee-4434304505",
+      "url": "https://tw.linkedin.com/jobs/view/associate-marketing-campaign-manager-tw-at-trip-com-group-4482936317",
+      "date": "",
+      "matchedKeywords": [
+        "marketing",
+        "campaign"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Binance Accelerator Program - User Growth - Lifecycle Operations Intern",
+      "company": "Binance",
+      "location": "Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/binance-accelerator-program-user-growth-lifecycle-operations-intern-at-binance-4483293059",
+      "date": "",
+      "matchedKeywords": [
+        "growth",
+        "operations"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "AI Automation & Business Operations Assistant (Taiwan)",
+      "company": "Taipei, Taipei City, Taiwan 20 hours ago",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/ai-automation-business-operations-assistant-taiwan-4483546016",
+      "date": "",
+      "matchedKeywords": [
+        "taiwan",
+        "operations"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Customer Growth Manager (CRM & Membership)",
+      "company": "Coupang",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/customer-growth-manager-crm-membership-at-coupang-4483284488",
+      "date": "",
+      "matchedKeywords": [
+        "growth"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Marketing Manager, APAC (Caltrate)",
+      "company": "Haleon",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-manager-apac-caltrate-at-haleon-4473731072",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Senior Central Operations Manager (APAC Delivery - Consumer Core Experience)",
+      "company": "Uber",
+      "location": "Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/senior-central-operations-manager-apac-delivery-consumer-core-experience-at-uber-4483593144",
       "date": "",
       "matchedKeywords": [
         "operations"
@@ -63,46 +131,11 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Binance Accelerator Program - VIP Sales Intern",
-      "company": "Binance",
-      "location": "Taiwan",
+      "title": "Advertising Producer",
+      "company": "VerdictAI.net",
+      "location": "Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/binance-accelerator-program-vip-sales-intern-at-binance-4482905739",
-      "date": "",
-      "matchedKeywords": [
-        "sales"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Specialist, Media Planning",
-      "company": "dentsu",
-      "location": "Xinyi District, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/specialist-media-planning-at-dentsu-4480434111",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Account Executive 營業專員",
-      "company": "dentsu",
-      "location": "Xinyi District, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/account-executive-%E7%87%9F%E6%A5%AD%E5%B0%88%E5%93%A1-at-dentsu-4481376624",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Head of GTMC, HKTW",
-      "company": "Sanofi",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/head-of-gtmc-hktw-at-sanofi-4457313461",
+      "url": "https://tw.linkedin.com/jobs/view/advertising-producer-at-verdictai-net-4482931914",
       "date": "",
       "matchedKeywords": [],
       "score": 0
