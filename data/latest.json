@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T06:37:22.957Z",
+  "generatedAt": "2026-10-29T06:44:56.158Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
@@ -8,26 +8,11 @@
   "jobs": [
     {
       "source": "LinkedIn",
-      "title": "Director, Paid Social & Display Marketing (Growth Marketing, Taiwan)",
-      "company": "Coupang 酷澎",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "數位行銷資深專員/專案經理 (Web Commerce - Digital Marketing)",
+      "company": "CyberLink",
+      "location": "New Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/director-paid-social-display-marketing-growth-marketing-taiwan-at-coupang-%E9%85%B7%E6%BE%8E-4463304316",
-      "date": "",
-      "matchedKeywords": [
-        "marketing",
-        "growth",
-        "taiwan"
-      ],
-      "score": 10
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Digital Marketing Senior Specialist",
-      "company": "ACT Genomics",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/digital-marketing-senior-specialist-at-act-genomics-4461038204",
+      "url": "https://tw.linkedin.com/jobs/view/%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7%E8%B3%87%E6%B7%B1%E5%B0%88%E5%93%A1-%E5%B0%88%E6%A1%88%E7%B6%93%E7%90%86-web-commerce-digital-marketing-at-cyberlink-4460249419",
       "date": "",
       "matchedKeywords": [
         "marketing",
@@ -37,50 +22,52 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Social Media Account Content Manager",
-      "company": "YOFC",
-      "location": "Taiwan",
+      "title": "【安達產險】E-Commerce & Digital Solution Supervisor",
+      "company": "Chubb",
+      "location": "Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/social-media-account-content-manager-at-yofc-4483842112",
+      "url": "https://tw.linkedin.com/jobs/view/%E3%80%90%E5%AE%89%E9%81%94%E7%94%A2%E9%9A%AA%E3%80%91e-commerce-digital-solution-supervisor-at-chubb-4408850076",
       "date": "",
       "matchedKeywords": [
-        "content"
+        "e-commerce",
+        "digital"
       ],
-      "score": 3
+      "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "Principal, B2B Affiliate Account Management",
-      "company": "Coupang",
+      "title": "Sr. Growth Product Manager",
+      "company": "CyberLink",
+      "location": "New Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/sr-growth-product-manager-at-cyberlink-4471597157",
+      "date": "",
+      "matchedKeywords": [
+        "growth",
+        "product"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Senior Marketing Specialist（B2B Lead Generation）",
+      "company": "TutorABC",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/principal-b2b-affiliate-account-management-at-coupang-4424366150",
+      "url": "https://tw.linkedin.com/jobs/view/senior-marketing-specialist%EF%BC%88b2b-lead-generation%EF%BC%89-at-tutorabc-4482294493",
       "date": "",
       "matchedKeywords": [
-        "management"
+        "marketing"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "LINE官方自媒營運資深專員",
-      "company": "Nangang District, Taipei City, Taiwan Be an early applicant 15 hours ago",
-      "location": "Nangang District, Taipei City, Taiwan",
+      "title": "Global Digital Project Specialist 全球數位專案資深專員_品牌暨企業信息處(台北)",
+      "company": "Delta Electronics",
+      "location": "Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/line%E5%AE%98%E6%96%B9%E8%87%AA%E5%AA%92%E7%87%9F%E9%81%8B%E8%B3%87%E6%B7%B1%E5%B0%88%E5%93%A1-4483629414",
-      "date": "",
-      "matchedKeywords": [
-        "taiwan"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Digital Specialist",
-      "company": "甲騎士ACEKNIGHT.games",
-      "location": "Keelung City, Taiwan, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/digital-specialist-at-%E7%94%B2%E9%A8%8E%E5%A3%ABaceknight-games-4483668702",
+      "url": "https://tw.linkedin.com/jobs/view/global-digital-project-specialist-%E5%85%A8%E7%90%83%E6%95%B8%E4%BD%8D%E5%B0%88%E6%A1%88%E8%B3%87%E6%B7%B1%E5%B0%88%E5%93%A1-%E5%93%81%E7%89%8C%E6%9A%A8%E4%BC%81%E6%A5%AD%E4%BF%A1%E6%81%AF%E8%99%95-%E5%8F%B0%E5%8C%97-at-delta-electronics-4463260184",
       "date": "",
       "matchedKeywords": [
         "digital"
@@ -89,48 +76,59 @@
     },
     {
       "source": "LinkedIn",
-      "title": "資深網紅行銷專員",
-      "company": "Nangang District, Taipei City, Taiwan Be an early applicant 18 hours ago",
-      "location": "Nangang District, Taipei City, Taiwan",
+      "title": "Sr. Marketing Specialist, Open Channel (1 year contract)",
+      "company": "Shiseido",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E8%B3%87%E6%B7%B1%E7%B6%B2%E7%B4%85%E8%A1%8C%E9%8A%B7%E5%B0%88%E5%93%A1-4483615977",
+      "url": "https://tw.linkedin.com/jobs/view/sr-marketing-specialist-open-channel-1-year-contract-at-shiseido-4484426959",
       "date": "",
       "matchedKeywords": [
-        "taiwan"
+        "marketing"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "Senior Account Executive",
-      "company": "Ogilvy Taiwan",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "Marketing & Partnerships Executive",
+      "company": "Crimson Education",
+      "location": "Xinyi District, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-account-executive-at-ogilvy-taiwan-4484409490",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-partnerships-executive-at-crimson-education-4474968021",
       "date": "",
       "matchedKeywords": [
-        "taiwan"
+        "marketing"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "Specialist, Media Planning 媒體企劃專員",
-      "company": "National Cheng-Chi University Career Development Center",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "SA22209 Global Social Media Specialist-Consumer PC （總部社群行銷專員）",
+      "company": "ASUS",
+      "location": "Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/specialist-media-planning-%E5%AA%92%E9%AB%94%E4%BC%81%E5%8A%83%E5%B0%88%E5%93%A1-at-national-cheng-chi-university-career-development-center-4483620870",
+      "url": "https://tw.linkedin.com/jobs/view/sa22209-global-social-media-specialist-consumer-pc-%EF%BC%88%E7%B8%BD%E9%83%A8%E7%A4%BE%E7%BE%A4%E8%A1%8C%E9%8A%B7%E5%B0%88%E5%93%A1%EF%BC%89-at-asus-4444545543",
       "date": "",
       "matchedKeywords": [],
       "score": 0
     },
     {
       "source": "LinkedIn",
-      "title": "E-health & Patient Ecosystem Manager I-Taipei",
-      "company": "Novo Nordisk",
+      "title": "客戶經營暨數位通路經理",
+      "company": "PCA Life Assurance Co Ltd. (保誠人壽)",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/e-health-patient-ecosystem-manager-i-taipei-at-novo-nordisk-4465200925",
+      "url": "https://tw.linkedin.com/jobs/view/%E5%AE%A2%E6%88%B6%E7%B6%93%E7%87%9F%E6%9A%A8%E6%95%B8%E4%BD%8D%E9%80%9A%E8%B7%AF%E7%B6%93%E7%90%86-at-pca-life-assurance-co-ltd-%E4%BF%9D%E8%AA%A0%E4%BA%BA%E5%A3%BD-4484797228",
+      "date": "",
+      "matchedKeywords": [],
+      "score": 0
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Manager Acquisition",
+      "company": "Philip Morris International",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/manager-acquisition-at-philip-morris-international-4476571569",
       "date": "",
       "matchedKeywords": [],
       "score": 0
