@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T07:33:34.622Z",
+  "generatedAt": "2026-11-04T07:14:25.366Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
@@ -8,11 +8,53 @@
   "jobs": [
     {
       "source": "LinkedIn",
-      "title": "Senior Manager, Growth",
-      "company": "foodpanda",
-      "location": "Xinyi District, Taipei City, Taiwan",
+      "title": "Marketing Manager, Taiwan",
+      "company": "SharkNinja APAC",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-manager-growth-at-foodpanda-4485457695",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-manager-taiwan-at-sharkninja-apac-4420149951",
+      "date": "",
+      "matchedKeywords": [
+        "marketing",
+        "taiwan"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "UBER: Operations Specialist(Driver Growth)約聘",
+      "company": "Adecco",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/uber-operations-specialist-driver-growth-%E7%B4%84%E8%81%98-at-adecco-4487208335",
+      "date": "",
+      "matchedKeywords": [
+        "growth",
+        "operations"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Growth Manager (Taiwan)",
+      "company": "OKX",
+      "location": "Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/growth-manager-taiwan-at-okx-4468550204",
+      "date": "",
+      "matchedKeywords": [
+        "growth",
+        "taiwan"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Senior Manager, Customer Growth",
+      "company": "Coupang",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/senior-manager-customer-growth-at-coupang-4486822646",
       "date": "",
       "matchedKeywords": [
         "growth"
@@ -21,11 +63,11 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Integrated Marketing Assistant Manager (Google)",
-      "company": "TutorABC",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "Marketing Specialist",
+      "company": "Adecco",
+      "location": "New Taipei City, New Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/integrated-marketing-assistant-manager-google-at-tutorabc-4484328367",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-specialist-at-adecco-4486898314",
       "date": "",
       "matchedKeywords": [
         "marketing"
@@ -34,24 +76,11 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Brand Supervisor",
-      "company": "BettingJobs",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "Social Marketing Manager (社群行銷主任)",
+      "company": "ASUS",
+      "location": "Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/brand-supervisor-at-bettingjobs-4484356046",
-      "date": "",
-      "matchedKeywords": [
-        "brand"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Marketing Manager, APAC (Caltrate)",
-      "company": "Haleon",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/marketing-manager-apac-caltrate-at-haleon-4473731072",
+      "url": "https://tw.linkedin.com/jobs/view/social-marketing-manager-%E7%A4%BE%E7%BE%A4%E8%A1%8C%E9%8A%B7%E4%B8%BB%E4%BB%BB-at-asus-4353533389",
       "date": "",
       "matchedKeywords": [
         "marketing"
@@ -60,27 +89,27 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Marketing & Communications Specialist",
-      "company": "Alfa Laval",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "Sr. Talent Management Specialist",
+      "company": "Pou Chen Group",
+      "location": "Taichung City, Taichung City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/marketing-communications-specialist-at-alfa-laval-4478395327",
+      "url": "https://tw.linkedin.com/jobs/view/sr-talent-management-specialist-at-pou-chen-group-4486310675",
       "date": "",
       "matchedKeywords": [
-        "marketing"
+        "management"
       ],
       "score": 3
     },
     {
       "source": "LinkedIn",
-      "title": "Digital Intern (6-month internship)",
-      "company": "Haleon",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "Marketing Manager",
+      "company": "ZeroLogix",
+      "location": "Neihu District, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/digital-intern-6-month-internship-at-haleon-4484024174",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-manager-at-zerologix-4486346260",
       "date": "",
       "matchedKeywords": [
-        "digital"
+        "marketing"
       ],
       "score": 3
     },
@@ -99,35 +128,11 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Growth Data Analyst",
-      "company": "Crypto.com",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "電商業務主管",
+      "company": "騰勢股份有限公司",
+      "location": "Xinzhuang District, New Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/growth-data-analyst-at-crypto-com-4484357112",
-      "date": "",
-      "matchedKeywords": [
-        "growth"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Social Media Video Editor",
-      "company": "Wonderful Entertainment Asia",
-      "location": "Taipei City, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/social-media-video-editor-at-wonderful-entertainment-asia-4485732334",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Graphic Designer & Social Media Coordinator",
-      "company": "Law Offices of Sabrina Li, P.C.",
-      "location": "Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/graphic-designer-social-media-coordinator-at-law-offices-of-sabrina-li-p-c-4486436338",
+      "url": "https://tw.linkedin.com/jobs/view/%E9%9B%BB%E5%95%86%E6%A5%AD%E5%8B%99%E4%B8%BB%E7%AE%A1-at-%E9%A8%B0%E5%8B%A2%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-4486053596",
       "date": "",
       "matchedKeywords": [],
       "score": 0
