@@ -1,133 +1,159 @@
 {
-  "generatedAt": "2026-11-05T07:42:29.779Z",
+  "generatedAt": "2026-11-06T07:39:25.482Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
-    "Indeed",
-    "104"
+    "Indeed"
   ],
   "jobs": [
     {
+      "source": "104",
+      "title": "Marketing & EC Manager - Fashion Industry",
+      "company": "台灣米高蒲志國際股份有限公司",
+      "location": "台北市信義區",
+      "desc": ", influencers, opinion leaders, and strategic partners. • Lead and optimize digital commerce performance across owned and",
+      "url": "https://www.104.com.tw/job/97dkn",
+      "date": "20261106",
+      "matchedKeywords": [
+        "marketing",
+        "fashion",
+        "cro",
+        "digital"
+      ],
+      "score": 14
+    },
+    {
+      "source": "104",
+      "title": "行銷經理 Marketing Manager (Taiwan and The USA)",
+      "company": "法麗_派脆客有限公司",
+      "location": "新北市中和區",
+      "desc": "mentor cross-border marketing and e-commerce teams, and optimize operational workflows to maximize efficiency and business",
+      "url": "https://www.104.com.tw/job/94xhk",
+      "date": "20261106",
+      "matchedKeywords": [
+        "e-commerce",
+        "marketing",
+        "taiwan",
+        "cro"
+      ],
+      "score": 14
+    },
+    {
+      "source": "104",
+      "title": "Sr. Product Marketing Manager (Community & Growth Focus)",
+      "company": "反著來股份有限公司",
+      "location": "台北市大安區",
+      "desc": "showcase. [Role Overview] As a Senior Product Marketing Manager, you will sit at the intersection of Product, Sales, and our",
+      "url": "https://www.104.com.tw/job/95i6o",
+      "date": "20261106",
+      "matchedKeywords": [
+        "marketing",
+        "growth",
+        "product",
+        "sales"
+      ],
+      "score": 14
+    },
+    {
+      "source": "104",
+      "title": "Marketing Manager - Luxury industry",
+      "company": "台灣米高蒲志國際股份有限公司",
+      "location": "台北市信義區",
+      "desc": "global luxury culture. They are now looking for a Marketing Manager to shape their marketing strategy in Taiwan. Job",
+      "url": "https://www.104.com.tw/job/97dke",
+      "date": "20261106",
+      "matchedKeywords": [
+        "marketing",
+        "strategy",
+        "taiwan"
+      ],
+      "score": 10
+    },
+    {
+      "source": "104",
+      "title": "Marketing & Partnerships Executive",
+      "company": "紅序國際教育有限公司",
+      "location": "台北市信義區",
+      "desc": "effective local marketing and business development through content creation and localization, digital targeting, partnership",
+      "url": "https://www.104.com.tw/job/96jzz",
+      "date": "20261106",
+      "matchedKeywords": [
+        "content",
+        "marketing",
+        "digital"
+      ],
+      "score": 10
+    },
+    {
+      "source": "104",
+      "title": "Product Marketing Manager",
+      "company": "美商達爾國際有限公司台灣分公司",
+      "location": "新北市新店區",
+      "desc": "behavior, growth customer activity, etc Qualifications: a. 2 years /equivalent of Marketing or FAE related field experience b.",
+      "url": "https://www.104.com.tw/job/90lp8",
+      "date": "20261106",
+      "matchedKeywords": [
+        "marketing",
+        "growth",
+        "product"
+      ],
+      "score": 10
+    },
+    {
+      "source": "104",
+      "title": "【法商DPD】業務暨行銷專員  Sales & Marketing Specialist",
+      "company": "宇迅國際有限公司",
+      "location": "台北市內湖區",
+      "desc": "【關於我們】 宇迅國際有限公司（Linex Taiwan）專注於國際物流、跨境運輸及物流整合服務，提供企業客戶多元的國際物流解決方案，並透過國際合作網絡，持續拓展跨境物流服務及市場發展。 我們期待具備良好溝通能力、細心且樂於接受不同挑戰的夥伴加入，協助團隊推動業務、行銷及營運相關工作。 【工作內容】 本職位為業務與行銷整合型支援角色，工作內容涵蓋客戶專案協調、行銷活動執行、業務行政及系統流程支援。 一、行銷及品牌支援 • 協助 LinkedIn 等社群平台內容規劃、文章撰寫及發布。 • 協助公司簡報、業務提案及行銷相關素材製作與更新。 • 支援公司內部活動及相關行銷活動籌備。 二、業務行政及數據支援 • 協助業務團隊整理客戶資料、歷史數據及潛在客戶名單。 • 製作及整理業務所需報表、簡報與相關文件。 • 協助合約、帳單、文件用印及寄送等行政作業。 三、客戶專案及營運協調 • 協助客戶專案導入、出貨流程安排及進度追蹤。 • 協調業務、客服及相關部門，確保客戶專案順利執行。 • 協助處理客戶需求、專案異常及相關溝通事項。 四、系統及流程管理 • 協助內部作業流程及 SOP 文件建立、更新與維護。 • 配合業務需求，協調物流系統設定、費率建置及帳號申請。 • 協助 HUBEX、COMPASS 等系統操作、異常回報及功能優化需求溝通。 五、跨部門營運支援 • 協助 UPS 對帳及異常帳務資料確認。 • 維護客戶公告及相關營運資訊。 • 支援跨部門臨時性業務需求及其他主管交辦事項。",
+      "url": "https://www.104.com.tw/job/97d0f",
+      "date": "20261106",
+      "matchedKeywords": [
+        "marketing",
+        "taiwan",
+        "sales"
+      ],
+      "score": 10
+    },
+    {
       "source": "LinkedIn",
-      "title": "Global Product Marketing (Commercial PC)",
+      "title": "Regional E-Commerce Growth Manager",
       "company": "ASUS",
       "location": "Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/global-product-marketing-commercial-pc-at-asus-4458888493",
+      "url": "https://tw.linkedin.com/jobs/view/regional-e-commerce-growth-manager-at-asus-4447327415",
       "date": "",
       "matchedKeywords": [
-        "marketing",
-        "product"
+        "e-commerce",
+        "growth"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "(Senior) Specialist, Optimization",
-      "company": "dentsu",
-      "location": "Xinyi District, Taipei City, Taiwan",
+      "title": "Marketing & EC Manager - Fashion Industry",
+      "company": "Michael Page",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-specialist-optimization-at-dentsu-4486373630",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-ec-manager-fashion-industry-at-michael-page-4487742404",
       "date": "",
       "matchedKeywords": [
-        "optimization"
+        "marketing",
+        "fashion"
       ],
-      "score": 3
+      "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "Senior Marketing Associate - Retention 資深會員經營專員",
-      "company": "Lalamove",
+      "title": "Digital Marketing Lead",
+      "company": "XTERRA",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-marketing-associate-retention-%E8%B3%87%E6%B7%B1%E6%9C%83%E5%93%A1%E7%B6%93%E7%87%9F%E5%B0%88%E5%93%A1-at-lalamove-4470280621",
+      "url": "https://tw.linkedin.com/jobs/view/digital-marketing-lead-at-xterra-4488104992",
       "date": "",
       "matchedKeywords": [
-        "marketing"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Digital Advertising Data Analyst",
-      "company": "Appier",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/digital-advertising-data-analyst-at-appier-4451511307",
-      "date": "",
-      "matchedKeywords": [
+        "marketing",
         "digital"
       ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Senior APAC Marketing Manager",
-      "company": "GMI Cloud",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/senior-apac-marketing-manager-at-gmi-cloud-4455288207",
-      "date": "",
-      "matchedKeywords": [
-        "marketing"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Marketing",
-      "company": "Amphenol LTW Technology Co., LTD.",
-      "location": "New Taipei City, New Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/marketing-at-amphenol-ltw-technology-co-ltd-4486566164",
-      "date": "",
-      "matchedKeywords": [
-        "marketing"
-      ],
-      "score": 3
-    },
-    {
-      "source": "LinkedIn",
-      "title": "客戶經營暨數位通路經理",
-      "company": "PCA Life Assurance Co Ltd. (保誠人壽)",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E5%AE%A2%E6%88%B6%E7%B6%93%E7%87%9F%E6%9A%A8%E6%95%B8%E4%BD%8D%E9%80%9A%E8%B7%AF%E7%B6%93%E7%90%86-at-pca-life-assurance-co-ltd-%E4%BF%9D%E8%AA%A0%E4%BA%BA%E5%A3%BD-4484797228",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Media Planning Senior Associate",
-      "company": "WPP Media",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/media-planning-senior-associate-at-wpp-media-4476093515",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Video Producer",
-      "company": "Coupang",
-      "location": "Taipei–Keelung Metropolitan area",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/video-producer-at-coupang-4486575123",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Sr. Manager, Pricing Excellence",
-      "company": "Coupang",
-      "location": "Taipei–Keelung Metropolitan area",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/sr-manager-pricing-excellence-at-coupang-4486573197",
-      "date": "",
-      "matchedKeywords": [],
-      "score": 0
+      "score": 7
     }
   ]
 }
