@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T06:49:30.176Z",
+  "generatedAt": "2026-11-08T06:55:18.198Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
@@ -8,96 +8,52 @@
   "jobs": [
     {
       "source": "LinkedIn",
-      "title": "SEO & AI Digital Marketing Expert",
-      "company": "WhiteLake Technology Solution",
-      "location": "Ren'ai District, Taiwan, Taiwan",
+      "title": "Product Manager - Community Strategy (APAC Remote)",
+      "company": "Binance",
+      "location": "Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/seo-ai-digital-marketing-expert-at-whitelake-technology-solution-4487352585",
-      "date": "",
-      "matchedKeywords": [
-        "marketing",
-        "seo",
-        "digital"
-      ],
-      "score": 10
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Digital Marketing Lead",
-      "company": "XTERRA",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/digital-marketing-lead-at-xterra-4488104992",
-      "date": "",
-      "matchedKeywords": [
-        "marketing",
-        "digital"
-      ],
-      "score": 7
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Digital Marketing Supervisor",
-      "company": "Shiseido",
-      "location": "Taipei, Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/digital-marketing-supervisor-at-shiseido-4471862498",
-      "date": "",
-      "matchedKeywords": [
-        "marketing",
-        "digital"
-      ],
-      "score": 7
-    },
-    {
-      "source": "LinkedIn",
-      "title": "【TW Life】Digital Marketing Supervisor, Direct Marketing Digital Business Dept.",
-      "company": "Chubb",
-      "location": "Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E3%80%90tw-life%E3%80%91digital-marketing-supervisor-direct-marketing-digital-business-dept-at-chubb-4462773133",
-      "date": "",
-      "matchedKeywords": [
-        "marketing",
-        "digital"
-      ],
-      "score": 7
-    },
-    {
-      "source": "LinkedIn",
-      "title": "Strategy & Operations Manager (Restaurant Direct)",
-      "company": "Uber",
-      "location": "Taipei City, Taiwan",
-      "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/strategy-operations-manager-restaurant-direct-at-uber-4480142239",
+      "url": "https://tw.linkedin.com/jobs/view/product-manager-community-strategy-apac-remote-at-binance-4480503425",
       "date": "",
       "matchedKeywords": [
         "strategy",
-        "operations"
+        "product"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "Global Digital & Influencer Marketing Intern",
-      "company": "ASUS",
-      "location": "Taipei City, Taiwan",
+      "title": "Assistant Manager, Product Management (CHC&OTC)",
+      "company": "DKSH",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/global-digital-influencer-marketing-intern-at-asus-4108655789",
+      "url": "https://tw.linkedin.com/jobs/view/assistant-manager-product-management-chc-otc-at-dksh-4477395603",
       "date": "",
       "matchedKeywords": [
-        "marketing",
-        "digital"
+        "management",
+        "product"
       ],
       "score": 7
     },
     {
       "source": "LinkedIn",
-      "title": "電商行銷專員(擴編)",
-      "company": "Taipei City, Taiwan Be an early applicant 22 hours ago",
-      "location": "Taipei City, Taiwan",
+      "title": "Senior Associate, SEO",
+      "company": "Money101",
+      "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E9%9B%BB%E5%95%86%E8%A1%8C%E9%8A%B7%E5%B0%88%E5%93%A1-%E6%93%B4%E7%B7%A8-4486975160",
+      "url": "https://tw.linkedin.com/jobs/view/senior-associate-seo-at-money101-4479287128",
+      "date": "",
+      "matchedKeywords": [
+        "seo"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Account Manager, Advertising Solution - Taiwan",
+      "company": "Appier",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/account-manager-advertising-solution-taiwan-at-appier-4360790817",
       "date": "",
       "matchedKeywords": [
         "taiwan"
@@ -106,11 +62,11 @@
     },
     {
       "source": "LinkedIn",
-      "title": "Marketing Manager",
-      "company": "Razer",
+      "title": "Marketing Manager, APAC Operating Unit, Caltrate",
+      "company": "Haleon",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/marketing-manager-at-razer-4488124526",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-manager-apac-operating-unit-caltrate-at-haleon-4461966550",
       "date": "",
       "matchedKeywords": [
         "marketing"
@@ -119,22 +75,59 @@
     },
     {
       "source": "LinkedIn",
-      "title": "日商社群行銷企劃",
-      "company": "Adecco",
+      "title": "Marketing Manager",
+      "company": "Samsonite",
+      "location": "Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-manager-at-samsonite-4477751759",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Mobile Gaming & GPU Technology Marketing",
+      "company": "MediaTek",
+      "location": "Hsinchu, Taiwan, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/mobile-gaming-gpu-technology-marketing-at-mediatek-4405140909",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Key Account Manager (Online Affiliates)",
+      "company": "ShopBack",
       "location": "Taipei, Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/%E6%97%A5%E5%95%86%E7%A4%BE%E7%BE%A4%E8%A1%8C%E9%8A%B7%E4%BC%81%E5%8A%83-at-adecco-4488126809",
+      "url": "https://tw.linkedin.com/jobs/view/key-account-manager-online-affiliates-at-shopback-4432790263",
       "date": "",
       "matchedKeywords": [],
       "score": 0
     },
     {
       "source": "LinkedIn",
-      "title": "Apps Solutions Expert, gTech Ads Solutions (Fixed-Term Contract) (English, Korean)",
-      "company": "Google",
-      "location": "Taipei, Taipei City, Taiwan",
+      "title": "【Vesta Association】 數位行銷實習生",
+      "company": "Tomofun | Furbo Pet Camera",
+      "location": "Taipei City, Taiwan",
       "desc": "",
-      "url": "https://tw.linkedin.com/jobs/view/apps-solutions-expert-gtech-ads-solutions-fixed-term-contract-english-korean-at-google-4478862637",
+      "url": "https://tw.linkedin.com/jobs/view/%E3%80%90vesta-association%E3%80%91-%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7%E5%AF%A6%E7%BF%92%E7%94%9F-at-tomofun-furbo-pet-camera-4454529853",
+      "date": "",
+      "matchedKeywords": [],
+      "score": 0
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Creative Designer",
+      "company": "MediaTek",
+      "location": "Hsinchu, Taiwan, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/creative-designer-at-mediatek-4432363111",
       "date": "",
       "matchedKeywords": [],
       "score": 0
