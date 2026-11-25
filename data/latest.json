@@ -1,10 +1,140 @@
 {
-  "generatedAt": "2026-11-24T10:40:39.027Z",
+  "generatedAt": "2026-11-25T09:31:55.243Z",
   "keyword": "E-commerce, Digital Marketing",
   "failures": [
     "Indeed",
-    "104",
-    "LinkedIn"
+    "104"
   ],
-  "jobs": []
+  "jobs": [
+    {
+      "source": "LinkedIn",
+      "title": "Creator & Affiliate Marketing Manager / 創作者暨聯盟行銷經理",
+      "company": "Coupang",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/creator-affiliate-marketing-manager-%E5%89%B5%E4%BD%9C%E8%80%85%E6%9A%A8%E8%81%AF%E7%9B%9F%E8%A1%8C%E9%8A%B7%E7%B6%93%E7%90%86-at-coupang-4459788054",
+      "date": "",
+      "matchedKeywords": [
+        "marketing",
+        "creator"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Marketing Manager, Taiwan",
+      "company": "SharkNinja APAC",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-manager-taiwan-at-sharkninja-apac-4420149951",
+      "date": "",
+      "matchedKeywords": [
+        "marketing",
+        "taiwan"
+      ],
+      "score": 7
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Sr. Digital Communication Executive",
+      "company": "CHANEL",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/sr-digital-communication-executive-at-chanel-4494387514",
+      "date": "",
+      "matchedKeywords": [
+        "digital"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Marketplace Specialist - 電商平台營運專員",
+      "company": "Plaud",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/marketplace-specialist-%E9%9B%BB%E5%95%86%E5%B9%B3%E5%8F%B0%E7%87%9F%E9%81%8B%E5%B0%88%E5%93%A1-at-plaud-4494340448",
+      "date": "",
+      "matchedKeywords": [
+        "marketplace"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "(Senior) Marketing Manager",
+      "company": "PicCollage",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/senior-marketing-manager-at-piccollage-4494779070",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Marketing Manager",
+      "company": "Razer",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-manager-at-razer-4488124526",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Digital Intern",
+      "company": "Haleon",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/digital-intern-at-haleon-4494364872",
+      "date": "",
+      "matchedKeywords": [
+        "digital"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Marketing & Communications Specialist",
+      "company": "Alfa Laval",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/marketing-communications-specialist-at-alfa-laval-4478395327",
+      "date": "",
+      "matchedKeywords": [
+        "marketing"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "Brand Manager",
+      "company": "Haleon",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/brand-manager-at-haleon-4494792236",
+      "date": "",
+      "matchedKeywords": [
+        "brand"
+      ],
+      "score": 3
+    },
+    {
+      "source": "LinkedIn",
+      "title": "創意內容經理",
+      "company": "Adecco",
+      "location": "Taipei, Taipei City, Taiwan",
+      "desc": "",
+      "url": "https://tw.linkedin.com/jobs/view/%E5%89%B5%E6%84%8F%E5%85%A7%E5%AE%B9%E7%B6%93%E7%90%86-at-adecco-4494482030",
+      "date": "",
+      "matchedKeywords": [],
+      "score": 0
+    }
+  ]
 }
